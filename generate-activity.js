@@ -5,10 +5,10 @@ import { execSync } from "child_process";
 const README_FILE = "README.md";
 const ORIGINAL_README = fs.readFileSync(README_FILE, "utf8");
 
-// Configuration - 365 days of activity
-const DAYS = 365;
-const MIN_COMMITS_PER_DAY = 1;
-const MAX_COMMITS_PER_DAY = 3;
+// Configuration - EXTREME activity: 730 days (2 years!)
+const DAYS = 730;
+const MIN_COMMITS_PER_DAY = 2;
+const MAX_COMMITS_PER_DAY = 5;
 
 const isWeekend = (date) => {
   const day = date.day();
@@ -19,41 +19,35 @@ const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 
 const modifyReadme = () => {
   const lines = ORIGINAL_README.split("\n");
-  // Just touch the file with a timestamp comment at random position
-  const comment = `<!-- Last updated: ${moment().format()} -->`;
-
-  if (Math.random() > 0.5) {
-    // Add timestamp somewhere
-    const pos = Math.floor(Math.random() * (lines.length - 1)) + 1;
+  const comment = `<!-- Updated: ${moment().format()} -->`;
+  if (Math.random() > 0.3) {
+    const pos = Math.floor(Math.random() * Math.max(1, lines.length - 1));
     lines.splice(pos, 0, comment);
   }
-
   fs.writeFileSync(README_FILE, lines.join("\n"));
 };
 
 const makeCommits = async () => {
-  console.log("📊 Generating 1 year of contribution activity...\n");
-
+  console.log(`🔥 Generating EXTREME activity: ${DAYS} days of commits...\n`);
   let totalCommits = 0;
 
   for (let day = DAYS; day >= 1; day--) {
     const date = moment().subtract(day, "d");
     const weekend = isWeekend(date);
 
-    // Skip some days randomly (vacation/holiday)
-    if (Math.random() < 0.05) {
-      console.log(`○ Day ${day} (${date.format("YYYY-MM-DD")}): skipped`);
+    // Skip 3% of days randomly (vacations)
+    if (Math.random() < 0.03) {
+      if (day % 100 === 0) console.log(`○ Day ${day}: vacation`);
       continue;
     }
 
-    // Weekdays: 1-3 commits, Weekends: 0-1 commits
+    // Weekdays: 2-5 commits, Weekends: 1-2 commits
     const numCommits = weekend
-      ? Math.random() < 0.3 ? 1 : 0
-      : Math.floor(Math.random() * MAX_COMMITS_PER_DAY) + MIN_COMMITS_PER_DAY;
+      ? Math.floor(Math.random() * 2) + 1
+      : Math.floor(Math.random() * (MAX_COMMITS_PER_DAY - MIN_COMMITS_PER_DAY + 1)) + MIN_COMMITS_PER_DAY;
 
     for (let commit = 0; commit < numCommits; commit++) {
-      // Vary hour between 9am-8pm
-      const hour = Math.floor(Math.random() * 11) + 9;
+      const hour = Math.floor(Math.random() * 11) + 8; // 8am-7pm
       const minute = Math.floor(Math.random() * 60);
       const commitDate = date.clone().hour(hour).minute(minute);
 
@@ -61,21 +55,18 @@ const makeCommits = async () => {
 
       try {
         execSync("git add .", { stdio: "ignore" });
-        execSync(`git commit -m "Update badges showcase - ${commitDate.format('YYYY-MM-DD HH:mm')}" --date="${commitDate.format()}"`, { stdio: "ignore" });
+        execSync(`git commit -m "Update ESP32 firmware - ${commitDate.format('YYYY-MM-DD HH:mm')}" --date="${commitDate.format()}"`, { stdio: "ignore" });
         totalCommits++;
-      } catch (e) {
-        // Ignore errors
-      }
+      } catch (e) {}
 
-      await sleep(5);
+      await sleep(3);
     }
 
     const type = weekend ? "(weekend)" : "(weekday)";
-    console.log(`✓ Day ${day} (${date.format("YYYY-MM-DD")}) ${type}: ${numCommits} commits`);
+    if (day % 50 === 0) console.log(`📊 Day ${day}/${DAYS}: ${numCommits} commits ${type}`);
   }
 
-  console.log(`\n🎉 Generated ${totalCommits} commits over ${DAYS} days!`);
-  console.log("Run 'git push' to push all commits to remote.");
+  console.log(`\n🔥 Generated ${totalCommits} commits over ${DAYS} days! Run 'git push' to push.`);
 };
 
 makeCommits().catch(console.error);
