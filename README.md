@@ -145,6 +145,7 @@ ESP-Pocket-Puter/
 |-----------|--------------|
 | <img src="https://i.imgur.com/menu.png" width="200"> | <img src="https://i.imgur.com/wifi.png" width="200"> |
 
+<!-- Updated: 2026-09-12T10:30:33+07:00 -->
 | IR Remote | RF Scanner |
 |-----------|-----------|
 | <img src="https://i.imgur.com/ir.png" width="200"> | <img src="https://i.imgur.com/rf.png" width="200"> |
