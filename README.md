@@ -174,6 +174,7 @@ Contributions welcome! Please follow these style rules:
 
 ---
 
+<!-- Updated: 2026-09-12T10:30:33+07:00 -->
 ## 📜 License
 
 MIT License — see [LICENSE](LICENSE) for details.
@@ -193,5 +194,4 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 **Made with 💚 by [Nazky](https://github.com/444Nazky)**
 
-<!-- Updated: 2026-09-12T10:30:33+07:00 -->
 </div>
