@@ -68,7 +68,6 @@
 | ESP32-C3 Super Mini | Main controller |
 | SSD1306 128x64 OLED | Display (I2C) |
 | IR Transmitter | Send infrared signals |
-<!-- Updated: 2026-09-12T10:30:33+07:00 -->
 | CC1101 RF Module | 433MHz+ RF support |
 | Passive Buzzer | Audio output |
 | 3x Buttons | Input (Up/Ok/Down) |
@@ -131,6 +130,7 @@ ESP-Pocket-Puter/
 │   ├── rf/              # RF module (CC1101)
 │   └── music/            # Music player
 ├── platformio.ini       # PlatformIO config
+<!-- Updated: 2026-09-12T10:30:33+07:00 -->
 ├── LICENSE
 └── README.md
 ```
