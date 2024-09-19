@@ -55,6 +55,7 @@
 
 ### 🎵 Music Module
 - 🔊 Beep Test
+<!-- Updated: 2026-09-12T10:30:34+07:00 -->
 - 🎵 Built-in Songs (DOOM, Nokia, Tetris)
 - 🎹 Mini 3-Key Piano
 
@@ -104,7 +105,6 @@ cd ESP-Pocket-Puter
 # Edit src/global.hpp if using different pins
 
 # 4. Connect ESP32 via USB and flash!
-<!-- Updated: 2026-09-12T10:30:34+07:00 -->
 pio run --target upload
 ```
 
