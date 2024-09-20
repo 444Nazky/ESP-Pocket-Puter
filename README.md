@@ -38,7 +38,6 @@
 | ⚡ FastPair Spam | Annoy friends with FastPair popups |
 | 🍎 Sour Apple | iPhone proximity spam |
 
-<!-- Updated: 2026-09-12T10:30:34+07:00 -->
 ### 📺 Infrared Module
 | Feature | Description |
 |---------|-------------|
@@ -137,6 +136,7 @@ ESP-Pocket-Puter/
 
 ---
 
+<!-- Updated: 2026-09-12T10:30:34+07:00 -->
 ## 🎨 Screenshots
 
 <details>
