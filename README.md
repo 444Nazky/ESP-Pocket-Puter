@@ -1,5 +1,6 @@
 # 🎮 ESP Pocket Puter
 
+<!-- Updated: 2026-09-12T10:30:34+07:00 -->
 <div align="center">
 
 ![ESP32](https://img.shields.io/badge/ESP32-C3-FF6B35?style=for-the-badge&logo=espressif&logoColor=white)
@@ -102,7 +103,6 @@ cd ESP-Pocket-Puter
 
 # 3. Customize pinout (optional)
 # Edit src/global.hpp if using different pins
-<!-- Updated: 2026-09-12T10:30:34+07:00 -->
 
 # 4. Connect ESP32 via USB and flash!
 pio run --target upload
