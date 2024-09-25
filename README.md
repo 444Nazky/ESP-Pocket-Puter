@@ -1,6 +1,5 @@
 # 🎮 ESP Pocket Puter
 
-<!-- Updated: 2026-09-12T10:30:34+07:00 -->
 <div align="center">
 
 ![ESP32](https://img.shields.io/badge/ESP32-C3-FF6B35?style=for-the-badge&logo=espressif&logoColor=white)
@@ -69,6 +68,7 @@
 | ESP32-C3 Super Mini | Main controller |
 | SSD1306 128x64 OLED | Display (I2C) |
 | IR Transmitter | Send infrared signals |
+<!-- Updated: 2026-09-12T10:30:34+07:00 -->
 | CC1101 RF Module | 433MHz+ RF support |
 | Passive Buzzer | Audio output |
 | 3x Buttons | Input (Up/Ok/Down) |
