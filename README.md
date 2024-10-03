@@ -118,6 +118,7 @@ pio run --target upload
 
 ## 📁 Project Structure
 
+<!-- Updated: 2026-09-12T10:30:35+07:00 -->
 ```
 ESP-Pocket-Puter/
 ├── src/
@@ -181,7 +182,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 ---
 
 ## 🙏 Credits
-<!-- Updated: 2026-09-12T10:30:35+07:00 -->
 
 - [DevEclipse](https://github.com/DevEclipse1) — Original project inspiration
 - [Flipper Zero](https://flipperzero.one/) — Feature inspiration
