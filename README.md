@@ -111,7 +111,6 @@ pio run --target upload
 1. Power on the device
 2. Navigate the menu with Up/Down buttons
 3. Press Ok to select
-<!-- Updated: 2026-09-12T10:30:34+07:00 -->
 4. Long-press Ok for submenus
 
 ---
@@ -140,6 +139,7 @@ ESP-Pocket-Puter/
 ## 🎨 Screenshots
 
 <details>
+<!-- Updated: 2026-09-12T10:30:34+07:00 -->
 <summary>📸 Click to view gallery</summary>
 
 | Main Menu | WiFi Scanner |
