@@ -91,6 +91,7 @@
 - ESP32-C3 board (or any ESP32 variant)
 
 ### Installation
+<!-- Updated: 2026-09-12T10:30:35+07:00 -->
 
 ```bash
 # 1. Clone the repository
@@ -173,7 +174,6 @@ Contributions welcome! Please follow these style rules:
 > **Use responsibly** and only on devices you own.
 
 ---
-<!-- Updated: 2026-09-12T10:30:35+07:00 -->
 
 ## 📜 License
 
