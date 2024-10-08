@@ -32,6 +32,7 @@
 | 📡 Evil Twin | Clone & redirect networks |
 
 ### 📶 Bluetooth Module
+<!-- Updated: 2026-09-12T10:30:35+07:00 -->
 | Feature | Description |
 |---------|-------------|
 | 🔍 Device Scanner | Find nearby Bluetooth devices |
@@ -78,7 +79,6 @@
 // Full pin definitions in src/global.hpp
 // Easy to customize for your setup!
 ```
-<!-- Updated: 2026-09-12T10:30:35+07:00 -->
 
 ### Wiring Diagram
 <img src="https://i.imgur.com/hySwcIf.png" width="400">
