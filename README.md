@@ -78,6 +78,7 @@
 // Full pin definitions in src/global.hpp
 // Easy to customize for your setup!
 ```
+<!-- Updated: 2026-09-12T10:30:35+07:00 -->
 
 ### Wiring Diagram
 <img src="https://i.imgur.com/hySwcIf.png" width="400">
@@ -91,7 +92,6 @@
 - ESP32-C3 board (or any ESP32 variant)
 
 ### Installation
-<!-- Updated: 2026-09-12T10:30:35+07:00 -->
 
 ```bash
 # 1. Clone the repository
