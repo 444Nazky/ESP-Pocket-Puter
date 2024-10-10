@@ -28,7 +28,6 @@
 | Feature | Description |
 |---------|-------------|
 | 📶 Network Scanner | Discover nearby WiFi networks |
-<!-- Updated: 2026-09-12T10:30:35+07:00 -->
 | 🎭 Beacon Spammer | Create fake APs / Captive portals |
 | 📡 Evil Twin | Clone & redirect networks |
 
@@ -73,6 +72,7 @@
 | Passive Buzzer | Audio output |
 | 3x Buttons | Input (Up/Ok/Down) |
 | LiPo Battery + Protection | Portable power |
+<!-- Updated: 2026-09-12T10:30:35+07:00 -->
 
 ### Pinout
 ```cpp
