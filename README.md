@@ -155,7 +155,6 @@ ESP-Pocket-Puter/
 
 ## 🤝 Contributing
 
-<!-- Updated: 2026-09-12T10:30:35+07:00 -->
 Contributions welcome! Please follow these style rules:
 
 | Type | Convention | Example |
@@ -178,6 +177,7 @@ Contributions welcome! Please follow these style rules:
 ## 📜 License
 
 MIT License — see [LICENSE](LICENSE) for details.
+<!-- Updated: 2026-09-12T10:30:35+07:00 -->
 
 ---
 
