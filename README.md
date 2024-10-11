@@ -65,13 +65,13 @@
 ### Required Components
 | Component | Purpose |
 |-----------|---------|
+<!-- Updated: 2026-09-12T10:30:35+07:00 -->
 | ESP32-C3 Super Mini | Main controller |
 | SSD1306 128x64 OLED | Display (I2C) |
 | IR Transmitter | Send infrared signals |
 | CC1101 RF Module | 433MHz+ RF support |
 | Passive Buzzer | Audio output |
 | 3x Buttons | Input (Up/Ok/Down) |
-<!-- Updated: 2026-09-12T10:30:35+07:00 -->
 | LiPo Battery + Protection | Portable power |
 
 ### Pinout
