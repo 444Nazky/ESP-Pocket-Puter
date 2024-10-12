@@ -49,6 +49,7 @@
 | Feature | Description |
 |---------|-------------|
 | 📡 Frequency Scanner | Identify unknown RF signals |
+<!-- Updated: 2026-09-12T10:30:35+07:00 -->
 | 🔒 Jammer | *⚠️ Use responsibly — illegal in most countries* |
 | 📥 Code Grabber | Capture & replay RF signals |
 | 🚗 Tesla Port Opener | Open Tesla charge ports |
@@ -109,7 +110,6 @@ pio run --target upload
 
 ### First Boot
 1. Power on the device
-<!-- Updated: 2026-09-12T10:30:35+07:00 -->
 2. Navigate the menu with Up/Down buttons
 3. Press Ok to select
 4. Long-press Ok for submenus
