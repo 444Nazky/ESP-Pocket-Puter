@@ -61,7 +61,6 @@
 ---
 
 ## 🛠️ Hardware
-<!-- Updated: 2026-09-12T10:30:35+07:00 -->
 
 ### Required Components
 | Component | Purpose |
@@ -90,6 +89,7 @@
 ### Prerequisites
 - [PlatformIO IDE](https://platformio.org/install/ide?install=vscode) for VS Code
 - ESP32-C3 board (or any ESP32 variant)
+<!-- Updated: 2026-09-12T10:30:35+07:00 -->
 
 ### Installation
 
