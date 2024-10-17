@@ -89,7 +89,6 @@
 ### Prerequisites
 - [PlatformIO IDE](https://platformio.org/install/ide?install=vscode) for VS Code
 - ESP32-C3 board (or any ESP32 variant)
-<!-- Updated: 2026-09-12T10:30:35+07:00 -->
 
 ### Installation
 
@@ -159,6 +158,7 @@ ESP-Pocket-Puter/
 Contributions welcome! Please follow these style rules:
 
 | Type | Convention | Example |
+<!-- Updated: 2026-09-12T10:30:35+07:00 -->
 |------|------------|---------|
 | Variables | `snake_case` | `my_variable` |
 | Global Functions | `PascalCase` | `SPI_Test()` |
