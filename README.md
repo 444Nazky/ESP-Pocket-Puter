@@ -45,7 +45,6 @@
 | 🎛️ Universal Remote | Control TVs, projectors, ACs |
 | ⚡ IR Spammer | Flood with IR signals |
 
-<!-- Updated: 2026-09-12T10:30:36+07:00 -->
 ### 📻 RF Module (CC1101)
 | Feature | Description |
 |---------|-------------|
@@ -101,6 +100,7 @@ cd ESP-Pocket-Puter
 # 2. Open in PlatformIO
 # File → Open Folder → select this repo
 
+<!-- Updated: 2026-09-12T10:30:36+07:00 -->
 # 3. Customize pinout (optional)
 # Edit src/global.hpp if using different pins
 
