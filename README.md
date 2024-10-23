@@ -113,6 +113,7 @@ pio run --target upload
 3. Press Ok to select
 4. Long-press Ok for submenus
 
+<!-- Updated: 2026-09-12T10:30:36+07:00 -->
 ---
 <!-- Last updated: 2026-09-12T10:13:41+07:00 -->
 
@@ -189,7 +190,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 <div align="center">
 
-<!-- Updated: 2026-09-12T10:30:36+07:00 -->
 ⭐ Star this repo if you found it useful! ⭐
 
 **Made with 💚 by [Nazky](https://github.com/444Nazky)**
