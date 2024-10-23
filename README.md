@@ -113,7 +113,6 @@ pio run --target upload
 3. Press Ok to select
 4. Long-press Ok for submenus
 
-<!-- Updated: 2026-09-12T10:30:36+07:00 -->
 ---
 <!-- Last updated: 2026-09-12T10:13:41+07:00 -->
 
@@ -181,6 +180,7 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ---
 
+<!-- Updated: 2026-09-12T10:30:36+07:00 -->
 ## 🙏 Credits
 
 - [DevEclipse](https://github.com/DevEclipse1) — Original project inspiration
