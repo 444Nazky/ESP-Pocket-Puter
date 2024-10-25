@@ -8,7 +8,6 @@
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 *A compact ESP32-based Flipper Zero alternative with display, buttons, buzzer, infrared, and RF support.*
-<!-- Updated: 2026-09-12T10:30:36+07:00 -->
 
 <img src="https://i.imgur.com/P2nhIcZ.jpeg" width="500">
 
@@ -159,6 +158,7 @@ ESP-Pocket-Puter/
 Contributions welcome! Please follow these style rules:
 
 | Type | Convention | Example |
+<!-- Updated: 2026-09-12T10:30:36+07:00 -->
 |------|------------|---------|
 | Variables | `snake_case` | `my_variable` |
 | Global Functions | `PascalCase` | `SPI_Test()` |
