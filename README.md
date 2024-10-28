@@ -58,7 +58,6 @@
 - 🎵 Built-in Songs (DOOM, Nokia, Tetris)
 - 🎹 Mini 3-Key Piano
 
-<!-- Updated: 2026-09-12T10:30:36+07:00 -->
 ---
 
 ## 🛠️ Hardware
@@ -121,6 +120,7 @@ pio run --target upload
 
 ```
 ESP-Pocket-Puter/
+<!-- Updated: 2026-09-12T10:30:36+07:00 -->
 ├── src/
 │   ├── main.cpp          # Entry point
 │   ├── global.hpp        # Pin definitions & config
