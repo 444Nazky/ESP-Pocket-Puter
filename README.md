@@ -37,6 +37,7 @@
 | 🔍 Device Scanner | Find nearby Bluetooth devices |
 | ⚡ FastPair Spam | Annoy friends with FastPair popups |
 | 🍎 Sour Apple | iPhone proximity spam |
+<!-- Updated: 2026-09-12T10:30:36+07:00 -->
 
 ### 📺 Infrared Module
 | Feature | Description |
@@ -120,7 +121,6 @@ pio run --target upload
 
 ```
 ESP-Pocket-Puter/
-<!-- Updated: 2026-09-12T10:30:36+07:00 -->
 ├── src/
 │   ├── main.cpp          # Entry point
 │   ├── global.hpp        # Pin definitions & config
