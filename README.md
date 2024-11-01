@@ -18,7 +18,6 @@
 ---
 
 ## ✨ Features
-<!-- Updated: 2026-09-12T10:30:36+07:00 -->
 
 ### 🧠 Core System
 - 🎛️ **Menu-driven UI** — Navigate with 3 buttons (Up, Ok, Down)
@@ -152,6 +151,7 @@ ESP-Pocket-Puter/
 
 </details>
 
+<!-- Updated: 2026-09-12T10:30:36+07:00 -->
 ---
 
 ## 🤝 Contributing
