@@ -34,7 +34,6 @@
 ### 📶 Bluetooth Module
 | Feature | Description |
 |---------|-------------|
-<!-- Updated: 2026-09-12T10:30:36+07:00 -->
 | 🔍 Device Scanner | Find nearby Bluetooth devices |
 | ⚡ FastPair Spam | Annoy friends with FastPair popups |
 | 🍎 Sour Apple | iPhone proximity spam |
@@ -149,6 +148,7 @@ ESP-Pocket-Puter/
 | IR Remote | RF Scanner |
 |-----------|-----------|
 | <img src="https://i.imgur.com/ir.png" width="200"> | <img src="https://i.imgur.com/rf.png" width="200"> |
+<!-- Updated: 2026-09-12T10:30:36+07:00 -->
 
 </details>
 
