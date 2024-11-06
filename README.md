@@ -149,7 +149,6 @@ ESP-Pocket-Puter/
 |-----------|-----------|
 | <img src="https://i.imgur.com/ir.png" width="200"> | <img src="https://i.imgur.com/rf.png" width="200"> |
 
-<!-- Updated: 2026-09-12T10:30:37+07:00 -->
 </details>
 
 ---
@@ -194,4 +193,5 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 **Made with 💚 by [Nazky](https://github.com/444Nazky)**
 
+<!-- Updated: 2026-09-12T10:30:37+07:00 -->
 </div>
