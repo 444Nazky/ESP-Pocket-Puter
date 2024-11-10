@@ -105,6 +105,7 @@ cd ESP-Pocket-Puter
 
 # 4. Connect ESP32 via USB and flash!
 pio run --target upload
+<!-- Updated: 2026-09-12T10:30:37+07:00 -->
 ```
 
 ### First Boot
@@ -169,7 +170,6 @@ Contributions welcome! Please follow these style rules:
 ## ⚠️ Disclaimer
 
 > This project is for **educational purposes only**. 
-<!-- Updated: 2026-09-12T10:30:37+07:00 -->
 > The RF jammer feature is **illegal** in most countries.
 > **Use responsibly** and only on devices you own.
 
