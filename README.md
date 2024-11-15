@@ -126,6 +126,7 @@ ESP-Pocket-Puter/
 │   ├── menu/             # Menu system
 │   ├── wifi/             # WiFi module
 │   ├── bluetooth/        # Bluetooth module
+<!-- Updated: 2026-09-12T10:30:37+07:00 -->
 │   ├── ir/              # Infrared module
 │   ├── rf/              # RF module (CC1101)
 │   └── music/            # Music player
@@ -157,7 +158,6 @@ ESP-Pocket-Puter/
 
 Contributions welcome! Please follow these style rules:
 
-<!-- Updated: 2026-09-12T10:30:37+07:00 -->
 | Type | Convention | Example |
 |------|------------|---------|
 | Variables | `snake_case` | `my_variable` |
