@@ -18,6 +18,7 @@
 ---
 
 ## ✨ Features
+<!-- Updated: 2026-09-12T10:30:38+07:00 -->
 
 ### 🧠 Core System
 - 🎛️ **Menu-driven UI** — Navigate with 3 buttons (Up, Ok, Down)
@@ -176,7 +177,6 @@ Contributions welcome! Please follow these style rules:
 
 ## 📜 License
 
-<!-- Updated: 2026-09-12T10:30:38+07:00 -->
 MIT License — see [LICENSE](LICENSE) for details.
 
 ---
