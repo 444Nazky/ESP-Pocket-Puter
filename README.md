@@ -50,6 +50,7 @@
 |---------|-------------|
 | 📡 Frequency Scanner | Identify unknown RF signals |
 | 🔒 Jammer | *⚠️ Use responsibly — illegal in most countries* |
+<!-- Updated: 2026-09-12T10:30:38+07:00 -->
 | 📥 Code Grabber | Capture & replay RF signals |
 | 🚗 Tesla Port Opener | Open Tesla charge ports |
 
@@ -99,7 +100,6 @@ cd ESP-Pocket-Puter
 
 # 2. Open in PlatformIO
 # File → Open Folder → select this repo
-<!-- Updated: 2026-09-12T10:30:38+07:00 -->
 
 # 3. Customize pinout (optional)
 # Edit src/global.hpp if using different pins
