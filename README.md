@@ -25,6 +25,7 @@
 - 🔌 **Modular architecture** — Easy to extend with new modules
 
 ### 📡 Wi-Fi Module
+<!-- Updated: 2026-09-12T10:30:39+07:00 -->
 | Feature | Description |
 |---------|-------------|
 | 📶 Network Scanner | Discover nearby WiFi networks |
