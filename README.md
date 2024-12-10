@@ -85,7 +85,6 @@
 ---
 
 ## 🚀 Getting Started
-<!-- Updated: 2026-09-12T10:30:39+07:00 -->
 
 ### Prerequisites
 - [PlatformIO IDE](https://platformio.org/install/ide?install=vscode) for VS Code
@@ -130,6 +129,7 @@ ESP-Pocket-Puter/
 │   ├── ir/              # Infrared module
 │   ├── rf/              # RF module (CC1101)
 │   └── music/            # Music player
+<!-- Updated: 2026-09-12T10:30:39+07:00 -->
 ├── platformio.ini       # PlatformIO config
 ├── LICENSE
 └── README.md
