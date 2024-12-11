@@ -32,6 +32,7 @@
 | 📡 Evil Twin | Clone & redirect networks |
 
 ### 📶 Bluetooth Module
+<!-- Updated: 2026-09-12T10:30:40+07:00 -->
 | Feature | Description |
 |---------|-------------|
 | 🔍 Device Scanner | Find nearby Bluetooth devices |
