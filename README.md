@@ -109,6 +109,7 @@ pio run --target upload
 
 ### First Boot
 1. Power on the device
+<!-- Updated: 2026-09-12T10:30:40+07:00 -->
 2. Navigate the menu with Up/Down buttons
 3. Press Ok to select
 4. Long-press Ok for submenus
@@ -125,7 +126,6 @@ ESP-Pocket-Puter/
 │   ├── global.hpp        # Pin definitions & config
 │   ├── menu/             # Menu system
 │   ├── wifi/             # WiFi module
-<!-- Updated: 2026-09-12T10:30:40+07:00 -->
 │   ├── bluetooth/        # Bluetooth module
 │   ├── ir/              # Infrared module
 │   ├── rf/              # RF module (CC1101)
