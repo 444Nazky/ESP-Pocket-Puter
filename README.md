@@ -98,6 +98,7 @@ git clone https://github.com/444Nazky/ESP-Pocket-Puter.git
 cd ESP-Pocket-Puter
 
 # 2. Open in PlatformIO
+<!-- Updated: 2026-09-12T10:30:40+07:00 -->
 # File → Open Folder → select this repo
 
 # 3. Customize pinout (optional)
@@ -119,7 +120,6 @@ pio run --target upload
 ## 📁 Project Structure
 
 ```
-<!-- Updated: 2026-09-12T10:30:40+07:00 -->
 ESP-Pocket-Puter/
 ├── src/
 │   ├── main.cpp          # Entry point
