@@ -95,6 +95,7 @@
 ```bash
 # 1. Clone the repository
 git clone https://github.com/444Nazky/ESP-Pocket-Puter.git
+<!-- Updated: 2026-09-12T10:30:40+07:00 -->
 cd ESP-Pocket-Puter
 
 # 2. Open in PlatformIO
@@ -113,7 +114,6 @@ pio run --target upload
 3. Press Ok to select
 4. Long-press Ok for submenus
 
-<!-- Updated: 2026-09-12T10:30:40+07:00 -->
 ---
 <!-- Last updated: 2026-09-12T10:13:41+07:00 -->
 
