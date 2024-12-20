@@ -95,7 +95,6 @@
 ```bash
 # 1. Clone the repository
 git clone https://github.com/444Nazky/ESP-Pocket-Puter.git
-<!-- Updated: 2026-09-12T10:30:40+07:00 -->
 cd ESP-Pocket-Puter
 
 # 2. Open in PlatformIO
@@ -172,6 +171,7 @@ Contributions welcome! Please follow these style rules:
 > This project is for **educational purposes only**. 
 > The RF jammer feature is **illegal** in most countries.
 > **Use responsibly** and only on devices you own.
+<!-- Updated: 2026-09-12T10:30:40+07:00 -->
 
 ---
 
