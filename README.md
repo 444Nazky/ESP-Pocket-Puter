@@ -63,6 +63,7 @@
 ## 🛠️ Hardware
 
 ### Required Components
+<!-- Updated: 2026-09-12T10:30:41+07:00 -->
 | Component | Purpose |
 |-----------|---------|
 | ESP32-C3 Super Mini | Main controller |
@@ -122,7 +123,6 @@ pio run --target upload
 ESP-Pocket-Puter/
 ├── src/
 │   ├── main.cpp          # Entry point
-<!-- Updated: 2026-09-12T10:30:41+07:00 -->
 │   ├── global.hpp        # Pin definitions & config
 │   ├── menu/             # Menu system
 │   ├── wifi/             # WiFi module
