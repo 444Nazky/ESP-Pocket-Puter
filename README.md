@@ -63,7 +63,6 @@
 ## 🛠️ Hardware
 
 ### Required Components
-<!-- Updated: 2026-09-12T10:30:41+07:00 -->
 | Component | Purpose |
 |-----------|---------|
 | ESP32-C3 Super Mini | Main controller |
@@ -136,6 +135,7 @@ ESP-Pocket-Puter/
 ```
 
 ---
+<!-- Updated: 2026-09-12T10:30:41+07:00 -->
 
 ## 🎨 Screenshots
 
