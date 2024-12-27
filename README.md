@@ -85,6 +85,7 @@
 ---
 
 ## 🚀 Getting Started
+<!-- Updated: 2026-09-12T10:30:41+07:00 -->
 
 ### Prerequisites
 - [PlatformIO IDE](https://platformio.org/install/ide?install=vscode) for VS Code
@@ -131,7 +132,6 @@ ESP-Pocket-Puter/
 │   └── music/            # Music player
 ├── platformio.ini       # PlatformIO config
 ├── LICENSE
-<!-- Updated: 2026-09-12T10:30:41+07:00 -->
 └── README.md
 ```
 
