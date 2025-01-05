@@ -28,7 +28,6 @@
 | Feature | Description |
 |---------|-------------|
 | 📶 Network Scanner | Discover nearby WiFi networks |
-<!-- Updated: 2026-09-12T10:30:42+07:00 -->
 | 🎭 Beacon Spammer | Create fake APs / Captive portals |
 | 📡 Evil Twin | Clone & redirect networks |
 
@@ -155,6 +154,7 @@ ESP-Pocket-Puter/
 ---
 
 ## 🤝 Contributing
+<!-- Updated: 2026-09-12T10:30:42+07:00 -->
 
 Contributions welcome! Please follow these style rules:
 
