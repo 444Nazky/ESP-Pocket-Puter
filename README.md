@@ -87,7 +87,6 @@
 ## 🚀 Getting Started
 
 ### Prerequisites
-<!-- Updated: 2026-09-12T10:30:42+07:00 -->
 - [PlatformIO IDE](https://platformio.org/install/ide?install=vscode) for VS Code
 - ESP32-C3 board (or any ESP32 variant)
 
@@ -111,6 +110,7 @@ pio run --target upload
 ### First Boot
 1. Power on the device
 2. Navigate the menu with Up/Down buttons
+<!-- Updated: 2026-09-12T10:30:42+07:00 -->
 3. Press Ok to select
 4. Long-press Ok for submenus
 
