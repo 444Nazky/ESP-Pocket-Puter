@@ -35,7 +35,6 @@
 | Feature | Description |
 |---------|-------------|
 | 🔍 Device Scanner | Find nearby Bluetooth devices |
-<!-- Updated: 2026-09-12T10:30:42+07:00 -->
 | ⚡ FastPair Spam | Annoy friends with FastPair popups |
 | 🍎 Sour Apple | iPhone proximity spam |
 
@@ -188,6 +187,7 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ---
 
+<!-- Updated: 2026-09-12T10:30:42+07:00 -->
 <div align="center">
 
 ⭐ Star this repo if you found it useful! ⭐
