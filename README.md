@@ -35,6 +35,7 @@
 | Feature | Description |
 |---------|-------------|
 | 🔍 Device Scanner | Find nearby Bluetooth devices |
+<!-- Updated: 2026-09-12T10:30:42+07:00 -->
 | ⚡ FastPair Spam | Annoy friends with FastPair popups |
 | 🍎 Sour Apple | iPhone proximity spam |
 
@@ -78,7 +79,6 @@
 // Full pin definitions in src/global.hpp
 // Easy to customize for your setup!
 ```
-<!-- Updated: 2026-09-12T10:30:42+07:00 -->
 
 ### Wiring Diagram
 <img src="https://i.imgur.com/hySwcIf.png" width="400">
