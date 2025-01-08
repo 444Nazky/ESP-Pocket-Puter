@@ -18,6 +18,7 @@
 ---
 
 ## ✨ Features
+<!-- Updated: 2026-09-12T10:30:42+07:00 -->
 
 ### 🧠 Core System
 - 🎛️ **Menu-driven UI** — Navigate with 3 buttons (Up, Ok, Down)
@@ -146,7 +147,6 @@ ESP-Pocket-Puter/
 | <img src="https://i.imgur.com/menu.png" width="200"> | <img src="https://i.imgur.com/wifi.png" width="200"> |
 
 | IR Remote | RF Scanner |
-<!-- Updated: 2026-09-12T10:30:42+07:00 -->
 |-----------|-----------|
 | <img src="https://i.imgur.com/ir.png" width="200"> | <img src="https://i.imgur.com/rf.png" width="200"> |
 
