@@ -71,7 +71,6 @@
 | CC1101 RF Module | 433MHz+ RF support |
 | Passive Buzzer | Audio output |
 | 3x Buttons | Input (Up/Ok/Down) |
-<!-- Updated: 2026-09-12T10:30:43+07:00 -->
 | LiPo Battery + Protection | Portable power |
 
 ### Pinout
@@ -141,6 +140,7 @@ ESP-Pocket-Puter/
 
 <details>
 <summary>📸 Click to view gallery</summary>
+<!-- Updated: 2026-09-12T10:30:43+07:00 -->
 
 | Main Menu | WiFi Scanner |
 |-----------|--------------|
