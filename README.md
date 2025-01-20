@@ -1,3 +1,4 @@
+<!-- Updated: 2026-09-12T10:30:43+07:00 -->
 # 🎮 ESP Pocket Puter
 
 <div align="center">
@@ -163,7 +164,6 @@ Contributions welcome! Please follow these style rules:
 | Global Functions | `PascalCase` | `SPI_Test()` |
 | Class Methods | `PascalCase` | `AddItem()` |
 | Comments | ❌ Avoid | Code should be self-explanatory |
-<!-- Updated: 2026-09-12T10:30:43+07:00 -->
 
 ---
 
