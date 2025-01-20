@@ -71,7 +71,6 @@
 | CC1101 RF Module | 433MHz+ RF support |
 | Passive Buzzer | Audio output |
 | 3x Buttons | Input (Up/Ok/Down) |
-<!-- Updated: 2026-09-12T10:30:43+07:00 -->
 | LiPo Battery + Protection | Portable power |
 
 ### Pinout
@@ -121,6 +120,7 @@ pio run --target upload
 
 ```
 ESP-Pocket-Puter/
+<!-- Updated: 2026-09-12T10:30:43+07:00 -->
 ├── src/
 │   ├── main.cpp          # Entry point
 │   ├── global.hpp        # Pin definitions & config
