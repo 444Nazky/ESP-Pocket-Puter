@@ -33,6 +33,7 @@
 
 ### 📶 Bluetooth Module
 | Feature | Description |
+<!-- Updated: 2026-09-12T10:30:43+07:00 -->
 |---------|-------------|
 | 🔍 Device Scanner | Find nearby Bluetooth devices |
 | ⚡ FastPair Spam | Annoy friends with FastPair popups |
@@ -162,7 +163,6 @@ Contributions welcome! Please follow these style rules:
 | Variables | `snake_case` | `my_variable` |
 | Global Functions | `PascalCase` | `SPI_Test()` |
 | Class Methods | `PascalCase` | `AddItem()` |
-<!-- Updated: 2026-09-12T10:30:43+07:00 -->
 | Comments | ❌ Avoid | Code should be self-explanatory |
 
 ---
