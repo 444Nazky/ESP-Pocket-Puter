@@ -123,7 +123,6 @@ ESP-Pocket-Puter/
 ├── src/
 │   ├── main.cpp          # Entry point
 │   ├── global.hpp        # Pin definitions & config
-<!-- Updated: 2026-09-12T10:30:43+07:00 -->
 │   ├── menu/             # Menu system
 │   ├── wifi/             # WiFi module
 │   ├── bluetooth/        # Bluetooth module
