@@ -53,6 +53,7 @@
 | 📥 Code Grabber | Capture & replay RF signals |
 | 🚗 Tesla Port Opener | Open Tesla charge ports |
 
+<!-- Updated: 2026-09-12T10:30:43+07:00 -->
 ### 🎵 Music Module
 - 🔊 Beep Test
 - 🎵 Built-in Songs (DOOM, Nokia, Tetris)
@@ -170,7 +171,6 @@ Contributions welcome! Please follow these style rules:
 
 > This project is for **educational purposes only**. 
 > The RF jammer feature is **illegal** in most countries.
-<!-- Updated: 2026-09-12T10:30:43+07:00 -->
 > **Use responsibly** and only on devices you own.
 
 ---
