@@ -53,7 +53,6 @@
 | 📥 Code Grabber | Capture & replay RF signals |
 | 🚗 Tesla Port Opener | Open Tesla charge ports |
 
-<!-- Updated: 2026-09-12T10:30:43+07:00 -->
 ### 🎵 Music Module
 - 🔊 Beep Test
 - 🎵 Built-in Songs (DOOM, Nokia, Tetris)
@@ -157,6 +156,7 @@ ESP-Pocket-Puter/
 ## 🤝 Contributing
 
 Contributions welcome! Please follow these style rules:
+<!-- Updated: 2026-09-12T10:30:43+07:00 -->
 
 | Type | Convention | Example |
 |------|------------|---------|
