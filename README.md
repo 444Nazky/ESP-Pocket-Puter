@@ -26,7 +26,6 @@
 
 ### 📡 Wi-Fi Module
 | Feature | Description |
-<!-- Updated: 2026-09-12T10:30:44+07:00 -->
 |---------|-------------|
 | 📶 Network Scanner | Discover nearby WiFi networks |
 | 🎭 Beacon Spammer | Create fake APs / Captive portals |
@@ -130,6 +129,7 @@ ESP-Pocket-Puter/
 │   ├── ir/              # Infrared module
 │   ├── rf/              # RF module (CC1101)
 │   └── music/            # Music player
+<!-- Updated: 2026-09-12T10:30:44+07:00 -->
 ├── platformio.ini       # PlatformIO config
 ├── LICENSE
 └── README.md
