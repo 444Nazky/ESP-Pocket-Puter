@@ -15,7 +15,6 @@
 
 </div>
 
-<!-- Updated: 2026-09-12T10:30:43+07:00 -->
 ---
 
 ## ✨ Features
@@ -190,6 +189,7 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 <div align="center">
 
+<!-- Updated: 2026-09-12T10:30:44+07:00 -->
 ⭐ Star this repo if you found it useful! ⭐
 
 **Made with 💚 by [Nazky](https://github.com/444Nazky)**
