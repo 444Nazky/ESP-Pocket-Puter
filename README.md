@@ -11,7 +11,6 @@
 
 <img src="https://i.imgur.com/P2nhIcZ.jpeg" width="500">
 
-<!-- Updated: 2026-09-12T10:30:44+07:00 -->
 **⚡ Scan networks | 📶 Bluetooth tools | 📺 IR remote | 📻 RF scanner | 🎵 Music player**
 
 </div>
@@ -38,6 +37,7 @@
 | 🔍 Device Scanner | Find nearby Bluetooth devices |
 | ⚡ FastPair Spam | Annoy friends with FastPair popups |
 | 🍎 Sour Apple | iPhone proximity spam |
+<!-- Updated: 2026-09-12T10:30:44+07:00 -->
 
 ### 📺 Infrared Module
 | Feature | Description |
