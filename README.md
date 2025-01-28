@@ -11,6 +11,7 @@
 
 <img src="https://i.imgur.com/P2nhIcZ.jpeg" width="500">
 
+<!-- Updated: 2026-09-12T10:30:44+07:00 -->
 **⚡ Scan networks | 📶 Bluetooth tools | 📺 IR remote | 📻 RF scanner | 🎵 Music player**
 
 </div>
@@ -69,7 +70,6 @@
 | SSD1306 128x64 OLED | Display (I2C) |
 | IR Transmitter | Send infrared signals |
 | CC1101 RF Module | 433MHz+ RF support |
-<!-- Updated: 2026-09-12T10:30:44+07:00 -->
 | Passive Buzzer | Audio output |
 | 3x Buttons | Input (Up/Ok/Down) |
 | LiPo Battery + Protection | Portable power |
