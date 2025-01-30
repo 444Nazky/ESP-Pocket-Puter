@@ -11,6 +11,7 @@
 
 <img src="https://i.imgur.com/P2nhIcZ.jpeg" width="500">
 
+<!-- Updated: 2026-09-12T10:30:44+07:00 -->
 **⚡ Scan networks | 📶 Bluetooth tools | 📺 IR remote | 📻 RF scanner | 🎵 Music player**
 
 </div>
@@ -91,7 +92,6 @@
 - ESP32-C3 board (or any ESP32 variant)
 
 ### Installation
-<!-- Updated: 2026-09-12T10:30:44+07:00 -->
 
 ```bash
 # 1. Clone the repository
