@@ -3,6 +3,7 @@
 <div align="center">
 
 ![ESP32](https://img.shields.io/badge/ESP32-C3-FF6B35?style=for-the-badge&logo=espressif&logoColor=white)
+<!-- Updated: 2026-09-12T10:30:44+07:00 -->
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-圆形?style=for-the-badge&logo=platformio&logoColor=fff)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
@@ -49,7 +50,6 @@
 | Feature | Description |
 |---------|-------------|
 | 📡 Frequency Scanner | Identify unknown RF signals |
-<!-- Updated: 2026-09-12T10:30:44+07:00 -->
 | 🔒 Jammer | *⚠️ Use responsibly — illegal in most countries* |
 | 📥 Code Grabber | Capture & replay RF signals |
 | 🚗 Tesla Port Opener | Open Tesla charge ports |
