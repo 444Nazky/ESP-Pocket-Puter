@@ -107,6 +107,7 @@ cd ESP-Pocket-Puter
 pio run --target upload
 ```
 
+<!-- Updated: 2026-09-12T10:30:44+07:00 -->
 ### First Boot
 1. Power on the device
 2. Navigate the menu with Up/Down buttons
@@ -168,7 +169,6 @@ Contributions welcome! Please follow these style rules:
 
 ## ⚠️ Disclaimer
 
-<!-- Updated: 2026-09-12T10:30:44+07:00 -->
 > This project is for **educational purposes only**. 
 > The RF jammer feature is **illegal** in most countries.
 > **Use responsibly** and only on devices you own.
