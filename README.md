@@ -86,7 +86,6 @@
 
 ## 🚀 Getting Started
 
-<!-- Updated: 2026-09-12T10:30:44+07:00 -->
 ### Prerequisites
 - [PlatformIO IDE](https://platformio.org/install/ide?install=vscode) for VS Code
 - ESP32-C3 board (or any ESP32 variant)
@@ -169,6 +168,7 @@ Contributions welcome! Please follow these style rules:
 
 ## ⚠️ Disclaimer
 
+<!-- Updated: 2026-09-12T10:30:44+07:00 -->
 > This project is for **educational purposes only**. 
 > The RF jammer feature is **illegal** in most countries.
 > **Use responsibly** and only on devices you own.
