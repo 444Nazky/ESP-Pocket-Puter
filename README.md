@@ -91,7 +91,6 @@
 - ESP32-C3 board (or any ESP32 variant)
 
 ### Installation
-<!-- Updated: 2026-09-12T10:30:45+07:00 -->
 
 ```bash
 # 1. Clone the repository
@@ -148,6 +147,7 @@ ESP-Pocket-Puter/
 
 | IR Remote | RF Scanner |
 |-----------|-----------|
+<!-- Updated: 2026-09-12T10:30:45+07:00 -->
 | <img src="https://i.imgur.com/ir.png" width="200"> | <img src="https://i.imgur.com/rf.png" width="200"> |
 
 </details>
