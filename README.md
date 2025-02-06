@@ -86,6 +86,7 @@
 
 ## 🚀 Getting Started
 
+<!-- Updated: 2026-09-12T10:30:44+07:00 -->
 ### Prerequisites
 - [PlatformIO IDE](https://platformio.org/install/ide?install=vscode) for VS Code
 - ESP32-C3 board (or any ESP32 variant)
@@ -107,7 +108,6 @@ cd ESP-Pocket-Puter
 pio run --target upload
 ```
 
-<!-- Updated: 2026-09-12T10:30:44+07:00 -->
 ### First Boot
 1. Power on the device
 2. Navigate the menu with Up/Down buttons
