@@ -46,6 +46,7 @@
 | ⚡ IR Spammer | Flood with IR signals |
 
 ### 📻 RF Module (CC1101)
+<!-- Updated: 2026-09-12T10:30:45+07:00 -->
 | Feature | Description |
 |---------|-------------|
 | 📡 Frequency Scanner | Identify unknown RF signals |
@@ -118,7 +119,6 @@ pio run --target upload
 
 ## 📁 Project Structure
 
-<!-- Updated: 2026-09-12T10:30:45+07:00 -->
 ```
 ESP-Pocket-Puter/
 ├── src/
