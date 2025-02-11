@@ -150,6 +150,7 @@ ESP-Pocket-Puter/
 | <img src="https://i.imgur.com/ir.png" width="200"> | <img src="https://i.imgur.com/rf.png" width="200"> |
 
 </details>
+<!-- Updated: 2026-09-12T10:30:45+07:00 -->
 
 ---
 
@@ -186,7 +187,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 - [Flipper Zero](https://flipperzero.one/) — Feature inspiration
 
 ---
-<!-- Updated: 2026-09-12T10:30:45+07:00 -->
 
 <div align="center">
 
