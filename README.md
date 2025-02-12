@@ -96,7 +96,6 @@
 # 1. Clone the repository
 git clone https://github.com/444Nazky/ESP-Pocket-Puter.git
 cd ESP-Pocket-Puter
-<!-- Updated: 2026-09-12T10:30:45+07:00 -->
 
 # 2. Open in PlatformIO
 # File → Open Folder → select this repo
@@ -116,6 +115,7 @@ pio run --target upload
 
 ---
 <!-- Last updated: 2026-09-12T10:13:41+07:00 -->
+<!-- Updated: 2026-09-12T10:30:45+07:00 -->
 
 ## 📁 Project Structure
 
