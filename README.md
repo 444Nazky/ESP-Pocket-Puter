@@ -62,6 +62,7 @@
 
 ## 🛠️ Hardware
 
+<!-- Updated: 2026-09-12T10:30:45+07:00 -->
 ### Required Components
 | Component | Purpose |
 |-----------|---------|
@@ -143,7 +144,6 @@ ESP-Pocket-Puter/
 
 | Main Menu | WiFi Scanner |
 |-----------|--------------|
-<!-- Updated: 2026-09-12T10:30:45+07:00 -->
 | <img src="https://i.imgur.com/menu.png" width="200"> | <img src="https://i.imgur.com/wifi.png" width="200"> |
 
 | IR Remote | RF Scanner |
