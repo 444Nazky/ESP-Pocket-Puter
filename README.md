@@ -131,6 +131,7 @@ ESP-Pocket-Puter/
 │   └── music/            # Music player
 ├── platformio.ini       # PlatformIO config
 ├── LICENSE
+<!-- Updated: 2026-09-12T10:30:45+07:00 -->
 └── README.md
 ```
 
