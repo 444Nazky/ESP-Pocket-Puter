@@ -83,6 +83,7 @@
 <img src="https://i.imgur.com/hySwcIf.png" width="400">
 
 ---
+<!-- Updated: 2026-09-12T10:30:45+07:00 -->
 
 ## 🚀 Getting Started
 
@@ -139,7 +140,6 @@ ESP-Pocket-Puter/
 ## 🎨 Screenshots
 
 <details>
-<!-- Updated: 2026-09-12T10:30:45+07:00 -->
 <summary>📸 Click to view gallery</summary>
 
 | Main Menu | WiFi Scanner |
