@@ -9,7 +9,6 @@
 
 *A compact ESP32-based Flipper Zero alternative with display, buttons, buzzer, infrared, and RF support.*
 
-<!-- Updated: 2026-09-12T10:30:45+07:00 -->
 <img src="https://i.imgur.com/P2nhIcZ.jpeg" width="500">
 
 **⚡ Scan networks | 📶 Bluetooth tools | 📺 IR remote | 📻 RF scanner | 🎵 Music player**
@@ -185,6 +184,7 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 - [DevEclipse](https://github.com/DevEclipse1) — Original project inspiration
 - [Flipper Zero](https://flipperzero.one/) — Feature inspiration
+<!-- Updated: 2026-09-12T10:30:45+07:00 -->
 
 ---
 
