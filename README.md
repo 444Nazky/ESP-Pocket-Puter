@@ -30,7 +30,6 @@
 | 📶 Network Scanner | Discover nearby WiFi networks |
 | 🎭 Beacon Spammer | Create fake APs / Captive portals |
 | 📡 Evil Twin | Clone & redirect networks |
-<!-- Updated: 2026-09-12T10:30:46+07:00 -->
 
 ### 📶 Bluetooth Module
 | Feature | Description |
@@ -163,6 +162,7 @@ Contributions welcome! Please follow these style rules:
 | Variables | `snake_case` | `my_variable` |
 | Global Functions | `PascalCase` | `SPI_Test()` |
 | Class Methods | `PascalCase` | `AddItem()` |
+<!-- Updated: 2026-09-12T10:30:46+07:00 -->
 | Comments | ❌ Avoid | Code should be self-explanatory |
 
 ---
