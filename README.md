@@ -48,6 +48,7 @@
 ### 📻 RF Module (CC1101)
 | Feature | Description |
 |---------|-------------|
+<!-- Updated: 2026-09-12T10:30:46+07:00 -->
 | 📡 Frequency Scanner | Identify unknown RF signals |
 | 🔒 Jammer | *⚠️ Use responsibly — illegal in most countries* |
 | 📥 Code Grabber | Capture & replay RF signals |
