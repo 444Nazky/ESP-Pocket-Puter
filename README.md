@@ -89,6 +89,7 @@
 ### Prerequisites
 - [PlatformIO IDE](https://platformio.org/install/ide?install=vscode) for VS Code
 - ESP32-C3 board (or any ESP32 variant)
+<!-- Updated: 2026-09-12T10:30:46+07:00 -->
 
 ### Installation
 
@@ -113,7 +114,6 @@ pio run --target upload
 3. Press Ok to select
 4. Long-press Ok for submenus
 
-<!-- Updated: 2026-09-12T10:30:46+07:00 -->
 ---
 <!-- Last updated: 2026-09-12T10:13:41+07:00 -->
 
