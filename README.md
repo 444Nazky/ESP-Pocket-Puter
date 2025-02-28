@@ -74,6 +74,7 @@
 | LiPo Battery + Protection | Portable power |
 
 ### Pinout
+<!-- Updated: 2026-09-12T10:30:46+07:00 -->
 ```cpp
 // Full pin definitions in src/global.hpp
 // Easy to customize for your setup!
