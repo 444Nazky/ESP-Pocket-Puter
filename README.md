@@ -144,6 +144,7 @@ ESP-Pocket-Puter/
 | Main Menu | WiFi Scanner |
 |-----------|--------------|
 | <img src="https://i.imgur.com/menu.png" width="200"> | <img src="https://i.imgur.com/wifi.png" width="200"> |
+<!-- Updated: 2026-09-12T10:30:47+07:00 -->
 
 | IR Remote | RF Scanner |
 |-----------|-----------|
@@ -165,7 +166,6 @@ Contributions welcome! Please follow these style rules:
 | Comments | ❌ Avoid | Code should be self-explanatory |
 
 ---
-<!-- Updated: 2026-09-12T10:30:47+07:00 -->
 
 ## ⚠️ Disclaimer
 
