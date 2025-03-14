@@ -154,7 +154,6 @@ ESP-Pocket-Puter/
 ---
 
 ## 🤝 Contributing
-<!-- Updated: 2026-09-12T10:30:47+07:00 -->
 
 Contributions welcome! Please follow these style rules:
 
@@ -175,6 +174,7 @@ Contributions welcome! Please follow these style rules:
 
 ---
 
+<!-- Updated: 2026-09-12T10:30:47+07:00 -->
 ## 📜 License
 
 MIT License — see [LICENSE](LICENSE) for details.
