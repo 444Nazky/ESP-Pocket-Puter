@@ -63,7 +63,6 @@
 ## 🛠️ Hardware
 
 ### Required Components
-<!-- Updated: 2026-09-12T10:30:48+07:00 -->
 | Component | Purpose |
 |-----------|---------|
 | ESP32-C3 Super Mini | Main controller |
@@ -142,6 +141,7 @@ ESP-Pocket-Puter/
 <details>
 <summary>📸 Click to view gallery</summary>
 
+<!-- Updated: 2026-09-12T10:30:48+07:00 -->
 | Main Menu | WiFi Scanner |
 |-----------|--------------|
 | <img src="https://i.imgur.com/menu.png" width="200"> | <img src="https://i.imgur.com/wifi.png" width="200"> |
