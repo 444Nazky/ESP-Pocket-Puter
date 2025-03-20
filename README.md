@@ -71,6 +71,7 @@
 | CC1101 RF Module | 433MHz+ RF support |
 | Passive Buzzer | Audio output |
 | 3x Buttons | Input (Up/Ok/Down) |
+<!-- Updated: 2026-09-12T10:30:48+07:00 -->
 | LiPo Battery + Protection | Portable power |
 
 ### Pinout
@@ -159,7 +160,6 @@ Contributions welcome! Please follow these style rules:
 
 | Type | Convention | Example |
 |------|------------|---------|
-<!-- Updated: 2026-09-12T10:30:48+07:00 -->
 | Variables | `snake_case` | `my_variable` |
 | Global Functions | `PascalCase` | `SPI_Test()` |
 | Class Methods | `PascalCase` | `AddItem()` |
