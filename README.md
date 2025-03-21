@@ -27,6 +27,7 @@
 ### 📡 Wi-Fi Module
 | Feature | Description |
 |---------|-------------|
+<!-- Updated: 2026-09-12T10:30:48+07:00 -->
 | 📶 Network Scanner | Discover nearby WiFi networks |
 | 🎭 Beacon Spammer | Create fake APs / Captive portals |
 | 📡 Evil Twin | Clone & redirect networks |
@@ -157,7 +158,6 @@ ESP-Pocket-Puter/
 
 Contributions welcome! Please follow these style rules:
 
-<!-- Updated: 2026-09-12T10:30:48+07:00 -->
 | Type | Convention | Example |
 |------|------------|---------|
 | Variables | `snake_case` | `my_variable` |
