@@ -97,6 +97,7 @@
 git clone https://github.com/444Nazky/ESP-Pocket-Puter.git
 cd ESP-Pocket-Puter
 
+<!-- Updated: 2026-09-12T10:30:48+07:00 -->
 # 2. Open in PlatformIO
 # File → Open Folder → select this repo
 
@@ -128,7 +129,6 @@ ESP-Pocket-Puter/
 │   ├── bluetooth/        # Bluetooth module
 │   ├── ir/              # Infrared module
 │   ├── rf/              # RF module (CC1101)
-<!-- Updated: 2026-09-12T10:30:48+07:00 -->
 │   └── music/            # Music player
 ├── platformio.ini       # PlatformIO config
 ├── LICENSE
