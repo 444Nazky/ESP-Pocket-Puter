@@ -1,6 +1,7 @@
 # 🎮 ESP Pocket Puter
 
 <div align="center">
+<!-- Updated: 2026-09-12T10:30:49+07:00 -->
 
 ![ESP32](https://img.shields.io/badge/ESP32-C3-FF6B35?style=for-the-badge&logo=espressif&logoColor=white)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-圆形?style=for-the-badge&logo=platformio&logoColor=fff)
@@ -144,7 +145,6 @@ ESP-Pocket-Puter/
 | Main Menu | WiFi Scanner |
 |-----------|--------------|
 | <img src="https://i.imgur.com/menu.png" width="200"> | <img src="https://i.imgur.com/wifi.png" width="200"> |
-<!-- Updated: 2026-09-12T10:30:49+07:00 -->
 
 | IR Remote | RF Scanner |
 |-----------|-----------|
