@@ -8,7 +8,6 @@
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 *A compact ESP32-based Flipper Zero alternative with display, buttons, buzzer, infrared, and RF support.*
-<!-- Updated: 2026-09-12T10:30:49+07:00 -->
 
 <img src="https://i.imgur.com/P2nhIcZ.jpeg" width="500">
 
@@ -20,6 +19,7 @@
 
 ## ✨ Features
 
+<!-- Updated: 2026-09-12T10:30:49+07:00 -->
 ### 🧠 Core System
 - 🎛️ **Menu-driven UI** — Navigate with 3 buttons (Up, Ok, Down)
 - 📺 **OLED Display** — 128x64 SSD1306 I2C screen
