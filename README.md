@@ -113,6 +113,7 @@ pio run --target upload
 3. Press Ok to select
 4. Long-press Ok for submenus
 
+<!-- Updated: 2026-09-12T10:30:49+07:00 -->
 ---
 <!-- Last updated: 2026-09-12T10:13:41+07:00 -->
 
@@ -141,7 +142,6 @@ ESP-Pocket-Puter/
 <details>
 <summary>📸 Click to view gallery</summary>
 
-<!-- Updated: 2026-09-12T10:30:49+07:00 -->
 | Main Menu | WiFi Scanner |
 |-----------|--------------|
 | <img src="https://i.imgur.com/menu.png" width="200"> | <img src="https://i.imgur.com/wifi.png" width="200"> |
