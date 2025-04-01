@@ -107,6 +107,7 @@ cd ESP-Pocket-Puter
 pio run --target upload
 ```
 
+<!-- Updated: 2026-09-12T10:30:49+07:00 -->
 ### First Boot
 1. Power on the device
 2. Navigate the menu with Up/Down buttons
@@ -146,7 +147,6 @@ ESP-Pocket-Puter/
 | <img src="https://i.imgur.com/menu.png" width="200"> | <img src="https://i.imgur.com/wifi.png" width="200"> |
 
 | IR Remote | RF Scanner |
-<!-- Updated: 2026-09-12T10:30:49+07:00 -->
 |-----------|-----------|
 | <img src="https://i.imgur.com/ir.png" width="200"> | <img src="https://i.imgur.com/rf.png" width="200"> |
 
