@@ -18,6 +18,7 @@
 ---
 
 ## ✨ Features
+<!-- Updated: 2026-09-12T10:30:49+07:00 -->
 
 ### 🧠 Core System
 - 🎛️ **Menu-driven UI** — Navigate with 3 buttons (Up, Ok, Down)
@@ -107,7 +108,6 @@ cd ESP-Pocket-Puter
 pio run --target upload
 ```
 
-<!-- Updated: 2026-09-12T10:30:49+07:00 -->
 ### First Boot
 1. Power on the device
 2. Navigate the menu with Up/Down buttons
