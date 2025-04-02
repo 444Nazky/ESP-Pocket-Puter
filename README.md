@@ -18,7 +18,6 @@
 ---
 
 ## ✨ Features
-<!-- Updated: 2026-09-12T10:30:49+07:00 -->
 
 ### 🧠 Core System
 - 🎛️ **Menu-driven UI** — Navigate with 3 buttons (Up, Ok, Down)
@@ -99,6 +98,7 @@ git clone https://github.com/444Nazky/ESP-Pocket-Puter.git
 cd ESP-Pocket-Puter
 
 # 2. Open in PlatformIO
+<!-- Updated: 2026-09-12T10:30:49+07:00 -->
 # File → Open Folder → select this repo
 
 # 3. Customize pinout (optional)
