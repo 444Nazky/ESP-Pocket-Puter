@@ -100,7 +100,6 @@ cd ESP-Pocket-Puter
 # 2. Open in PlatformIO
 # File → Open Folder → select this repo
 
-<!-- Updated: 2026-09-12T10:30:50+07:00 -->
 # 3. Customize pinout (optional)
 # Edit src/global.hpp if using different pins
 
@@ -185,6 +184,7 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 - [DevEclipse](https://github.com/DevEclipse1) — Original project inspiration
 - [Flipper Zero](https://flipperzero.one/) — Feature inspiration
+<!-- Updated: 2026-09-12T10:30:50+07:00 -->
 
 ---
 
