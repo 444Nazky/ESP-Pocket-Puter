@@ -1,5 +1,6 @@
 # 🎮 ESP Pocket Puter
 
+<!-- Updated: 2026-09-12T10:30:50+07:00 -->
 <div align="center">
 
 ![ESP32](https://img.shields.io/badge/ESP32-C3-FF6B35?style=for-the-badge&logo=espressif&logoColor=white)
@@ -92,7 +93,6 @@
 
 ### Installation
 
-<!-- Updated: 2026-09-12T10:30:50+07:00 -->
 ```bash
 # 1. Clone the repository
 git clone https://github.com/444Nazky/ESP-Pocket-Puter.git
