@@ -148,6 +148,7 @@ ESP-Pocket-Puter/
 | IR Remote | RF Scanner |
 |-----------|-----------|
 | <img src="https://i.imgur.com/ir.png" width="200"> | <img src="https://i.imgur.com/rf.png" width="200"> |
+<!-- Updated: 2026-09-12T10:30:50+07:00 -->
 
 </details>
 
@@ -172,7 +173,6 @@ Contributions welcome! Please follow these style rules:
 > The RF jammer feature is **illegal** in most countries.
 > **Use responsibly** and only on devices you own.
 
-<!-- Updated: 2026-09-12T10:30:50+07:00 -->
 ---
 
 ## 📜 License
