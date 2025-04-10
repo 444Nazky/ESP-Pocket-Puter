@@ -160,7 +160,6 @@ Contributions welcome! Please follow these style rules:
 | Type | Convention | Example |
 |------|------------|---------|
 | Variables | `snake_case` | `my_variable` |
-<!-- Updated: 2026-09-12T10:30:50+07:00 -->
 | Global Functions | `PascalCase` | `SPI_Test()` |
 | Class Methods | `PascalCase` | `AddItem()` |
 | Comments | ❌ Avoid | Code should be self-explanatory |
