@@ -42,6 +42,7 @@
 | Feature | Description |
 |---------|-------------|
 | 📺 TV-B-Gone | Turn off any TV instantly |
+<!-- Updated: 2026-09-12T10:30:50+07:00 -->
 | 🎛️ Universal Remote | Control TVs, projectors, ACs |
 | ⚡ IR Spammer | Flood with IR signals |
 
