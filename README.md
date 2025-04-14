@@ -79,7 +79,6 @@
 // Easy to customize for your setup!
 ```
 
-<!-- Updated: 2026-09-12T10:30:50+07:00 -->
 ### Wiring Diagram
 <img src="https://i.imgur.com/hySwcIf.png" width="400">
 
@@ -145,6 +144,7 @@ ESP-Pocket-Puter/
 | Main Menu | WiFi Scanner |
 |-----------|--------------|
 | <img src="https://i.imgur.com/menu.png" width="200"> | <img src="https://i.imgur.com/wifi.png" width="200"> |
+<!-- Updated: 2026-09-12T10:30:51+07:00 -->
 
 | IR Remote | RF Scanner |
 |-----------|-----------|
