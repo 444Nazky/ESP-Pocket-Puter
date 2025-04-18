@@ -25,6 +25,7 @@
 - 🔌 **Modular architecture** — Easy to extend with new modules
 
 ### 📡 Wi-Fi Module
+<!-- Updated: 2026-09-12T10:30:51+07:00 -->
 | Feature | Description |
 |---------|-------------|
 | 📶 Network Scanner | Discover nearby WiFi networks |
@@ -189,7 +190,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 <div align="center">
 
-<!-- Updated: 2026-09-12T10:30:51+07:00 -->
 ⭐ Star this repo if you found it useful! ⭐
 
 **Made with 💚 by [Nazky](https://github.com/444Nazky)**
