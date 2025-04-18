@@ -1,5 +1,6 @@
 # 🎮 ESP Pocket Puter
 
+<!-- Updated: 2026-09-12T10:30:51+07:00 -->
 <div align="center">
 
 ![ESP32](https://img.shields.io/badge/ESP32-C3-FF6B35?style=for-the-badge&logo=espressif&logoColor=white)
@@ -113,7 +114,6 @@ pio run --target upload
 3. Press Ok to select
 4. Long-press Ok for submenus
 
-<!-- Updated: 2026-09-12T10:30:51+07:00 -->
 ---
 <!-- Last updated: 2026-09-12T10:13:41+07:00 -->
 
