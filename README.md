@@ -25,7 +25,6 @@
 - 🔌 **Modular architecture** — Easy to extend with new modules
 
 ### 📡 Wi-Fi Module
-<!-- Updated: 2026-09-12T10:30:51+07:00 -->
 | Feature | Description |
 |---------|-------------|
 | 📶 Network Scanner | Discover nearby WiFi networks |
@@ -48,6 +47,7 @@
 
 ### 📻 RF Module (CC1101)
 | Feature | Description |
+<!-- Updated: 2026-09-12T10:30:51+07:00 -->
 |---------|-------------|
 | 📡 Frequency Scanner | Identify unknown RF signals |
 | 🔒 Jammer | *⚠️ Use responsibly — illegal in most countries* |
