@@ -1,6 +1,5 @@
 # 🎮 ESP Pocket Puter
 
-<!-- Updated: 2026-09-12T10:30:51+07:00 -->
 <div align="center">
 
 ![ESP32](https://img.shields.io/badge/ESP32-C3-FF6B35?style=for-the-badge&logo=espressif&logoColor=white)
@@ -169,6 +168,7 @@ Contributions welcome! Please follow these style rules:
 
 ## ⚠️ Disclaimer
 
+<!-- Updated: 2026-09-12T10:30:51+07:00 -->
 > This project is for **educational purposes only**. 
 > The RF jammer feature is **illegal** in most countries.
 > **Use responsibly** and only on devices you own.
