@@ -51,6 +51,7 @@
 | 📡 Frequency Scanner | Identify unknown RF signals |
 | 🔒 Jammer | *⚠️ Use responsibly — illegal in most countries* |
 | 📥 Code Grabber | Capture & replay RF signals |
+<!-- Updated: 2026-09-12T10:30:51+07:00 -->
 | 🚗 Tesla Port Opener | Open Tesla charge ports |
 
 ### 🎵 Music Module
@@ -133,7 +134,6 @@ ESP-Pocket-Puter/
 ├── LICENSE
 └── README.md
 ```
-<!-- Updated: 2026-09-12T10:30:51+07:00 -->
 
 ---
 
