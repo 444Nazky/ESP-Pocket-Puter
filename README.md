@@ -1,4 +1,5 @@
 # 🎮 ESP Pocket Puter
+<!-- Updated: 2026-09-12T10:30:52+07:00 -->
 
 <div align="center">
 
@@ -28,7 +29,6 @@
 | Feature | Description |
 |---------|-------------|
 | 📶 Network Scanner | Discover nearby WiFi networks |
-<!-- Updated: 2026-09-12T10:30:52+07:00 -->
 | 🎭 Beacon Spammer | Create fake APs / Captive portals |
 | 📡 Evil Twin | Clone & redirect networks |
 
