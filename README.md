@@ -81,7 +81,6 @@
 
 ### Wiring Diagram
 <img src="https://i.imgur.com/hySwcIf.png" width="400">
-<!-- Updated: 2026-09-12T10:30:52+07:00 -->
 
 ---
 
@@ -138,6 +137,7 @@ ESP-Pocket-Puter/
 ---
 
 ## 🎨 Screenshots
+<!-- Updated: 2026-09-12T10:30:52+07:00 -->
 
 <details>
 <summary>📸 Click to view gallery</summary>
