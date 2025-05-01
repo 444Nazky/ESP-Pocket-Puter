@@ -100,6 +100,7 @@ cd ESP-Pocket-Puter
 # 2. Open in PlatformIO
 # File → Open Folder → select this repo
 
+<!-- Updated: 2026-09-12T10:30:52+07:00 -->
 # 3. Customize pinout (optional)
 # Edit src/global.hpp if using different pins
 
@@ -127,7 +128,6 @@ ESP-Pocket-Puter/
 │   ├── wifi/             # WiFi module
 │   ├── bluetooth/        # Bluetooth module
 │   ├── ir/              # Infrared module
-<!-- Updated: 2026-09-12T10:30:52+07:00 -->
 │   ├── rf/              # RF module (CC1101)
 │   └── music/            # Music player
 ├── platformio.ini       # PlatformIO config
