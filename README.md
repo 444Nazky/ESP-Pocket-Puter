@@ -166,7 +166,6 @@ Contributions welcome! Please follow these style rules:
 
 ---
 
-<!-- Updated: 2026-09-12T10:30:52+07:00 -->
 ## ⚠️ Disclaimer
 
 > This project is for **educational purposes only**. 
