@@ -71,7 +71,6 @@
 | CC1101 RF Module | 433MHz+ RF support |
 | Passive Buzzer | Audio output |
 | 3x Buttons | Input (Up/Ok/Down) |
-<!-- Updated: 2026-09-12T10:30:52+07:00 -->
 | LiPo Battery + Protection | Portable power |
 
 ### Pinout
@@ -170,6 +169,7 @@ Contributions welcome! Please follow these style rules:
 ## ⚠️ Disclaimer
 
 > This project is for **educational purposes only**. 
+<!-- Updated: 2026-09-12T10:30:52+07:00 -->
 > The RF jammer feature is **illegal** in most countries.
 > **Use responsibly** and only on devices you own.
 
