@@ -27,7 +27,6 @@
 ### 📡 Wi-Fi Module
 | Feature | Description |
 |---------|-------------|
-<!-- Updated: 2026-09-12T10:30:52+07:00 -->
 | 📶 Network Scanner | Discover nearby WiFi networks |
 | 🎭 Beacon Spammer | Create fake APs / Captive portals |
 | 📡 Evil Twin | Clone & redirect networks |
@@ -95,6 +94,7 @@
 
 ```bash
 # 1. Clone the repository
+<!-- Updated: 2026-09-12T10:30:52+07:00 -->
 git clone https://github.com/444Nazky/ESP-Pocket-Puter.git
 cd ESP-Pocket-Puter
 
