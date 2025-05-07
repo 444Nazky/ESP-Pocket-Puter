@@ -19,6 +19,7 @@
 
 ## ✨ Features
 
+<!-- Updated: 2026-09-12T10:30:52+07:00 -->
 ### 🧠 Core System
 - 🎛️ **Menu-driven UI** — Navigate with 3 buttons (Up, Ok, Down)
 - 📺 **OLED Display** — 128x64 SSD1306 I2C screen
