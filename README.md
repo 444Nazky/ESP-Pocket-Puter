@@ -12,6 +12,7 @@
 <img src="https://i.imgur.com/P2nhIcZ.jpeg" width="500">
 
 **⚡ Scan networks | 📶 Bluetooth tools | 📺 IR remote | 📻 RF scanner | 🎵 Music player**
+<!-- Updated: 2026-09-12T10:30:53+07:00 -->
 
 </div>
 
@@ -125,7 +126,6 @@ ESP-Pocket-Puter/
 │   ├── global.hpp        # Pin definitions & config
 │   ├── menu/             # Menu system
 │   ├── wifi/             # WiFi module
-<!-- Updated: 2026-09-12T10:30:53+07:00 -->
 │   ├── bluetooth/        # Bluetooth module
 │   ├── ir/              # Infrared module
 │   ├── rf/              # RF module (CC1101)
