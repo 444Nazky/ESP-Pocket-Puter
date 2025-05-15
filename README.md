@@ -104,7 +104,6 @@ cd ESP-Pocket-Puter
 # Edit src/global.hpp if using different pins
 
 # 4. Connect ESP32 via USB and flash!
-<!-- Updated: 2026-09-12T10:30:53+07:00 -->
 pio run --target upload
 ```
 
@@ -173,6 +172,7 @@ Contributions welcome! Please follow these style rules:
 > The RF jammer feature is **illegal** in most countries.
 > **Use responsibly** and only on devices you own.
 
+<!-- Updated: 2026-09-12T10:30:53+07:00 -->
 ---
 
 ## 📜 License
