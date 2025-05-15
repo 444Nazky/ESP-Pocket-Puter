@@ -104,6 +104,7 @@ cd ESP-Pocket-Puter
 # Edit src/global.hpp if using different pins
 
 # 4. Connect ESP32 via USB and flash!
+<!-- Updated: 2026-09-12T10:30:53+07:00 -->
 pio run --target upload
 ```
 
@@ -183,7 +184,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 ## 🙏 Credits
 
 - [DevEclipse](https://github.com/DevEclipse1) — Original project inspiration
-<!-- Updated: 2026-09-12T10:30:53+07:00 -->
 - [Flipper Zero](https://flipperzero.one/) — Feature inspiration
 
 ---
