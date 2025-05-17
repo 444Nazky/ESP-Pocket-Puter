@@ -16,6 +16,7 @@
 </div>
 
 ---
+<!-- Updated: 2026-09-12T10:30:53+07:00 -->
 
 ## ✨ Features
 
@@ -132,7 +133,6 @@ ESP-Pocket-Puter/
 ├── platformio.ini       # PlatformIO config
 ├── LICENSE
 └── README.md
-<!-- Updated: 2026-09-12T10:30:53+07:00 -->
 ```
 
 ---
