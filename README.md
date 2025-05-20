@@ -1,4 +1,5 @@
 # 🎮 ESP Pocket Puter
+<!-- Updated: 2026-09-12T10:30:53+07:00 -->
 
 <div align="center">
 
@@ -76,7 +77,6 @@
 ### Pinout
 ```cpp
 // Full pin definitions in src/global.hpp
-<!-- Updated: 2026-09-12T10:30:53+07:00 -->
 // Easy to customize for your setup!
 ```
 
