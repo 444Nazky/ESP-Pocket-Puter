@@ -8,6 +8,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 *A compact ESP32-based Flipper Zero alternative with display, buttons, buzzer, infrared, and RF support.*
+<!-- Updated: 2026-09-12T10:30:54+07:00 -->
 
 <img src="https://i.imgur.com/P2nhIcZ.jpeg" width="500">
 
@@ -68,7 +69,6 @@
 | ESP32-C3 Super Mini | Main controller |
 | SSD1306 128x64 OLED | Display (I2C) |
 | IR Transmitter | Send infrared signals |
-<!-- Updated: 2026-09-12T10:30:54+07:00 -->
 | CC1101 RF Module | 433MHz+ RF support |
 | Passive Buzzer | Audio output |
 | 3x Buttons | Input (Up/Ok/Down) |
