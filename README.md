@@ -29,7 +29,6 @@
 |---------|-------------|
 | 📶 Network Scanner | Discover nearby WiFi networks |
 | 🎭 Beacon Spammer | Create fake APs / Captive portals |
-<!-- Updated: 2026-09-12T10:30:54+07:00 -->
 | 📡 Evil Twin | Clone & redirect networks |
 
 ### 📶 Bluetooth Module
@@ -37,6 +36,7 @@
 |---------|-------------|
 | 🔍 Device Scanner | Find nearby Bluetooth devices |
 | ⚡ FastPair Spam | Annoy friends with FastPair popups |
+<!-- Updated: 2026-09-12T10:30:54+07:00 -->
 | 🍎 Sour Apple | iPhone proximity spam |
 
 ### 📺 Infrared Module
