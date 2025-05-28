@@ -62,7 +62,6 @@
 
 ## 🛠️ Hardware
 
-<!-- Updated: 2026-09-12T10:30:54+07:00 -->
 ### Required Components
 | Component | Purpose |
 |-----------|---------|
