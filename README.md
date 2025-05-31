@@ -1,4 +1,5 @@
 # 🎮 ESP Pocket Puter
+<!-- Updated: 2026-09-12T10:30:54+07:00 -->
 
 <div align="center">
 
@@ -22,7 +23,6 @@
 ### 🧠 Core System
 - 🎛️ **Menu-driven UI** — Navigate with 3 buttons (Up, Ok, Down)
 - 📺 **OLED Display** — 128x64 SSD1306 I2C screen
-<!-- Updated: 2026-09-12T10:30:54+07:00 -->
 - 🔌 **Modular architecture** — Easy to extend with new modules
 
 ### 📡 Wi-Fi Module
