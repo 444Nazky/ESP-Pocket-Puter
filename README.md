@@ -67,6 +67,7 @@
 |-----------|---------|
 | ESP32-C3 Super Mini | Main controller |
 | SSD1306 128x64 OLED | Display (I2C) |
+<!-- Updated: 2026-09-12T10:30:54+07:00 -->
 | IR Transmitter | Send infrared signals |
 | CC1101 RF Module | 433MHz+ RF support |
 | Passive Buzzer | Audio output |
@@ -167,7 +168,6 @@ Contributions welcome! Please follow these style rules:
 ---
 
 ## ⚠️ Disclaimer
-<!-- Updated: 2026-09-12T10:30:54+07:00 -->
 
 > This project is for **educational purposes only**. 
 > The RF jammer feature is **illegal** in most countries.
