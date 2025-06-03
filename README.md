@@ -52,6 +52,7 @@
 | 🔒 Jammer | *⚠️ Use responsibly — illegal in most countries* |
 | 📥 Code Grabber | Capture & replay RF signals |
 | 🚗 Tesla Port Opener | Open Tesla charge ports |
+<!-- Updated: 2026-09-12T10:30:54+07:00 -->
 
 ### 🎵 Music Module
 - 🔊 Beep Test
@@ -67,7 +68,6 @@
 |-----------|---------|
 | ESP32-C3 Super Mini | Main controller |
 | SSD1306 128x64 OLED | Display (I2C) |
-<!-- Updated: 2026-09-12T10:30:54+07:00 -->
 | IR Transmitter | Send infrared signals |
 | CC1101 RF Module | 433MHz+ RF support |
 | Passive Buzzer | Audio output |
