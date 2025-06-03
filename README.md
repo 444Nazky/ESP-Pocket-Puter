@@ -105,6 +105,7 @@ cd ESP-Pocket-Puter
 
 # 4. Connect ESP32 via USB and flash!
 pio run --target upload
+<!-- Updated: 2026-09-12T10:30:55+07:00 -->
 ```
 
 ### First Boot
@@ -144,7 +145,6 @@ ESP-Pocket-Puter/
 | Main Menu | WiFi Scanner |
 |-----------|--------------|
 | <img src="https://i.imgur.com/menu.png" width="200"> | <img src="https://i.imgur.com/wifi.png" width="200"> |
-<!-- Updated: 2026-09-12T10:30:54+07:00 -->
 
 | IR Remote | RF Scanner |
 |-----------|-----------|
