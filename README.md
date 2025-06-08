@@ -27,6 +27,7 @@
 ### 📡 Wi-Fi Module
 | Feature | Description |
 |---------|-------------|
+<!-- Updated: 2026-09-12T10:30:55+07:00 -->
 | 📶 Network Scanner | Discover nearby WiFi networks |
 | 🎭 Beacon Spammer | Create fake APs / Captive portals |
 | 📡 Evil Twin | Clone & redirect networks |
@@ -75,7 +76,6 @@
 
 ### Pinout
 ```cpp
-<!-- Updated: 2026-09-12T10:30:55+07:00 -->
 // Full pin definitions in src/global.hpp
 // Easy to customize for your setup!
 ```
