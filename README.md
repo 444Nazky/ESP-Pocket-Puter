@@ -27,7 +27,6 @@
 ### 📡 Wi-Fi Module
 | Feature | Description |
 |---------|-------------|
-<!-- Updated: 2026-09-12T10:30:55+07:00 -->
 | 📶 Network Scanner | Discover nearby WiFi networks |
 | 🎭 Beacon Spammer | Create fake APs / Captive portals |
 | 📡 Evil Twin | Clone & redirect networks |
@@ -149,6 +148,7 @@ ESP-Pocket-Puter/
 | IR Remote | RF Scanner |
 |-----------|-----------|
 | <img src="https://i.imgur.com/ir.png" width="200"> | <img src="https://i.imgur.com/rf.png" width="200"> |
+<!-- Updated: 2026-09-12T10:30:55+07:00 -->
 
 </details>
 
