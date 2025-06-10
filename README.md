@@ -43,7 +43,6 @@
 |---------|-------------|
 | 📺 TV-B-Gone | Turn off any TV instantly |
 | 🎛️ Universal Remote | Control TVs, projectors, ACs |
-<!-- Updated: 2026-09-12T10:30:55+07:00 -->
 | ⚡ IR Spammer | Flood with IR signals |
 
 ### 📻 RF Module (CC1101)
@@ -149,6 +148,7 @@ ESP-Pocket-Puter/
 | IR Remote | RF Scanner |
 |-----------|-----------|
 | <img src="https://i.imgur.com/ir.png" width="200"> | <img src="https://i.imgur.com/rf.png" width="200"> |
+<!-- Updated: 2026-09-12T10:30:55+07:00 -->
 
 </details>
 
