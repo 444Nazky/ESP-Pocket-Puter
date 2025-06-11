@@ -72,7 +72,6 @@
 | Passive Buzzer | Audio output |
 | 3x Buttons | Input (Up/Ok/Down) |
 | LiPo Battery + Protection | Portable power |
-<!-- Updated: 2026-09-12T10:30:55+07:00 -->
 
 ### Pinout
 ```cpp
@@ -123,6 +122,7 @@ pio run --target upload
 ESP-Pocket-Puter/
 ├── src/
 │   ├── main.cpp          # Entry point
+<!-- Updated: 2026-09-12T10:30:55+07:00 -->
 │   ├── global.hpp        # Pin definitions & config
 │   ├── menu/             # Menu system
 │   ├── wifi/             # WiFi module
