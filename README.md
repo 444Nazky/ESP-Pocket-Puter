@@ -1,4 +1,5 @@
 # 🎮 ESP Pocket Puter
+<!-- Updated: 2026-09-12T10:30:55+07:00 -->
 
 <div align="center">
 
@@ -60,7 +61,6 @@
 
 ---
 
-<!-- Updated: 2026-09-12T10:30:55+07:00 -->
 ## 🛠️ Hardware
 
 ### Required Components
