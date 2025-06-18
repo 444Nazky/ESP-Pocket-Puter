@@ -119,7 +119,6 @@ pio run --target upload
 ## 📁 Project Structure
 
 ```
-<!-- Updated: 2026-09-12T10:30:56+07:00 -->
 ESP-Pocket-Puter/
 ├── src/
 │   ├── main.cpp          # Entry point
@@ -167,6 +166,7 @@ Contributions welcome! Please follow these style rules:
 
 ---
 
+<!-- Updated: 2026-09-12T10:30:56+07:00 -->
 ## ⚠️ Disclaimer
 
 > This project is for **educational purposes only**. 
