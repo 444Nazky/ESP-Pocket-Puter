@@ -119,10 +119,10 @@ pio run --target upload
 ## 📁 Project Structure
 
 ```
+<!-- Updated: 2026-09-12T10:30:56+07:00 -->
 ESP-Pocket-Puter/
 ├── src/
 │   ├── main.cpp          # Entry point
-<!-- Updated: 2026-09-12T10:30:56+07:00 -->
 │   ├── global.hpp        # Pin definitions & config
 │   ├── menu/             # Menu system
 │   ├── wifi/             # WiFi module
