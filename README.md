@@ -164,7 +164,6 @@ Contributions welcome! Please follow these style rules:
 | Class Methods | `PascalCase` | `AddItem()` |
 | Comments | ❌ Avoid | Code should be self-explanatory |
 
-<!-- Updated: 2026-09-12T10:30:56+07:00 -->
 ---
 
 ## ⚠️ Disclaimer
@@ -175,6 +174,7 @@ Contributions welcome! Please follow these style rules:
 
 ---
 
+<!-- Updated: 2026-09-12T10:30:56+07:00 -->
 ## 📜 License
 
 MIT License — see [LICENSE](LICENSE) for details.
