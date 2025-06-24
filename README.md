@@ -132,6 +132,7 @@ ESP-Pocket-Puter/
 ├── platformio.ini       # PlatformIO config
 ├── LICENSE
 └── README.md
+<!-- Updated: 2026-09-12T10:30:56+07:00 -->
 ```
 
 ---
@@ -142,7 +143,6 @@ ESP-Pocket-Puter/
 <summary>📸 Click to view gallery</summary>
 
 | Main Menu | WiFi Scanner |
-<!-- Updated: 2026-09-12T10:30:56+07:00 -->
 |-----------|--------------|
 | <img src="https://i.imgur.com/menu.png" width="200"> | <img src="https://i.imgur.com/wifi.png" width="200"> |
 
