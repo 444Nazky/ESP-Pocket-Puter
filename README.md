@@ -38,7 +38,6 @@
 | ⚡ FastPair Spam | Annoy friends with FastPair popups |
 | 🍎 Sour Apple | iPhone proximity spam |
 
-<!-- Updated: 2026-09-12T10:30:57+07:00 -->
 ### 📺 Infrared Module
 | Feature | Description |
 |---------|-------------|
@@ -113,6 +112,7 @@ pio run --target upload
 2. Navigate the menu with Up/Down buttons
 3. Press Ok to select
 4. Long-press Ok for submenus
+<!-- Updated: 2026-09-12T10:30:57+07:00 -->
 
 ---
 <!-- Last updated: 2026-09-12T10:13:41+07:00 -->
