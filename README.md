@@ -21,6 +21,7 @@
 
 ### 🧠 Core System
 - 🎛️ **Menu-driven UI** — Navigate with 3 buttons (Up, Ok, Down)
+<!-- Updated: 2026-09-12T10:30:57+07:00 -->
 - 📺 **OLED Display** — 128x64 SSD1306 I2C screen
 - 🔌 **Modular architecture** — Easy to extend with new modules
 
@@ -95,7 +96,6 @@
 ```bash
 # 1. Clone the repository
 git clone https://github.com/444Nazky/ESP-Pocket-Puter.git
-<!-- Updated: 2026-09-12T10:30:57+07:00 -->
 cd ESP-Pocket-Puter
 
 # 2. Open in PlatformIO
