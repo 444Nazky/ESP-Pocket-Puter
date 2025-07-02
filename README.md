@@ -44,6 +44,7 @@
 | 📺 TV-B-Gone | Turn off any TV instantly |
 | 🎛️ Universal Remote | Control TVs, projectors, ACs |
 | ⚡ IR Spammer | Flood with IR signals |
+<!-- Updated: 2026-09-12T10:30:57+07:00 -->
 
 ### 📻 RF Module (CC1101)
 | Feature | Description |
@@ -51,7 +52,6 @@
 | 📡 Frequency Scanner | Identify unknown RF signals |
 | 🔒 Jammer | *⚠️ Use responsibly — illegal in most countries* |
 | 📥 Code Grabber | Capture & replay RF signals |
-<!-- Updated: 2026-09-12T10:30:57+07:00 -->
 | 🚗 Tesla Port Opener | Open Tesla charge ports |
 
 ### 🎵 Music Module
