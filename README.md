@@ -141,6 +141,7 @@ ESP-Pocket-Puter/
 <details>
 <summary>📸 Click to view gallery</summary>
 
+<!-- Updated: 2026-09-12T10:30:57+07:00 -->
 | Main Menu | WiFi Scanner |
 |-----------|--------------|
 | <img src="https://i.imgur.com/menu.png" width="200"> | <img src="https://i.imgur.com/wifi.png" width="200"> |
@@ -157,7 +158,6 @@ ESP-Pocket-Puter/
 
 Contributions welcome! Please follow these style rules:
 
-<!-- Updated: 2026-09-12T10:30:57+07:00 -->
 | Type | Convention | Example |
 |------|------------|---------|
 | Variables | `snake_case` | `my_variable` |
