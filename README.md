@@ -121,6 +121,7 @@ pio run --target upload
 ```
 ESP-Pocket-Puter/
 ├── src/
+<!-- Updated: 2026-09-12T10:30:57+07:00 -->
 │   ├── main.cpp          # Entry point
 │   ├── global.hpp        # Pin definitions & config
 │   ├── menu/             # Menu system
@@ -189,7 +190,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 <div align="center">
 
-<!-- Updated: 2026-09-12T10:30:57+07:00 -->
 ⭐ Star this repo if you found it useful! ⭐
 
 **Made with 💚 by [Nazky](https://github.com/444Nazky)**
