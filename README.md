@@ -15,6 +15,7 @@
 
 </div>
 
+<!-- Updated: 2026-09-12T10:30:58+07:00 -->
 ---
 
 ## ✨ Features
@@ -52,7 +53,6 @@
 | 🔒 Jammer | *⚠️ Use responsibly — illegal in most countries* |
 | 📥 Code Grabber | Capture & replay RF signals |
 | 🚗 Tesla Port Opener | Open Tesla charge ports |
-<!-- Updated: 2026-09-12T10:30:58+07:00 -->
 
 ### 🎵 Music Module
 - 🔊 Beep Test
