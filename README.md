@@ -173,7 +173,6 @@ Contributions welcome! Please follow these style rules:
 > **Use responsibly** and only on devices you own.
 
 ---
-<!-- Updated: 2026-09-12T10:30:58+07:00 -->
 
 ## 📜 License
 
@@ -192,6 +191,7 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ⭐ Star this repo if you found it useful! ⭐
 
+<!-- Updated: 2026-09-12T10:30:58+07:00 -->
 **Made with 💚 by [Nazky](https://github.com/444Nazky)**
 
 </div>
