@@ -12,7 +12,6 @@
 <img src="https://i.imgur.com/P2nhIcZ.jpeg" width="500">
 
 **⚡ Scan networks | 📶 Bluetooth tools | 📺 IR remote | 📻 RF scanner | 🎵 Music player**
-<!-- Updated: 2026-09-12T10:30:58+07:00 -->
 
 </div>
 
@@ -48,6 +47,7 @@
 
 ### 📻 RF Module (CC1101)
 | Feature | Description |
+<!-- Updated: 2026-09-12T10:30:58+07:00 -->
 |---------|-------------|
 | 📡 Frequency Scanner | Identify unknown RF signals |
 | 🔒 Jammer | *⚠️ Use responsibly — illegal in most countries* |
