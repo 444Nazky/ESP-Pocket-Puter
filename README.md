@@ -12,6 +12,7 @@
 <img src="https://i.imgur.com/P2nhIcZ.jpeg" width="500">
 
 **⚡ Scan networks | 📶 Bluetooth tools | 📺 IR remote | 📻 RF scanner | 🎵 Music player**
+<!-- Updated: 2026-09-12T10:30:58+07:00 -->
 
 </div>
 
@@ -104,7 +105,6 @@ cd ESP-Pocket-Puter
 # Edit src/global.hpp if using different pins
 
 # 4. Connect ESP32 via USB and flash!
-<!-- Updated: 2026-09-12T10:30:58+07:00 -->
 pio run --target upload
 ```
 
