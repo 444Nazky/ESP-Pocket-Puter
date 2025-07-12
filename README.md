@@ -16,6 +16,7 @@
 </div>
 
 ---
+<!-- Updated: 2026-09-12T10:30:58+07:00 -->
 
 ## ✨ Features
 
@@ -106,7 +107,6 @@ cd ESP-Pocket-Puter
 # 4. Connect ESP32 via USB and flash!
 pio run --target upload
 ```
-<!-- Updated: 2026-09-12T10:30:58+07:00 -->
 
 ### First Boot
 1. Power on the device
