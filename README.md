@@ -1,3 +1,4 @@
+<!-- Updated: 2026-09-12T10:30:58+07:00 -->
 # 🎮 ESP Pocket Puter
 
 <div align="center">
@@ -33,7 +34,6 @@
 
 ### 📶 Bluetooth Module
 | Feature | Description |
-<!-- Updated: 2026-09-12T10:30:58+07:00 -->
 |---------|-------------|
 | 🔍 Device Scanner | Find nearby Bluetooth devices |
 | ⚡ FastPair Spam | Annoy friends with FastPair popups |
