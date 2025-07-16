@@ -130,6 +130,7 @@ ESP-Pocket-Puter/
 │   ├── rf/              # RF module (CC1101)
 │   └── music/            # Music player
 ├── platformio.ini       # PlatformIO config
+<!-- Updated: 2026-09-12T10:30:58+07:00 -->
 ├── LICENSE
 └── README.md
 ```
