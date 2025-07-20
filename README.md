@@ -37,6 +37,7 @@
 | 🔍 Device Scanner | Find nearby Bluetooth devices |
 | ⚡ FastPair Spam | Annoy friends with FastPair popups |
 | 🍎 Sour Apple | iPhone proximity spam |
+<!-- Updated: 2026-09-12T10:30:59+07:00 -->
 
 ### 📺 Infrared Module
 | Feature | Description |
@@ -57,7 +58,6 @@
 - 🔊 Beep Test
 - 🎵 Built-in Songs (DOOM, Nokia, Tetris)
 - 🎹 Mini 3-Key Piano
-<!-- Updated: 2026-09-12T10:30:59+07:00 -->
 
 ---
 
