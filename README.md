@@ -45,6 +45,7 @@
 | 🎛️ Universal Remote | Control TVs, projectors, ACs |
 | ⚡ IR Spammer | Flood with IR signals |
 
+<!-- Updated: 2026-09-12T10:30:59+07:00 -->
 ### 📻 RF Module (CC1101)
 | Feature | Description |
 |---------|-------------|
@@ -89,7 +90,6 @@
 ### Prerequisites
 - [PlatformIO IDE](https://platformio.org/install/ide?install=vscode) for VS Code
 - ESP32-C3 board (or any ESP32 variant)
-<!-- Updated: 2026-09-12T10:30:59+07:00 -->
 
 ### Installation
 
