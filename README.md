@@ -37,7 +37,6 @@
 | 🔍 Device Scanner | Find nearby Bluetooth devices |
 | ⚡ FastPair Spam | Annoy friends with FastPair popups |
 | 🍎 Sour Apple | iPhone proximity spam |
-<!-- Updated: 2026-09-12T10:30:59+07:00 -->
 
 ### 📺 Infrared Module
 | Feature | Description |
@@ -90,6 +89,7 @@
 ### Prerequisites
 - [PlatformIO IDE](https://platformio.org/install/ide?install=vscode) for VS Code
 - ESP32-C3 board (or any ESP32 variant)
+<!-- Updated: 2026-09-12T10:30:59+07:00 -->
 
 ### Installation
 
