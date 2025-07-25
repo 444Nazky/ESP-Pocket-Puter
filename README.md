@@ -162,7 +162,6 @@ Contributions welcome! Please follow these style rules:
 | Variables | `snake_case` | `my_variable` |
 | Global Functions | `PascalCase` | `SPI_Test()` |
 | Class Methods | `PascalCase` | `AddItem()` |
-<!-- Updated: 2026-09-12T10:30:59+07:00 -->
 | Comments | ❌ Avoid | Code should be self-explanatory |
 
 ---
@@ -183,6 +182,7 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ## 🙏 Credits
 
+<!-- Updated: 2026-09-12T10:30:59+07:00 -->
 - [DevEclipse](https://github.com/DevEclipse1) — Original project inspiration
 - [Flipper Zero](https://flipperzero.one/) — Feature inspiration
 
