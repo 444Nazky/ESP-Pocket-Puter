@@ -27,6 +27,7 @@
 ### 📡 Wi-Fi Module
 | Feature | Description |
 |---------|-------------|
+<!-- Updated: 2026-09-12T10:31:00+07:00 -->
 | 📶 Network Scanner | Discover nearby WiFi networks |
 | 🎭 Beacon Spammer | Create fake APs / Captive portals |
 | 📡 Evil Twin | Clone & redirect networks |
@@ -170,7 +171,6 @@ Contributions welcome! Please follow these style rules:
 
 > This project is for **educational purposes only**. 
 > The RF jammer feature is **illegal** in most countries.
-<!-- Updated: 2026-09-12T10:31:00+07:00 -->
 > **Use responsibly** and only on devices you own.
 
 ---
