@@ -34,6 +34,7 @@
 ### 📶 Bluetooth Module
 | Feature | Description |
 |---------|-------------|
+<!-- Updated: 2026-09-12T10:31:00+07:00 -->
 | 🔍 Device Scanner | Find nearby Bluetooth devices |
 | ⚡ FastPair Spam | Annoy friends with FastPair popups |
 | 🍎 Sour Apple | iPhone proximity spam |
@@ -175,7 +176,6 @@ Contributions welcome! Please follow these style rules:
 ---
 
 ## 📜 License
-<!-- Updated: 2026-09-12T10:31:00+07:00 -->
 
 MIT License — see [LICENSE](LICENSE) for details.
 
