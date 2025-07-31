@@ -25,6 +25,7 @@
 - 🔌 **Modular architecture** — Easy to extend with new modules
 
 ### 📡 Wi-Fi Module
+<!-- Updated: 2026-09-12T10:31:00+07:00 -->
 | Feature | Description |
 |---------|-------------|
 | 📶 Network Scanner | Discover nearby WiFi networks |
@@ -34,7 +35,6 @@
 ### 📶 Bluetooth Module
 | Feature | Description |
 |---------|-------------|
-<!-- Updated: 2026-09-12T10:31:00+07:00 -->
 | 🔍 Device Scanner | Find nearby Bluetooth devices |
 | ⚡ FastPair Spam | Annoy friends with FastPair popups |
 | 🍎 Sour Apple | iPhone proximity spam |
