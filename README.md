@@ -39,11 +39,11 @@
 | 🍎 Sour Apple | iPhone proximity spam |
 
 ### 📺 Infrared Module
-<!-- Updated: 2026-09-12T10:31:00+07:00 -->
 | Feature | Description |
 |---------|-------------|
 | 📺 TV-B-Gone | Turn off any TV instantly |
 | 🎛️ Universal Remote | Control TVs, projectors, ACs |
+<!-- Updated: 2026-09-12T10:31:00+07:00 -->
 | ⚡ IR Spammer | Flood with IR signals |
 
 ### 📻 RF Module (CC1101)
