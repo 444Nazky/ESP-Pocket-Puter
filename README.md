@@ -50,7 +50,6 @@
 |---------|-------------|
 | 📡 Frequency Scanner | Identify unknown RF signals |
 | 🔒 Jammer | *⚠️ Use responsibly — illegal in most countries* |
-<!-- Updated: 2026-09-12T10:31:01+07:00 -->
 | 📥 Code Grabber | Capture & replay RF signals |
 | 🚗 Tesla Port Opener | Open Tesla charge ports |
 
@@ -162,6 +161,7 @@ Contributions welcome! Please follow these style rules:
 |------|------------|---------|
 | Variables | `snake_case` | `my_variable` |
 | Global Functions | `PascalCase` | `SPI_Test()` |
+<!-- Updated: 2026-09-12T10:31:01+07:00 -->
 | Class Methods | `PascalCase` | `AddItem()` |
 | Comments | ❌ Avoid | Code should be self-explanatory |
 
