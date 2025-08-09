@@ -40,6 +40,7 @@
 
 ### 📺 Infrared Module
 | Feature | Description |
+<!-- Updated: 2026-09-12T10:31:01+07:00 -->
 |---------|-------------|
 | 📺 TV-B-Gone | Turn off any TV instantly |
 | 🎛️ Universal Remote | Control TVs, projectors, ACs |
@@ -177,7 +178,6 @@ Contributions welcome! Please follow these style rules:
 ## 📜 License
 
 MIT License — see [LICENSE](LICENSE) for details.
-<!-- Updated: 2026-09-12T10:31:01+07:00 -->
 
 ---
 
