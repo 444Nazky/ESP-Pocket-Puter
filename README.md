@@ -40,7 +40,6 @@
 
 ### 📺 Infrared Module
 | Feature | Description |
-<!-- Updated: 2026-09-12T10:31:01+07:00 -->
 |---------|-------------|
 | 📺 TV-B-Gone | Turn off any TV instantly |
 | 🎛️ Universal Remote | Control TVs, projectors, ACs |
@@ -55,6 +54,7 @@
 | 🚗 Tesla Port Opener | Open Tesla charge ports |
 
 ### 🎵 Music Module
+<!-- Updated: 2026-09-12T10:31:01+07:00 -->
 - 🔊 Beep Test
 - 🎵 Built-in Songs (DOOM, Nokia, Tetris)
 - 🎹 Mini 3-Key Piano
