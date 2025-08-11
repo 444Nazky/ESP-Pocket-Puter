@@ -1,3 +1,4 @@
+<!-- Updated: 2026-09-12T10:31:01+07:00 -->
 # 🎮 ESP Pocket Puter
 
 <div align="center">
@@ -54,7 +55,6 @@
 | 🚗 Tesla Port Opener | Open Tesla charge ports |
 
 ### 🎵 Music Module
-<!-- Updated: 2026-09-12T10:31:01+07:00 -->
 - 🔊 Beep Test
 - 🎵 Built-in Songs (DOOM, Nokia, Tetris)
 - 🎹 Mini 3-Key Piano
