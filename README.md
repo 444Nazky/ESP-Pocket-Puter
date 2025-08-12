@@ -92,6 +92,7 @@
 
 ### Installation
 
+<!-- Updated: 2026-09-12T10:31:01+07:00 -->
 ```bash
 # 1. Clone the repository
 git clone https://github.com/444Nazky/ESP-Pocket-Puter.git
@@ -138,7 +139,6 @@ ESP-Pocket-Puter/
 
 ## 🎨 Screenshots
 
-<!-- Updated: 2026-09-12T10:31:01+07:00 -->
 <details>
 <summary>📸 Click to view gallery</summary>
 
