@@ -69,7 +69,6 @@
 | SSD1306 128x64 OLED | Display (I2C) |
 | IR Transmitter | Send infrared signals |
 | CC1101 RF Module | 433MHz+ RF support |
-<!-- Updated: 2026-09-12T10:31:01+07:00 -->
 | Passive Buzzer | Audio output |
 | 3x Buttons | Input (Up/Ok/Down) |
 | LiPo Battery + Protection | Portable power |
@@ -168,6 +167,7 @@ Contributions welcome! Please follow these style rules:
 ---
 
 ## ⚠️ Disclaimer
+<!-- Updated: 2026-09-12T10:31:01+07:00 -->
 
 > This project is for **educational purposes only**. 
 > The RF jammer feature is **illegal** in most countries.
