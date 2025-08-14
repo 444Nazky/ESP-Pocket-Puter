@@ -25,6 +25,7 @@
 - 🔌 **Modular architecture** — Easy to extend with new modules
 
 ### 📡 Wi-Fi Module
+<!-- Updated: 2026-09-12T10:31:01+07:00 -->
 | Feature | Description |
 |---------|-------------|
 | 📶 Network Scanner | Discover nearby WiFi networks |
@@ -73,7 +74,6 @@
 | 3x Buttons | Input (Up/Ok/Down) |
 | LiPo Battery + Protection | Portable power |
 
-<!-- Updated: 2026-09-12T10:31:01+07:00 -->
 ### Pinout
 ```cpp
 // Full pin definitions in src/global.hpp
