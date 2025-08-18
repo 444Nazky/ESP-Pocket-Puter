@@ -81,7 +81,6 @@
 
 ### Wiring Diagram
 <img src="https://i.imgur.com/hySwcIf.png" width="400">
-<!-- Updated: 2026-09-12T10:31:02+07:00 -->
 
 ---
 
@@ -102,6 +101,7 @@ cd ESP-Pocket-Puter
 # File → Open Folder → select this repo
 
 # 3. Customize pinout (optional)
+<!-- Updated: 2026-09-12T10:31:02+07:00 -->
 # Edit src/global.hpp if using different pins
 
 # 4. Connect ESP32 via USB and flash!
