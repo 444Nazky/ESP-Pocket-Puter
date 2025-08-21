@@ -73,6 +73,7 @@
 | 3x Buttons | Input (Up/Ok/Down) |
 | LiPo Battery + Protection | Portable power |
 
+<!-- Updated: 2026-09-12T10:31:02+07:00 -->
 ### Pinout
 ```cpp
 // Full pin definitions in src/global.hpp
@@ -173,7 +174,6 @@ Contributions welcome! Please follow these style rules:
 > **Use responsibly** and only on devices you own.
 
 ---
-<!-- Updated: 2026-09-12T10:31:02+07:00 -->
 
 ## 📜 License
 
