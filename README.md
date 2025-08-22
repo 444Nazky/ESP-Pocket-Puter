@@ -50,7 +50,6 @@
 |---------|-------------|
 | 📡 Frequency Scanner | Identify unknown RF signals |
 | 🔒 Jammer | *⚠️ Use responsibly — illegal in most countries* |
-<!-- Updated: 2026-09-12T10:31:02+07:00 -->
 | 📥 Code Grabber | Capture & replay RF signals |
 | 🚗 Tesla Port Opener | Open Tesla charge ports |
 
@@ -102,6 +101,7 @@ cd ESP-Pocket-Puter
 # File → Open Folder → select this repo
 
 # 3. Customize pinout (optional)
+<!-- Updated: 2026-09-12T10:31:02+07:00 -->
 # Edit src/global.hpp if using different pins
 
 # 4. Connect ESP32 via USB and flash!
