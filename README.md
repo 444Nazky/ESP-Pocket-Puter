@@ -87,7 +87,6 @@
 ## 🚀 Getting Started
 
 ### Prerequisites
-<!-- Updated: 2026-09-12T10:31:02+07:00 -->
 - [PlatformIO IDE](https://platformio.org/install/ide?install=vscode) for VS Code
 - ESP32-C3 board (or any ESP32 variant)
 
@@ -187,6 +186,7 @@ MIT License — see [LICENSE](LICENSE) for details.
 - [Flipper Zero](https://flipperzero.one/) — Feature inspiration
 
 ---
+<!-- Updated: 2026-09-12T10:31:02+07:00 -->
 
 <div align="center">
 
