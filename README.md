@@ -11,6 +11,7 @@
 
 <img src="https://i.imgur.com/P2nhIcZ.jpeg" width="500">
 
+<!-- Updated: 2026-09-12T10:31:03+07:00 -->
 **⚡ Scan networks | 📶 Bluetooth tools | 📺 IR remote | 📻 RF scanner | 🎵 Music player**
 
 </div>
@@ -128,7 +129,6 @@ ESP-Pocket-Puter/
 │   ├── bluetooth/        # Bluetooth module
 │   ├── ir/              # Infrared module
 │   ├── rf/              # RF module (CC1101)
-<!-- Updated: 2026-09-12T10:31:02+07:00 -->
 │   └── music/            # Music player
 ├── platformio.ini       # PlatformIO config
 ├── LICENSE
