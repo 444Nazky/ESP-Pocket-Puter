@@ -11,7 +11,6 @@
 
 <img src="https://i.imgur.com/P2nhIcZ.jpeg" width="500">
 
-<!-- Updated: 2026-09-12T10:31:03+07:00 -->
 **⚡ Scan networks | 📶 Bluetooth tools | 📺 IR remote | 📻 RF scanner | 🎵 Music player**
 
 </div>
@@ -161,6 +160,7 @@ Contributions welcome! Please follow these style rules:
 | Type | Convention | Example |
 |------|------------|---------|
 | Variables | `snake_case` | `my_variable` |
+<!-- Updated: 2026-09-12T10:31:03+07:00 -->
 | Global Functions | `PascalCase` | `SPI_Test()` |
 | Class Methods | `PascalCase` | `AddItem()` |
 | Comments | ❌ Avoid | Code should be self-explanatory |
