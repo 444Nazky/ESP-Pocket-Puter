@@ -124,7 +124,6 @@ ESP-Pocket-Puter/
 │   ├── main.cpp          # Entry point
 │   ├── global.hpp        # Pin definitions & config
 │   ├── menu/             # Menu system
-<!-- Updated: 2026-09-12T10:31:03+07:00 -->
 │   ├── wifi/             # WiFi module
 │   ├── bluetooth/        # Bluetooth module
 │   ├── ir/              # Infrared module
@@ -133,6 +132,7 @@ ESP-Pocket-Puter/
 ├── platformio.ini       # PlatformIO config
 ├── LICENSE
 └── README.md
+<!-- Updated: 2026-09-12T10:31:03+07:00 -->
 ```
 
 ---
