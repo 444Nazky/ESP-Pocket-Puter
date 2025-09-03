@@ -37,6 +37,7 @@
 | 🔍 Device Scanner | Find nearby Bluetooth devices |
 | ⚡ FastPair Spam | Annoy friends with FastPair popups |
 | 🍎 Sour Apple | iPhone proximity spam |
+<!-- Updated: 2026-09-12T10:31:03+07:00 -->
 
 ### 📺 Infrared Module
 | Feature | Description |
@@ -163,7 +164,6 @@ Contributions welcome! Please follow these style rules:
 | Global Functions | `PascalCase` | `SPI_Test()` |
 | Class Methods | `PascalCase` | `AddItem()` |
 | Comments | ❌ Avoid | Code should be self-explanatory |
-<!-- Updated: 2026-09-12T10:31:03+07:00 -->
 
 ---
 
