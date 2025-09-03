@@ -93,6 +93,7 @@
 ### Installation
 
 ```bash
+<!-- Updated: 2026-09-12T10:31:03+07:00 -->
 # 1. Clone the repository
 git clone https://github.com/444Nazky/ESP-Pocket-Puter.git
 cd ESP-Pocket-Puter
@@ -118,7 +119,6 @@ pio run --target upload
 
 ## 📁 Project Structure
 
-<!-- Updated: 2026-09-12T10:31:03+07:00 -->
 ```
 ESP-Pocket-Puter/
 ├── src/
