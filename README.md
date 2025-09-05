@@ -107,7 +107,6 @@ cd ESP-Pocket-Puter
 pio run --target upload
 ```
 
-<!-- Updated: 2026-09-12T10:31:03+07:00 -->
 ### First Boot
 1. Power on the device
 2. Navigate the menu with Up/Down buttons
@@ -191,6 +190,7 @@ MIT License — see [LICENSE](LICENSE) for details.
 <div align="center">
 
 ⭐ Star this repo if you found it useful! ⭐
+<!-- Updated: 2026-09-12T10:31:03+07:00 -->
 
 **Made with 💚 by [Nazky](https://github.com/444Nazky)**
 
