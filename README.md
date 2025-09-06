@@ -64,6 +64,7 @@
 
 ### Required Components
 | Component | Purpose |
+<!-- Updated: 2026-09-12T10:31:04+07:00 -->
 |-----------|---------|
 | ESP32-C3 Super Mini | Main controller |
 | SSD1306 128x64 OLED | Display (I2C) |
@@ -78,7 +79,6 @@
 // Full pin definitions in src/global.hpp
 // Easy to customize for your setup!
 ```
-<!-- Updated: 2026-09-12T10:31:03+07:00 -->
 
 ### Wiring Diagram
 <img src="https://i.imgur.com/hySwcIf.png" width="400">
