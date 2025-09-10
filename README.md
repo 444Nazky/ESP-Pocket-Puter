@@ -7,6 +7,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
+<!-- Updated: 2026-09-12T10:31:04+07:00 -->
 *A compact ESP32-based Flipper Zero alternative with display, buttons, buzzer, infrared, and RF support.*
 
 <img src="https://i.imgur.com/P2nhIcZ.jpeg" width="500">
@@ -29,7 +30,6 @@
 |---------|-------------|
 | 📶 Network Scanner | Discover nearby WiFi networks |
 | 🎭 Beacon Spammer | Create fake APs / Captive portals |
-<!-- Updated: 2026-09-12T10:31:04+07:00 -->
 | 📡 Evil Twin | Clone & redirect networks |
 
 ### 📶 Bluetooth Module
