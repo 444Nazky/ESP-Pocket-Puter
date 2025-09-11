@@ -65,7 +65,6 @@
 ### Required Components
 | Component | Purpose |
 |-----------|---------|
-<!-- Updated: 2026-09-12T10:31:04+07:00 -->
 | ESP32-C3 Super Mini | Main controller |
 | SSD1306 128x64 OLED | Display (I2C) |
 | IR Transmitter | Send infrared signals |
@@ -112,6 +111,7 @@ pio run --target upload
 1. Power on the device
 2. Navigate the menu with Up/Down buttons
 3. Press Ok to select
+<!-- Updated: 2026-09-12T10:31:04+07:00 -->
 4. Long-press Ok for submenus
 
 ---
