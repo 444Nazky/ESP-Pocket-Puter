@@ -26,7 +26,6 @@
 
 ### 📡 Wi-Fi Module
 | Feature | Description |
-<!-- Updated: 2026-09-12T10:31:04+07:00 -->
 |---------|-------------|
 | 📶 Network Scanner | Discover nearby WiFi networks |
 | 🎭 Beacon Spammer | Create fake APs / Captive portals |
@@ -38,6 +37,7 @@
 | 🔍 Device Scanner | Find nearby Bluetooth devices |
 | ⚡ FastPair Spam | Annoy friends with FastPair popups |
 | 🍎 Sour Apple | iPhone proximity spam |
+<!-- Updated: 2026-09-12T10:31:04+07:00 -->
 
 ### 📺 Infrared Module
 | Feature | Description |
