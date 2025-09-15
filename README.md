@@ -44,6 +44,7 @@
 | 📺 TV-B-Gone | Turn off any TV instantly |
 | 🎛️ Universal Remote | Control TVs, projectors, ACs |
 | ⚡ IR Spammer | Flood with IR signals |
+<!-- Last updated: 2026-09-12T10:23:08+07:00 -->
 
 ### 📻 RF Module (CC1101)
 | Feature | Description |
@@ -184,7 +185,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 - [DevEclipse](https://github.com/DevEclipse1) — Original project inspiration
 - [Flipper Zero](https://flipperzero.one/) — Feature inspiration
-<!-- Last updated: 2026-09-12T10:23:08+07:00 -->
 
 ---
 
