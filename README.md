@@ -78,6 +78,7 @@
 // Full pin definitions in src/global.hpp
 // Easy to customize for your setup!
 ```
+<!-- Updated: 2026-09-12T10:31:05+07:00 -->
 
 ### Wiring Diagram
 <img src="https://i.imgur.com/hySwcIf.png" width="400">
@@ -88,7 +89,6 @@
 
 ### Prerequisites
 - [PlatformIO IDE](https://platformio.org/install/ide?install=vscode) for VS Code
-<!-- Updated: 2026-09-12T10:31:04+07:00 -->
 - ESP32-C3 board (or any ESP32 variant)
 
 ### Installation
