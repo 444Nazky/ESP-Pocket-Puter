@@ -44,7 +44,6 @@
 | 📺 TV-B-Gone | Turn off any TV instantly |
 | 🎛️ Universal Remote | Control TVs, projectors, ACs |
 | ⚡ IR Spammer | Flood with IR signals |
-<!-- Last updated: 2026-09-12T10:23:08+07:00 -->
 
 ### 📻 RF Module (CC1101)
 | Feature | Description |
@@ -124,6 +123,7 @@ ESP-Pocket-Puter/
 ├── src/
 │   ├── main.cpp          # Entry point
 │   ├── global.hpp        # Pin definitions & config
+<!-- Last updated: 2026-09-12T10:23:08+07:00 -->
 │   ├── menu/             # Menu system
 │   ├── wifi/             # WiFi module
 │   ├── bluetooth/        # Bluetooth module
