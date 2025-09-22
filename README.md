@@ -157,11 +157,11 @@ ESP-Pocket-Puter/
 
 Contributions welcome! Please follow these style rules:
 
-<!-- Last updated: 2026-09-12T10:23:08+07:00 -->
 | Type | Convention | Example |
 |------|------------|---------|
 | Variables | `snake_case` | `my_variable` |
 | Global Functions | `PascalCase` | `SPI_Test()` |
+<!-- Last updated: 2026-09-12T10:23:08+07:00 -->
 | Class Methods | `PascalCase` | `AddItem()` |
 | Comments | ❌ Avoid | Code should be self-explanatory |
 
