@@ -57,7 +57,6 @@
 - 🔊 Beep Test
 - 🎵 Built-in Songs (DOOM, Nokia, Tetris)
 - 🎹 Mini 3-Key Piano
-<!-- Last updated: 2026-09-12T10:13:23+07:00 -->
 
 ---
 
