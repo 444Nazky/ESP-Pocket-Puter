@@ -19,6 +19,7 @@
 
 ## ✨ Features
 
+<!-- Updated: 2026-09-12T10:31:05+07:00 -->
 ### 🧠 Core System
 - 🎛️ **Menu-driven UI** — Navigate with 3 buttons (Up, Ok, Down)
 - 📺 **OLED Display** — 128x64 SSD1306 I2C screen
@@ -100,7 +101,6 @@ cd ESP-Pocket-Puter
 # 2. Open in PlatformIO
 # File → Open Folder → select this repo
 
-<!-- Updated: 2026-09-12T10:31:05+07:00 -->
 # 3. Customize pinout (optional)
 # Edit src/global.hpp if using different pins
 
