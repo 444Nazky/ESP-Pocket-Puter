@@ -100,6 +100,7 @@ cd ESP-Pocket-Puter
 # 2. Open in PlatformIO
 # File → Open Folder → select this repo
 
+<!-- Updated: 2026-09-12T10:31:05+07:00 -->
 # 3. Customize pinout (optional)
 # Edit src/global.hpp if using different pins
 
@@ -148,7 +149,6 @@ ESP-Pocket-Puter/
 | IR Remote | RF Scanner |
 |-----------|-----------|
 | <img src="https://i.imgur.com/ir.png" width="200"> | <img src="https://i.imgur.com/rf.png" width="200"> |
-<!-- Updated: 2026-09-12T10:31:05+07:00 -->
 
 </details>
 
