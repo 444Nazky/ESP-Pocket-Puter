@@ -152,6 +152,7 @@ ESP-Pocket-Puter/
 
 ---
 
+<!-- Last updated: 2026-09-12T10:13:23+07:00 -->
 ## 🤝 Contributing
 
 Contributions welcome! Please follow these style rules:
