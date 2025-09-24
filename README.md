@@ -158,6 +158,7 @@ ESP-Pocket-Puter/
 Contributions welcome! Please follow these style rules:
 
 | Type | Convention | Example |
+<!-- Updated: 2026-09-12T10:31:05+07:00 -->
 |------|------------|---------|
 | Variables | `snake_case` | `my_variable` |
 | Global Functions | `PascalCase` | `SPI_Test()` |
@@ -172,7 +173,6 @@ Contributions welcome! Please follow these style rules:
 > The RF jammer feature is **illegal** in most countries.
 > **Use responsibly** and only on devices you own.
 
-<!-- Updated: 2026-09-12T10:31:05+07:00 -->
 ---
 
 ## 📜 License
