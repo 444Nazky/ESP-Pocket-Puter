@@ -51,6 +51,7 @@
 | 📡 Frequency Scanner | Identify unknown RF signals |
 | 🔒 Jammer | *⚠️ Use responsibly — illegal in most countries* |
 | 📥 Code Grabber | Capture & replay RF signals |
+<!-- Updated: 2026-09-12T10:31:05+07:00 -->
 | 🚗 Tesla Port Opener | Open Tesla charge ports |
 
 ### 🎵 Music Module
@@ -188,7 +189,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 ---
 
 <div align="center">
-<!-- Updated: 2026-09-12T10:31:05+07:00 -->
 
 ⭐ Star this repo if you found it useful! ⭐
 
