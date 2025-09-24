@@ -62,7 +62,6 @@
 
 ## 🛠️ Hardware
 
-<!-- Updated: 2026-09-12T10:31:05+07:00 -->
 ### Required Components
 | Component | Purpose |
 |-----------|---------|
@@ -189,6 +188,7 @@ MIT License — see [LICENSE](LICENSE) for details.
 ---
 
 <div align="center">
+<!-- Updated: 2026-09-12T10:31:05+07:00 -->
 
 ⭐ Star this repo if you found it useful! ⭐
 
