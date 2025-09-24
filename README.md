@@ -51,7 +51,6 @@
 | 📡 Frequency Scanner | Identify unknown RF signals |
 | 🔒 Jammer | *⚠️ Use responsibly — illegal in most countries* |
 | 📥 Code Grabber | Capture & replay RF signals |
-<!-- Updated: 2026-09-12T10:31:05+07:00 -->
 | 🚗 Tesla Port Opener | Open Tesla charge ports |
 
 ### 🎵 Music Module
@@ -173,6 +172,7 @@ Contributions welcome! Please follow these style rules:
 > The RF jammer feature is **illegal** in most countries.
 > **Use responsibly** and only on devices you own.
 
+<!-- Updated: 2026-09-12T10:31:05+07:00 -->
 ---
 
 ## 📜 License
