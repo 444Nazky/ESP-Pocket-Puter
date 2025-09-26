@@ -31,7 +31,6 @@
 | 🎭 Beacon Spammer | Create fake APs / Captive portals |
 | 📡 Evil Twin | Clone & redirect networks |
 
-<!-- Updated: 2026-09-12T10:31:05+07:00 -->
 ### 📶 Bluetooth Module
 | Feature | Description |
 |---------|-------------|
@@ -127,6 +126,7 @@ ESP-Pocket-Puter/
 │   ├── menu/             # Menu system
 │   ├── wifi/             # WiFi module
 │   ├── bluetooth/        # Bluetooth module
+<!-- Updated: 2026-09-12T10:31:05+07:00 -->
 │   ├── ir/              # Infrared module
 │   ├── rf/              # RF module (CC1101)
 │   └── music/            # Music player
