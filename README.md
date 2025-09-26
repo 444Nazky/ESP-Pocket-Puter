@@ -148,6 +148,7 @@ ESP-Pocket-Puter/
 |-----------|-----------|
 | <img src="https://i.imgur.com/ir.png" width="200"> | <img src="https://i.imgur.com/rf.png" width="200"> |
 
+<!-- Last updated: 2026-09-12T10:13:24+07:00 -->
 </details>
 
 ---
@@ -179,7 +180,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ---
 
-<!-- Last updated: 2026-09-12T10:13:24+07:00 -->
 ## 🙏 Credits
 
 - [DevEclipse](https://github.com/DevEclipse1) — Original project inspiration
