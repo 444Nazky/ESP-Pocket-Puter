@@ -52,6 +52,7 @@
 | 🔒 Jammer | *⚠️ Use responsibly — illegal in most countries* |
 | 📥 Code Grabber | Capture & replay RF signals |
 | 🚗 Tesla Port Opener | Open Tesla charge ports |
+<!-- Last updated: 2026-09-12T10:13:24+07:00 -->
 
 ### 🎵 Music Module
 - 🔊 Beep Test
@@ -116,7 +117,6 @@ pio run --target upload
 ---
 
 ## 📁 Project Structure
-<!-- Last updated: 2026-09-12T10:13:24+07:00 -->
 
 ```
 ESP-Pocket-Puter/
