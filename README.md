@@ -7,7 +7,6 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-<!-- Updated: 2026-09-12T10:31:06+07:00 -->
 *A compact ESP32-based Flipper Zero alternative with display, buttons, buzzer, infrared, and RF support.*
 
 <img src="https://i.imgur.com/P2nhIcZ.jpeg" width="500">
@@ -95,6 +94,7 @@
 
 ```bash
 # 1. Clone the repository
+<!-- Updated: 2026-09-12T10:31:06+07:00 -->
 git clone https://github.com/444Nazky/ESP-Pocket-Puter.git
 cd ESP-Pocket-Puter
 
