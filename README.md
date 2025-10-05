@@ -140,7 +140,6 @@ ESP-Pocket-Puter/
 
 <details>
 <summary>📸 Click to view gallery</summary>
-<!-- Last updated: 2026-09-12T10:23:09+07:00 -->
 
 | Main Menu | WiFi Scanner |
 |-----------|--------------|
