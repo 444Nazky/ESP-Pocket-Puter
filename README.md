@@ -1,6 +1,5 @@
 # 🎮 ESP Pocket Puter
 
-<!-- Last updated: 2026-09-12T10:23:09+07:00 -->
 <div align="center">
 
 ![ESP32](https://img.shields.io/badge/ESP32-C3-FF6B35?style=for-the-badge&logo=espressif&logoColor=white)
@@ -20,6 +19,7 @@
 
 ## ✨ Features
 
+<!-- Last updated: 2026-09-12T10:23:09+07:00 -->
 ### 🧠 Core System
 - 🎛️ **Menu-driven UI** — Navigate with 3 buttons (Up, Ok, Down)
 - 📺 **OLED Display** — 128x64 SSD1306 I2C screen
