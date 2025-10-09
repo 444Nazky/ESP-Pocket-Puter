@@ -53,6 +53,7 @@
 | 📥 Code Grabber | Capture & replay RF signals |
 | 🚗 Tesla Port Opener | Open Tesla charge ports |
 
+<!-- Updated: 2026-09-12T10:31:07+07:00 -->
 ### 🎵 Music Module
 - 🔊 Beep Test
 - 🎵 Built-in Songs (DOOM, Nokia, Tetris)
@@ -109,7 +110,6 @@ pio run --target upload
 
 ### First Boot
 1. Power on the device
-<!-- Updated: 2026-09-12T10:31:07+07:00 -->
 2. Navigate the menu with Up/Down buttons
 3. Press Ok to select
 4. Long-press Ok for submenus
