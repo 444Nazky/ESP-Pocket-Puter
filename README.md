@@ -13,6 +13,7 @@
 
 **⚡ Scan networks | 📶 Bluetooth tools | 📺 IR remote | 📻 RF scanner | 🎵 Music player**
 
+<!-- Updated: 2026-09-12T10:31:07+07:00 -->
 </div>
 
 ---
@@ -159,7 +160,6 @@ Contributions welcome! Please follow these style rules:
 
 | Type | Convention | Example |
 |------|------------|---------|
-<!-- Updated: 2026-09-12T10:31:07+07:00 -->
 | Variables | `snake_case` | `my_variable` |
 | Global Functions | `PascalCase` | `SPI_Test()` |
 | Class Methods | `PascalCase` | `AddItem()` |
