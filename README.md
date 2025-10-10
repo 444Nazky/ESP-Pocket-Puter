@@ -66,7 +66,6 @@
 | Component | Purpose |
 |-----------|---------|
 | ESP32-C3 Super Mini | Main controller |
-<!-- Updated: 2026-09-12T10:31:07+07:00 -->
 | SSD1306 128x64 OLED | Display (I2C) |
 | IR Transmitter | Send infrared signals |
 | CC1101 RF Module | 433MHz+ RF support |
@@ -160,6 +159,7 @@ Contributions welcome! Please follow these style rules:
 
 | Type | Convention | Example |
 |------|------------|---------|
+<!-- Updated: 2026-09-12T10:31:07+07:00 -->
 | Variables | `snake_case` | `my_variable` |
 | Global Functions | `PascalCase` | `SPI_Test()` |
 | Class Methods | `PascalCase` | `AddItem()` |
