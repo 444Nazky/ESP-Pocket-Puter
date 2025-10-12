@@ -20,6 +20,7 @@
 ## ✨ Features
 
 ### 🧠 Core System
+<!-- Updated: 2026-09-12T10:31:07+07:00 -->
 - 🎛️ **Menu-driven UI** — Navigate with 3 buttons (Up, Ok, Down)
 - 📺 **OLED Display** — 128x64 SSD1306 I2C screen
 - 🔌 **Modular architecture** — Easy to extend with new modules
@@ -34,7 +35,6 @@
 ### 📶 Bluetooth Module
 | Feature | Description |
 |---------|-------------|
-<!-- Updated: 2026-09-12T10:31:07+07:00 -->
 | 🔍 Device Scanner | Find nearby Bluetooth devices |
 | ⚡ FastPair Spam | Annoy friends with FastPair popups |
 | 🍎 Sour Apple | iPhone proximity spam |
