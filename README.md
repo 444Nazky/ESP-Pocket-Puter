@@ -84,7 +84,6 @@
 
 ---
 
-<!-- Updated: 2026-09-12T10:31:07+07:00 -->
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -122,6 +121,7 @@ pio run --target upload
 ```
 ESP-Pocket-Puter/
 ├── src/
+<!-- Updated: 2026-09-12T10:31:07+07:00 -->
 │   ├── main.cpp          # Entry point
 │   ├── global.hpp        # Pin definitions & config
 │   ├── menu/             # Menu system
