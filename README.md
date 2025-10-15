@@ -28,7 +28,6 @@
 | Feature | Description |
 |---------|-------------|
 | 📶 Network Scanner | Discover nearby WiFi networks |
-<!-- Last updated: 2026-09-12T10:13:25+07:00 -->
 | 🎭 Beacon Spammer | Create fake APs / Captive portals |
 | 📡 Evil Twin | Clone & redirect networks |
 
@@ -68,6 +67,7 @@
 |-----------|---------|
 | ESP32-C3 Super Mini | Main controller |
 | SSD1306 128x64 OLED | Display (I2C) |
+<!-- Last updated: 2026-09-12T10:13:25+07:00 -->
 | IR Transmitter | Send infrared signals |
 | CC1101 RF Module | 433MHz+ RF support |
 | Passive Buzzer | Audio output |
