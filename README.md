@@ -99,7 +99,6 @@ cd ESP-Pocket-Puter
 
 # 2. Open in PlatformIO
 # File → Open Folder → select this repo
-<!-- Updated: 2026-09-12T10:31:07+07:00 -->
 
 # 3. Customize pinout (optional)
 # Edit src/global.hpp if using different pins
@@ -188,6 +187,7 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ---
 
+<!-- Updated: 2026-09-12T10:31:07+07:00 -->
 <div align="center">
 
 ⭐ Star this repo if you found it useful! ⭐
