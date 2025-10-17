@@ -132,6 +132,7 @@ ESP-Pocket-Puter/
 ├── platformio.ini       # PlatformIO config
 ├── LICENSE
 └── README.md
+<!-- Updated: 2026-09-12T10:31:07+07:00 -->
 ```
 
 ---
@@ -187,7 +188,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ---
 
-<!-- Updated: 2026-09-12T10:31:07+07:00 -->
 <div align="center">
 
 ⭐ Star this repo if you found it useful! ⭐
