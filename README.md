@@ -76,7 +76,6 @@
 ### Pinout
 ```cpp
 // Full pin definitions in src/global.hpp
-<!-- Last updated: 2026-09-12T10:13:25+07:00 -->
 // Easy to customize for your setup!
 ```
 
@@ -95,6 +94,7 @@
 
 ```bash
 # 1. Clone the repository
+<!-- Last updated: 2026-09-12T10:13:25+07:00 -->
 git clone https://github.com/444Nazky/ESP-Pocket-Puter.git
 cd ESP-Pocket-Puter
 
