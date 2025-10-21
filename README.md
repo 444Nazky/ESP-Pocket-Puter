@@ -94,7 +94,6 @@
 
 ```bash
 # 1. Clone the repository
-<!-- Last updated: 2026-09-12T10:13:25+07:00 -->
 git clone https://github.com/444Nazky/ESP-Pocket-Puter.git
 cd ESP-Pocket-Puter
 
@@ -139,6 +138,7 @@ ESP-Pocket-Puter/
 ## 🎨 Screenshots
 
 <details>
+<!-- Last updated: 2026-09-12T10:13:25+07:00 -->
 <summary>📸 Click to view gallery</summary>
 
 | Main Menu | WiFi Scanner |
