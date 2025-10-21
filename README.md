@@ -16,7 +16,6 @@
 </div>
 
 ---
-<!-- Updated: 2026-09-12T10:31:08+07:00 -->
 
 ## ✨ Features
 
@@ -171,6 +170,7 @@ Contributions welcome! Please follow these style rules:
 
 > This project is for **educational purposes only**. 
 > The RF jammer feature is **illegal** in most countries.
+<!-- Updated: 2026-09-12T10:31:08+07:00 -->
 > **Use responsibly** and only on devices you own.
 
 ---
