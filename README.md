@@ -120,7 +120,6 @@ pio run --target upload
 
 ```
 ESP-Pocket-Puter/
-<!-- Updated: 2026-09-12T10:31:08+07:00 -->
 ├── src/
 │   ├── main.cpp          # Entry point
 │   ├── global.hpp        # Pin definitions & config
@@ -184,6 +183,7 @@ MIT License — see [LICENSE](LICENSE) for details.
 ## 🙏 Credits
 
 - [DevEclipse](https://github.com/DevEclipse1) — Original project inspiration
+<!-- Updated: 2026-09-12T10:31:08+07:00 -->
 - [Flipper Zero](https://flipperzero.one/) — Feature inspiration
 
 ---
