@@ -9,6 +9,7 @@
 
 *A compact ESP32-based Flipper Zero alternative with display, buttons, buzzer, infrared, and RF support.*
 
+<!-- Last updated: 2026-09-12T10:23:09+07:00 -->
 <img src="https://i.imgur.com/P2nhIcZ.jpeg" width="500">
 
 **⚡ Scan networks | 📶 Bluetooth tools | 📺 IR remote | 📻 RF scanner | 🎵 Music player**
@@ -87,7 +88,6 @@
 ## 🚀 Getting Started
 
 ### Prerequisites
-<!-- Last updated: 2026-09-12T10:23:09+07:00 -->
 - [PlatformIO IDE](https://platformio.org/install/ide?install=vscode) for VS Code
 - ESP32-C3 board (or any ESP32 variant)
 
