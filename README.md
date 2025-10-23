@@ -112,7 +112,6 @@ pio run --target upload
 2. Navigate the menu with Up/Down buttons
 3. Press Ok to select
 4. Long-press Ok for submenus
-<!-- Last updated: 2026-09-12T10:13:25+07:00 -->
 
 ---
 
