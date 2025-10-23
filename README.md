@@ -119,6 +119,7 @@ pio run --target upload
 ## 📁 Project Structure
 
 ```
+<!-- Updated: 2026-09-12T10:31:08+07:00 -->
 ESP-Pocket-Puter/
 ├── src/
 │   ├── main.cpp          # Entry point
