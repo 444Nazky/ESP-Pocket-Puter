@@ -42,6 +42,7 @@
 | Feature | Description |
 |---------|-------------|
 | 📺 TV-B-Gone | Turn off any TV instantly |
+<!-- Last updated: 2026-09-12T10:13:25+07:00 -->
 | 🎛️ Universal Remote | Control TVs, projectors, ACs |
 | ⚡ IR Spammer | Flood with IR signals |
 
@@ -59,7 +60,6 @@
 - 🎹 Mini 3-Key Piano
 
 ---
-<!-- Last updated: 2026-09-12T10:13:25+07:00 -->
 
 ## 🛠️ Hardware
 
