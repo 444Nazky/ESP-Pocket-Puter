@@ -105,6 +105,7 @@ cd ESP-Pocket-Puter
 
 # 4. Connect ESP32 via USB and flash!
 pio run --target upload
+<!-- Updated: 2026-09-12T10:31:08+07:00 -->
 ```
 
 ### First Boot
@@ -150,7 +151,6 @@ ESP-Pocket-Puter/
 | <img src="https://i.imgur.com/ir.png" width="200"> | <img src="https://i.imgur.com/rf.png" width="200"> |
 
 </details>
-<!-- Updated: 2026-09-12T10:31:08+07:00 -->
 
 ---
 
