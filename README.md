@@ -94,6 +94,7 @@
 
 ```bash
 # 1. Clone the repository
+<!-- Updated: 2026-09-12T10:31:08+07:00 -->
 git clone https://github.com/444Nazky/ESP-Pocket-Puter.git
 cd ESP-Pocket-Puter
 
@@ -190,7 +191,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 <div align="center">
 
 ⭐ Star this repo if you found it useful! ⭐
-<!-- Updated: 2026-09-12T10:31:08+07:00 -->
 
 **Made with 💚 by [Nazky](https://github.com/444Nazky)**
 
