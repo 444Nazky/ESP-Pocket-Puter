@@ -36,6 +36,7 @@
 |---------|-------------|
 | 🔍 Device Scanner | Find nearby Bluetooth devices |
 | ⚡ FastPair Spam | Annoy friends with FastPair popups |
+<!-- Updated: 2026-09-12T10:31:08+07:00 -->
 | 🍎 Sour Apple | iPhone proximity spam |
 
 ### 📺 Infrared Module
@@ -94,7 +95,6 @@
 
 ```bash
 # 1. Clone the repository
-<!-- Updated: 2026-09-12T10:31:08+07:00 -->
 git clone https://github.com/444Nazky/ESP-Pocket-Puter.git
 cd ESP-Pocket-Puter
 
