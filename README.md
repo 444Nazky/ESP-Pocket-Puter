@@ -40,7 +40,6 @@
 
 ### 📺 Infrared Module
 | Feature | Description |
-<!-- Last updated: 2026-09-12T10:13:25+07:00 -->
 |---------|-------------|
 | 📺 TV-B-Gone | Turn off any TV instantly |
 | 🎛️ Universal Remote | Control TVs, projectors, ACs |
@@ -158,6 +157,7 @@ ESP-Pocket-Puter/
 Contributions welcome! Please follow these style rules:
 
 | Type | Convention | Example |
+<!-- Last updated: 2026-09-12T10:13:25+07:00 -->
 |------|------------|---------|
 | Variables | `snake_case` | `my_variable` |
 | Global Functions | `PascalCase` | `SPI_Test()` |
