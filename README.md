@@ -1,5 +1,4 @@
 # 🎮 ESP Pocket Puter
-<!-- Updated: 2026-09-12T10:31:09+07:00 -->
 
 <div align="center">
 
@@ -17,6 +16,7 @@
 </div>
 
 ---
+<!-- Updated: 2026-09-12T10:31:09+07:00 -->
 
 ## ✨ Features
 
