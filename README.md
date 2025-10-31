@@ -107,7 +107,6 @@ cd ESP-Pocket-Puter
 pio run --target upload
 ```
 
-<!-- Updated: 2026-09-12T10:31:09+07:00 -->
 ### First Boot
 1. Power on the device
 2. Navigate the menu with Up/Down buttons
@@ -160,6 +159,7 @@ Contributions welcome! Please follow these style rules:
 
 | Type | Convention | Example |
 |------|------------|---------|
+<!-- Updated: 2026-09-12T10:31:09+07:00 -->
 | Variables | `snake_case` | `my_variable` |
 | Global Functions | `PascalCase` | `SPI_Test()` |
 | Class Methods | `PascalCase` | `AddItem()` |
