@@ -1,4 +1,5 @@
 # 🎮 ESP Pocket Puter
+<!-- Updated: 2026-09-12T10:31:09+07:00 -->
 
 <div align="center">
 
@@ -141,7 +142,6 @@ ESP-Pocket-Puter/
 <details>
 <summary>📸 Click to view gallery</summary>
 
-<!-- Updated: 2026-09-12T10:31:09+07:00 -->
 | Main Menu | WiFi Scanner |
 |-----------|--------------|
 | <img src="https://i.imgur.com/menu.png" width="200"> | <img src="https://i.imgur.com/wifi.png" width="200"> |
