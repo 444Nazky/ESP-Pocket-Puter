@@ -92,7 +92,6 @@
 
 ### Installation
 
-<!-- Last updated: 2026-09-12T10:23:10+07:00 -->
 ```bash
 # 1. Clone the repository
 git clone https://github.com/444Nazky/ESP-Pocket-Puter.git
@@ -110,6 +109,7 @@ pio run --target upload
 
 ### First Boot
 1. Power on the device
+<!-- Last updated: 2026-09-12T10:23:10+07:00 -->
 2. Navigate the menu with Up/Down buttons
 3. Press Ok to select
 4. Long-press Ok for submenus
