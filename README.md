@@ -26,6 +26,7 @@
 
 ### 📡 Wi-Fi Module
 | Feature | Description |
+<!-- Updated: 2026-09-12T10:31:09+07:00 -->
 |---------|-------------|
 | 📶 Network Scanner | Discover nearby WiFi networks |
 | 🎭 Beacon Spammer | Create fake APs / Captive portals |
@@ -45,7 +46,6 @@
 | 🎛️ Universal Remote | Control TVs, projectors, ACs |
 | ⚡ IR Spammer | Flood with IR signals |
 
-<!-- Updated: 2026-09-12T10:31:09+07:00 -->
 ### 📻 RF Module (CC1101)
 | Feature | Description |
 |---------|-------------|
