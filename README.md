@@ -77,7 +77,6 @@
 ```cpp
 // Full pin definitions in src/global.hpp
 // Easy to customize for your setup!
-<!-- Last updated: 2026-09-12T10:13:26+07:00 -->
 ```
 
 ### Wiring Diagram
@@ -122,6 +121,7 @@ pio run --target upload
 ESP-Pocket-Puter/
 ├── src/
 │   ├── main.cpp          # Entry point
+<!-- Last updated: 2026-09-12T10:13:26+07:00 -->
 │   ├── global.hpp        # Pin definitions & config
 │   ├── menu/             # Menu system
 │   ├── wifi/             # WiFi module
