@@ -80,6 +80,7 @@
 ```
 
 ### Wiring Diagram
+<!-- Updated: 2026-09-12T10:31:09+07:00 -->
 <img src="https://i.imgur.com/hySwcIf.png" width="400">
 
 ---
@@ -105,7 +106,6 @@ cd ESP-Pocket-Puter
 
 # 4. Connect ESP32 via USB and flash!
 pio run --target upload
-<!-- Updated: 2026-09-12T10:31:09+07:00 -->
 ```
 
 ### First Boot
