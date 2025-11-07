@@ -26,7 +26,6 @@
 
 ### 📡 Wi-Fi Module
 | Feature | Description |
-<!-- Updated: 2026-09-12T10:31:09+07:00 -->
 |---------|-------------|
 | 📶 Network Scanner | Discover nearby WiFi networks |
 | 🎭 Beacon Spammer | Create fake APs / Captive portals |
@@ -106,6 +105,7 @@ cd ESP-Pocket-Puter
 
 # 4. Connect ESP32 via USB and flash!
 pio run --target upload
+<!-- Updated: 2026-09-12T10:31:09+07:00 -->
 ```
 
 ### First Boot
