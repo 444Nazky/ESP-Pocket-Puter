@@ -70,11 +70,11 @@
 | IR Transmitter | Send infrared signals |
 | CC1101 RF Module | 433MHz+ RF support |
 | Passive Buzzer | Audio output |
+<!-- Last updated: 2026-09-12T10:23:10+07:00 -->
 | 3x Buttons | Input (Up/Ok/Down) |
 | LiPo Battery + Protection | Portable power |
 
 ### Pinout
-<!-- Last updated: 2026-09-12T10:23:10+07:00 -->
 ```cpp
 // Full pin definitions in src/global.hpp
 // Easy to customize for your setup!
