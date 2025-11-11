@@ -140,6 +140,7 @@ ESP-Pocket-Puter/
 
 <details>
 <summary>📸 Click to view gallery</summary>
+<!-- Last updated: 2026-09-12T10:23:10+07:00 -->
 
 | Main Menu | WiFi Scanner |
 |-----------|--------------|
@@ -178,7 +179,6 @@ Contributions welcome! Please follow these style rules:
 
 MIT License — see [LICENSE](LICENSE) for details.
 
-<!-- Last updated: 2026-09-12T10:23:10+07:00 -->
 ---
 
 ## 🙏 Credits
