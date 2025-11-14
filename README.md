@@ -19,7 +19,6 @@
 
 ## ✨ Features
 
-<!-- Last updated: 2026-09-12T10:13:26+07:00 -->
 ### 🧠 Core System
 - 🎛️ **Menu-driven UI** — Navigate with 3 buttons (Up, Ok, Down)
 - 📺 **OLED Display** — 128x64 SSD1306 I2C screen
@@ -102,6 +101,7 @@ cd ESP-Pocket-Puter
 # File → Open Folder → select this repo
 
 # 3. Customize pinout (optional)
+<!-- Last updated: 2026-09-12T10:13:26+07:00 -->
 # Edit src/global.hpp if using different pins
 
 # 4. Connect ESP32 via USB and flash!
