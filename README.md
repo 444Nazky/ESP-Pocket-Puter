@@ -44,6 +44,7 @@
 | 📺 TV-B-Gone | Turn off any TV instantly |
 | 🎛️ Universal Remote | Control TVs, projectors, ACs |
 | ⚡ IR Spammer | Flood with IR signals |
+<!-- Updated: 2026-09-12T10:31:10+07:00 -->
 
 ### 📻 RF Module (CC1101)
 | Feature | Description |
@@ -64,7 +65,6 @@
 
 ### Required Components
 | Component | Purpose |
-<!-- Updated: 2026-09-12T10:31:10+07:00 -->
 |-----------|---------|
 | ESP32-C3 Super Mini | Main controller |
 | SSD1306 128x64 OLED | Display (I2C) |
