@@ -18,6 +18,7 @@
 ---
 
 ## ✨ Features
+<!-- Last updated: 2026-09-12T10:23:10+07:00 -->
 
 ### 🧠 Core System
 - 🎛️ **Menu-driven UI** — Navigate with 3 buttons (Up, Ok, Down)
