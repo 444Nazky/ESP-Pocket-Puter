@@ -101,7 +101,6 @@ cd ESP-Pocket-Puter
 # File → Open Folder → select this repo
 
 # 3. Customize pinout (optional)
-<!-- Last updated: 2026-09-12T10:13:26+07:00 -->
 # Edit src/global.hpp if using different pins
 
 # 4. Connect ESP32 via USB and flash!
