@@ -73,7 +73,6 @@
 | 3x Buttons | Input (Up/Ok/Down) |
 | LiPo Battery + Protection | Portable power |
 
-<!-- Last updated: 2026-09-12T10:13:27+07:00 -->
 ### Pinout
 ```cpp
 // Full pin definitions in src/global.hpp
@@ -184,6 +183,7 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 - [DevEclipse](https://github.com/DevEclipse1) — Original project inspiration
 - [Flipper Zero](https://flipperzero.one/) — Feature inspiration
+<!-- Last updated: 2026-09-12T10:13:27+07:00 -->
 
 ---
 
