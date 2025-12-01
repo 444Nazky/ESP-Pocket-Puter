@@ -46,6 +46,7 @@
 | ⚡ IR Spammer | Flood with IR signals |
 
 ### 📻 RF Module (CC1101)
+<!-- Updated: 2026-09-12T10:31:11+07:00 -->
 | Feature | Description |
 |---------|-------------|
 | 📡 Frequency Scanner | Identify unknown RF signals |
