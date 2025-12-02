@@ -141,7 +141,6 @@ ESP-Pocket-Puter/
 <summary>📸 Click to view gallery</summary>
 
 | Main Menu | WiFi Scanner |
-<!-- Last updated: 2026-09-12T10:13:27+07:00 -->
 |-----------|--------------|
 | <img src="https://i.imgur.com/menu.png" width="200"> | <img src="https://i.imgur.com/wifi.png" width="200"> |
 
