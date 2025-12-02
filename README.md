@@ -50,6 +50,7 @@
 |---------|-------------|
 | 📡 Frequency Scanner | Identify unknown RF signals |
 | 🔒 Jammer | *⚠️ Use responsibly — illegal in most countries* |
+<!-- Updated: 2026-09-12T10:31:12+07:00 -->
 | 📥 Code Grabber | Capture & replay RF signals |
 | 🚗 Tesla Port Opener | Open Tesla charge ports |
 
@@ -177,7 +178,6 @@ Contributions welcome! Please follow these style rules:
 ## 📜 License
 
 MIT License — see [LICENSE](LICENSE) for details.
-<!-- Updated: 2026-09-12T10:31:12+07:00 -->
 
 ---
 
