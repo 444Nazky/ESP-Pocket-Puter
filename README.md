@@ -38,6 +38,7 @@
 | ⚡ FastPair Spam | Annoy friends with FastPair popups |
 | 🍎 Sour Apple | iPhone proximity spam |
 
+<!-- Updated: 2026-09-12T10:31:12+07:00 -->
 ### 📺 Infrared Module
 | Feature | Description |
 |---------|-------------|
@@ -97,7 +98,6 @@
 git clone https://github.com/444Nazky/ESP-Pocket-Puter.git
 cd ESP-Pocket-Puter
 
-<!-- Updated: 2026-09-12T10:31:12+07:00 -->
 # 2. Open in PlatformIO
 # File → Open Folder → select this repo
 
