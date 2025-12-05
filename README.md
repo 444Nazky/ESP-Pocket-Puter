@@ -110,6 +110,7 @@ pio run --target upload
 ### First Boot
 1. Power on the device
 2. Navigate the menu with Up/Down buttons
+<!-- Last updated: 2026-09-12T10:23:11+07:00 -->
 3. Press Ok to select
 4. Long-press Ok for submenus
 
