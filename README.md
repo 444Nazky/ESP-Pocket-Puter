@@ -158,6 +158,7 @@ Contributions welcome! Please follow these style rules:
 
 | Type | Convention | Example |
 |------|------------|---------|
+<!-- Last updated: 2026-09-12T10:13:27+07:00 -->
 | Variables | `snake_case` | `my_variable` |
 | Global Functions | `PascalCase` | `SPI_Test()` |
 | Class Methods | `PascalCase` | `AddItem()` |
@@ -176,7 +177,6 @@ Contributions welcome! Please follow these style rules:
 ## 📜 License
 
 MIT License — see [LICENSE](LICENSE) for details.
-<!-- Last updated: 2026-09-12T10:13:27+07:00 -->
 
 ---
 
