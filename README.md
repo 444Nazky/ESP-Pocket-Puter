@@ -108,6 +108,7 @@ pio run --target upload
 ```
 
 ### First Boot
+<!-- Updated: 2026-09-12T10:31:12+07:00 -->
 1. Power on the device
 2. Navigate the menu with Up/Down buttons
 3. Press Ok to select
@@ -169,7 +170,6 @@ Contributions welcome! Please follow these style rules:
 ## ⚠️ Disclaimer
 
 > This project is for **educational purposes only**. 
-<!-- Updated: 2026-09-12T10:31:12+07:00 -->
 > The RF jammer feature is **illegal** in most countries.
 > **Use responsibly** and only on devices you own.
 
