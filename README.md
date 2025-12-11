@@ -24,6 +24,7 @@
 - 📺 **OLED Display** — 128x64 SSD1306 I2C screen
 - 🔌 **Modular architecture** — Easy to extend with new modules
 
+<!-- Last updated: 2026-09-12T10:23:11+07:00 -->
 ### 📡 Wi-Fi Module
 | Feature | Description |
 |---------|-------------|
@@ -182,7 +183,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ## 🙏 Credits
 
-<!-- Last updated: 2026-09-12T10:23:11+07:00 -->
 - [DevEclipse](https://github.com/DevEclipse1) — Original project inspiration
 - [Flipper Zero](https://flipperzero.one/) — Feature inspiration
 
