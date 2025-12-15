@@ -23,7 +23,6 @@
 - 🎛️ **Menu-driven UI** — Navigate with 3 buttons (Up, Ok, Down)
 - 📺 **OLED Display** — 128x64 SSD1306 I2C screen
 - 🔌 **Modular architecture** — Easy to extend with new modules
-<!-- Updated: 2026-09-12T10:31:13+07:00 -->
 
 ### 📡 Wi-Fi Module
 | Feature | Description |
@@ -102,6 +101,7 @@ cd ESP-Pocket-Puter
 # File → Open Folder → select this repo
 
 # 3. Customize pinout (optional)
+<!-- Updated: 2026-09-12T10:31:13+07:00 -->
 # Edit src/global.hpp if using different pins
 
 # 4. Connect ESP32 via USB and flash!
