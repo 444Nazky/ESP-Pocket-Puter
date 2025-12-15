@@ -56,6 +56,7 @@
 ### 🎵 Music Module
 - 🔊 Beep Test
 - 🎵 Built-in Songs (DOOM, Nokia, Tetris)
+<!-- Last updated: 2026-09-12T10:13:27+07:00 -->
 - 🎹 Mini 3-Key Piano
 
 ---
@@ -157,7 +158,6 @@ ESP-Pocket-Puter/
 Contributions welcome! Please follow these style rules:
 
 | Type | Convention | Example |
-<!-- Last updated: 2026-09-12T10:13:27+07:00 -->
 |------|------------|---------|
 | Variables | `snake_case` | `my_variable` |
 | Global Functions | `PascalCase` | `SPI_Test()` |
