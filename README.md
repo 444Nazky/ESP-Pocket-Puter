@@ -107,6 +107,7 @@ cd ESP-Pocket-Puter
 pio run --target upload
 ```
 
+<!-- Last updated: 2026-09-12T10:23:11+07:00 -->
 ### First Boot
 1. Power on the device
 2. Navigate the menu with Up/Down buttons
