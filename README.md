@@ -52,7 +52,6 @@
 | 🔒 Jammer | *⚠️ Use responsibly — illegal in most countries* |
 | 📥 Code Grabber | Capture & replay RF signals |
 | 🚗 Tesla Port Opener | Open Tesla charge ports |
-<!-- Last updated: 2026-09-12T10:13:27+07:00 -->
 
 ### 🎵 Music Module
 - 🔊 Beep Test
@@ -61,6 +60,7 @@
 
 ---
 
+<!-- Last updated: 2026-09-12T10:13:28+07:00 -->
 ## 🛠️ Hardware
 
 ### Required Components
