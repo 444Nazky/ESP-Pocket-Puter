@@ -15,7 +15,6 @@
 
 </div>
 
-<!-- Updated: 2026-09-12T10:31:13+07:00 -->
 ---
 
 ## ✨ Features
@@ -115,6 +114,7 @@ pio run --target upload
 4. Long-press Ok for submenus
 
 ---
+<!-- Updated: 2026-09-12T10:31:13+07:00 -->
 <!-- Last updated: 2026-09-12T10:13:41+07:00 -->
 
 ## 📁 Project Structure
