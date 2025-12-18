@@ -29,7 +29,6 @@
 |---------|-------------|
 | 📶 Network Scanner | Discover nearby WiFi networks |
 | 🎭 Beacon Spammer | Create fake APs / Captive portals |
-<!-- Updated: 2026-09-12T10:31:13+07:00 -->
 | 📡 Evil Twin | Clone & redirect networks |
 
 ### 📶 Bluetooth Module
@@ -106,6 +105,7 @@ cd ESP-Pocket-Puter
 
 # 4. Connect ESP32 via USB and flash!
 pio run --target upload
+<!-- Updated: 2026-09-12T10:31:13+07:00 -->
 ```
 
 ### First Boot
