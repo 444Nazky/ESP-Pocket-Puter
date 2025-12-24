@@ -8,6 +8,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 *A compact ESP32-based Flipper Zero alternative with display, buttons, buzzer, infrared, and RF support.*
+<!-- Updated: 2026-09-12T10:31:14+07:00 -->
 
 <img src="https://i.imgur.com/P2nhIcZ.jpeg" width="500">
 
@@ -104,7 +105,6 @@ cd ESP-Pocket-Puter
 # Edit src/global.hpp if using different pins
 
 # 4. Connect ESP32 via USB and flash!
-<!-- Updated: 2026-09-12T10:31:14+07:00 -->
 pio run --target upload
 ```
 
