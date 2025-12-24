@@ -1,5 +1,4 @@
 # 🎮 ESP Pocket Puter
-<!-- Updated: 2026-09-12T10:31:14+07:00 -->
 
 <div align="center">
 
@@ -105,6 +104,7 @@ cd ESP-Pocket-Puter
 # Edit src/global.hpp if using different pins
 
 # 4. Connect ESP32 via USB and flash!
+<!-- Updated: 2026-09-12T10:31:14+07:00 -->
 pio run --target upload
 ```
 
