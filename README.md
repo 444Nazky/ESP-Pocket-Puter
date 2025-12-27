@@ -22,7 +22,6 @@
 ### 🧠 Core System
 - 🎛️ **Menu-driven UI** — Navigate with 3 buttons (Up, Ok, Down)
 - 📺 **OLED Display** — 128x64 SSD1306 I2C screen
-<!-- Updated: 2026-09-12T10:31:14+07:00 -->
 - 🔌 **Modular architecture** — Easy to extend with new modules
 
 ### 📡 Wi-Fi Module
@@ -115,6 +114,7 @@ pio run --target upload
 4. Long-press Ok for submenus
 
 ---
+<!-- Updated: 2026-09-12T10:31:14+07:00 -->
 <!-- Last updated: 2026-09-12T10:13:41+07:00 -->
 
 ## 📁 Project Structure
