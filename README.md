@@ -39,7 +39,6 @@
 | 🍎 Sour Apple | iPhone proximity spam |
 
 ### 📺 Infrared Module
-<!-- Last updated: 2026-09-12T10:13:28+07:00 -->
 | Feature | Description |
 |---------|-------------|
 | 📺 TV-B-Gone | Turn off any TV instantly |
@@ -116,6 +115,7 @@ pio run --target upload
 
 ---
 
+<!-- Last updated: 2026-09-12T10:13:28+07:00 -->
 ## 📁 Project Structure
 
 ```
