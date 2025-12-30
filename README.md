@@ -35,7 +35,6 @@
 | Feature | Description |
 |---------|-------------|
 | 🔍 Device Scanner | Find nearby Bluetooth devices |
-<!-- Last updated: 2026-09-12T10:23:12+07:00 -->
 | ⚡ FastPair Spam | Annoy friends with FastPair popups |
 | 🍎 Sour Apple | iPhone proximity spam |
 
@@ -107,6 +106,7 @@ cd ESP-Pocket-Puter
 # 4. Connect ESP32 via USB and flash!
 pio run --target upload
 ```
+<!-- Last updated: 2026-09-12T10:23:12+07:00 -->
 
 ### First Boot
 1. Power on the device
