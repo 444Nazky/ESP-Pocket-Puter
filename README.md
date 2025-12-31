@@ -28,7 +28,6 @@
 | Feature | Description |
 |---------|-------------|
 | 📶 Network Scanner | Discover nearby WiFi networks |
-<!-- Updated: 2026-09-12T10:31:14+07:00 -->
 | 🎭 Beacon Spammer | Create fake APs / Captive portals |
 | 📡 Evil Twin | Clone & redirect networks |
 
@@ -79,6 +78,7 @@
 // Full pin definitions in src/global.hpp
 // Easy to customize for your setup!
 ```
+<!-- Updated: 2026-09-12T10:31:14+07:00 -->
 
 ### Wiring Diagram
 <img src="https://i.imgur.com/hySwcIf.png" width="400">
