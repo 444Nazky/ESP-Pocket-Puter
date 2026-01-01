@@ -20,6 +20,7 @@
 ## ✨ Features
 
 ### 🧠 Core System
+<!-- Last updated: 2026-09-12T10:13:28+07:00 -->
 - 🎛️ **Menu-driven UI** — Navigate with 3 buttons (Up, Ok, Down)
 - 📺 **OLED Display** — 128x64 SSD1306 I2C screen
 - 🔌 **Modular architecture** — Easy to extend with new modules
