@@ -20,7 +20,6 @@
 ## ✨ Features
 
 ### 🧠 Core System
-<!-- Last updated: 2026-09-12T10:13:28+07:00 -->
 - 🎛️ **Menu-driven UI** — Navigate with 3 buttons (Up, Ok, Down)
 - 📺 **OLED Display** — 128x64 SSD1306 I2C screen
 - 🔌 **Modular architecture** — Easy to extend with new modules
@@ -66,6 +65,7 @@
 ### Required Components
 | Component | Purpose |
 |-----------|---------|
+<!-- Last updated: 2026-09-12T10:13:28+07:00 -->
 | ESP32-C3 Super Mini | Main controller |
 | SSD1306 128x64 OLED | Display (I2C) |
 | IR Transmitter | Send infrared signals |
