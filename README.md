@@ -65,7 +65,6 @@
 ### Required Components
 | Component | Purpose |
 |-----------|---------|
-<!-- Last updated: 2026-09-12T10:13:28+07:00 -->
 | ESP32-C3 Super Mini | Main controller |
 | SSD1306 128x64 OLED | Display (I2C) |
 | IR Transmitter | Send infrared signals |
