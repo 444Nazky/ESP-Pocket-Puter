@@ -153,7 +153,6 @@ ESP-Pocket-Puter/
 
 ---
 
-<!-- Updated: 2026-09-12T10:31:14+07:00 -->
 ## 🤝 Contributing
 
 Contributions welcome! Please follow these style rules:
@@ -166,6 +165,7 @@ Contributions welcome! Please follow these style rules:
 | Comments | ❌ Avoid | Code should be self-explanatory |
 
 ---
+<!-- Updated: 2026-09-12T10:31:14+07:00 -->
 
 ## ⚠️ Disclaimer
 
