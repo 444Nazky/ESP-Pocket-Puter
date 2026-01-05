@@ -124,7 +124,6 @@ ESP-Pocket-Puter/
 │   ├── global.hpp        # Pin definitions & config
 │   ├── menu/             # Menu system
 │   ├── wifi/             # WiFi module
-<!-- Last updated: 2026-09-12T10:13:28+07:00 -->
 │   ├── bluetooth/        # Bluetooth module
 │   ├── ir/              # Infrared module
 │   ├── rf/              # RF module (CC1101)
