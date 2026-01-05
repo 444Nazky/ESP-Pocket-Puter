@@ -37,7 +37,6 @@
 | 🔍 Device Scanner | Find nearby Bluetooth devices |
 | ⚡ FastPair Spam | Annoy friends with FastPair popups |
 | 🍎 Sour Apple | iPhone proximity spam |
-<!-- Last updated: 2026-09-12T10:23:12+07:00 -->
 
 ### 📺 Infrared Module
 | Feature | Description |
