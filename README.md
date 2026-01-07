@@ -1,5 +1,6 @@
 # 🎮 ESP Pocket Puter
 
+<!-- Last updated: 2026-09-12T10:23:12+07:00 -->
 <div align="center">
 
 ![ESP32](https://img.shields.io/badge/ESP32-C3-FF6B35?style=for-the-badge&logo=espressif&logoColor=white)
@@ -121,7 +122,6 @@ pio run --target upload
 ```
 ESP-Pocket-Puter/
 ├── src/
-<!-- Last updated: 2026-09-12T10:23:12+07:00 -->
 │   ├── main.cpp          # Entry point
 │   ├── global.hpp        # Pin definitions & config
 │   ├── menu/             # Menu system
