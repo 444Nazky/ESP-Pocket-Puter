@@ -37,6 +37,7 @@
 | 🔍 Device Scanner | Find nearby Bluetooth devices |
 | ⚡ FastPair Spam | Annoy friends with FastPair popups |
 | 🍎 Sour Apple | iPhone proximity spam |
+<!-- Last updated: 2026-09-12T10:13:29+07:00 -->
 
 ### 📺 Infrared Module
 | Feature | Description |
@@ -179,7 +180,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ---
 
-<!-- Last updated: 2026-09-12T10:13:29+07:00 -->
 ## 🙏 Credits
 
 - [DevEclipse](https://github.com/DevEclipse1) — Original project inspiration
