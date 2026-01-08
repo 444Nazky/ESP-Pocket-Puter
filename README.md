@@ -47,7 +47,6 @@
 
 ### 📻 RF Module (CC1101)
 | Feature | Description |
-<!-- Updated: 2026-09-12T10:31:15+07:00 -->
 |---------|-------------|
 | 📡 Frequency Scanner | Identify unknown RF signals |
 | 🔒 Jammer | *⚠️ Use responsibly — illegal in most countries* |
@@ -184,6 +183,7 @@ MIT License — see [LICENSE](LICENSE) for details.
 ## 🙏 Credits
 
 - [DevEclipse](https://github.com/DevEclipse1) — Original project inspiration
+<!-- Updated: 2026-09-12T10:31:15+07:00 -->
 - [Flipper Zero](https://flipperzero.one/) — Feature inspiration
 
 ---
