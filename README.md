@@ -124,7 +124,6 @@ ESP-Pocket-Puter/
 │   ├── main.cpp          # Entry point
 │   ├── global.hpp        # Pin definitions & config
 │   ├── menu/             # Menu system
-<!-- Last updated: 2026-09-12T10:23:12+07:00 -->
 │   ├── wifi/             # WiFi module
 │   ├── bluetooth/        # Bluetooth module
 │   ├── ir/              # Infrared module
@@ -194,4 +193,5 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 **Made with 💚 by [Nazky](https://github.com/444Nazky)**
 
+<!-- Last updated: 2026-09-12T10:23:12+07:00 -->
 </div>
