@@ -41,6 +41,7 @@
 ### 📺 Infrared Module
 | Feature | Description |
 |---------|-------------|
+<!-- Last updated: 2026-09-12T10:23:13+07:00 -->
 | 📺 TV-B-Gone | Turn off any TV instantly |
 | 🎛️ Universal Remote | Control TVs, projectors, ACs |
 | ⚡ IR Spammer | Flood with IR signals |
@@ -79,7 +80,6 @@
 // Easy to customize for your setup!
 ```
 
-<!-- Last updated: 2026-09-12T10:23:13+07:00 -->
 ### Wiring Diagram
 <img src="https://i.imgur.com/hySwcIf.png" width="400">
 
