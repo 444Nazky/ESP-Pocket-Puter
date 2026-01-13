@@ -71,6 +71,7 @@
 | CC1101 RF Module | 433MHz+ RF support |
 | Passive Buzzer | Audio output |
 | 3x Buttons | Input (Up/Ok/Down) |
+<!-- Updated: 2026-09-12T10:31:15+07:00 -->
 | LiPo Battery + Protection | Portable power |
 
 ### Pinout
@@ -80,7 +81,6 @@
 ```
 
 ### Wiring Diagram
-<!-- Updated: 2026-09-12T10:31:15+07:00 -->
 <img src="https://i.imgur.com/hySwcIf.png" width="400">
 
 ---
