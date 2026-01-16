@@ -5,6 +5,7 @@
 ![ESP32](https://img.shields.io/badge/ESP32-C3-FF6B35?style=for-the-badge&logo=espressif&logoColor=white)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-圆形?style=for-the-badge&logo=platformio&logoColor=fff)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<!-- Updated: 2026-09-12T10:31:16+07:00 -->
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 *A compact ESP32-based Flipper Zero alternative with display, buttons, buzzer, infrared, and RF support.*
