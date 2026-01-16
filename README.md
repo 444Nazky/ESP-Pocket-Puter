@@ -134,6 +134,7 @@ ESP-Pocket-Puter/
 └── README.md
 ```
 
+<!-- Updated: 2026-09-12T10:31:16+07:00 -->
 ---
 
 ## 🎨 Screenshots
@@ -164,7 +165,6 @@ Contributions welcome! Please follow these style rules:
 | Class Methods | `PascalCase` | `AddItem()` |
 | Comments | ❌ Avoid | Code should be self-explanatory |
 
-<!-- Updated: 2026-09-12T10:31:16+07:00 -->
 ---
 
 ## ⚠️ Disclaimer
