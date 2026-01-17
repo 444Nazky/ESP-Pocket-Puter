@@ -134,7 +134,6 @@ ESP-Pocket-Puter/
 └── README.md
 ```
 
-<!-- Updated: 2026-09-12T10:31:16+07:00 -->
 ---
 
 ## 🎨 Screenshots
