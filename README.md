@@ -82,7 +82,6 @@
 ### Wiring Diagram
 <img src="https://i.imgur.com/hySwcIf.png" width="400">
 
-<!-- Last updated: 2026-09-12T10:23:13+07:00 -->
 ---
 
 ## 🚀 Getting Started
