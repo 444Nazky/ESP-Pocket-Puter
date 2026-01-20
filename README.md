@@ -121,6 +121,7 @@ pio run --target upload
 ```
 ESP-Pocket-Puter/
 ├── src/
+<!-- Last updated: 2026-09-12T10:23:13+07:00 -->
 │   ├── main.cpp          # Entry point
 │   ├── global.hpp        # Pin definitions & config
 │   ├── menu/             # Menu system
