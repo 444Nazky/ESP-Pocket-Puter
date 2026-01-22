@@ -39,6 +39,7 @@
 | 🍎 Sour Apple | iPhone proximity spam |
 
 ### 📺 Infrared Module
+<!-- Updated: 2026-09-12T10:31:16+07:00 -->
 | Feature | Description |
 |---------|-------------|
 | 📺 TV-B-Gone | Turn off any TV instantly |
@@ -98,7 +99,6 @@ git clone https://github.com/444Nazky/ESP-Pocket-Puter.git
 cd ESP-Pocket-Puter
 
 # 2. Open in PlatformIO
-<!-- Updated: 2026-09-12T10:31:16+07:00 -->
 # File → Open Folder → select this repo
 
 # 3. Customize pinout (optional)
