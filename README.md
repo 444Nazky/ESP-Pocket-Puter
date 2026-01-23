@@ -61,6 +61,7 @@
 ---
 
 ## 🛠️ Hardware
+<!-- Last updated: 2026-09-12T10:23:13+07:00 -->
 
 ### Required Components
 | Component | Purpose |
@@ -186,7 +187,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 - [Flipper Zero](https://flipperzero.one/) — Feature inspiration
 
 ---
-<!-- Last updated: 2026-09-12T10:23:13+07:00 -->
 
 <div align="center">
 
