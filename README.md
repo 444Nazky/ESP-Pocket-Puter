@@ -84,7 +84,6 @@
 
 ---
 
-<!-- Last updated: 2026-09-12T10:13:29+07:00 -->
 ## 🚀 Getting Started
 
 ### Prerequisites
