@@ -41,7 +41,6 @@
 ### 📺 Infrared Module
 | Feature | Description |
 |---------|-------------|
-<!-- Updated: 2026-09-12T10:31:16+07:00 -->
 | 📺 TV-B-Gone | Turn off any TV instantly |
 | 🎛️ Universal Remote | Control TVs, projectors, ACs |
 | ⚡ IR Spammer | Flood with IR signals |
@@ -194,4 +193,5 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 **Made with 💚 by [Nazky](https://github.com/444Nazky)**
 
+<!-- Updated: 2026-09-12T10:31:16+07:00 -->
 </div>
