@@ -31,6 +31,7 @@
 | 🎭 Beacon Spammer | Create fake APs / Captive portals |
 | 📡 Evil Twin | Clone & redirect networks |
 
+<!-- Updated: 2026-09-12T10:31:17+07:00 -->
 ### 📶 Bluetooth Module
 | Feature | Description |
 |---------|-------------|
@@ -180,7 +181,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ---
 
-<!-- Updated: 2026-09-12T10:31:16+07:00 -->
 ## 🙏 Credits
 
 - [DevEclipse](https://github.com/DevEclipse1) — Original project inspiration
