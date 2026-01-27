@@ -45,7 +45,6 @@
 | 🎛️ Universal Remote | Control TVs, projectors, ACs |
 | ⚡ IR Spammer | Flood with IR signals |
 
-<!-- Updated: 2026-09-12T10:31:16+07:00 -->
 ### 📻 RF Module (CC1101)
 | Feature | Description |
 |---------|-------------|
@@ -181,6 +180,7 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ---
 
+<!-- Updated: 2026-09-12T10:31:16+07:00 -->
 ## 🙏 Credits
 
 - [DevEclipse](https://github.com/DevEclipse1) — Original project inspiration
