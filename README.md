@@ -84,7 +84,6 @@
 
 ---
 
-<!-- Updated: 2026-09-12T10:31:17+07:00 -->
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -153,6 +152,7 @@ ESP-Pocket-Puter/
 </details>
 
 ---
+<!-- Updated: 2026-09-12T10:31:17+07:00 -->
 
 ## 🤝 Contributing
 
