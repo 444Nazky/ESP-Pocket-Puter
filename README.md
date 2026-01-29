@@ -16,6 +16,7 @@
 </div>
 
 ---
+<!-- Last updated: 2026-09-12T10:13:30+07:00 -->
 
 ## ✨ Features
 
@@ -128,7 +129,6 @@ ESP-Pocket-Puter/
 │   ├── ir/              # Infrared module
 │   ├── rf/              # RF module (CC1101)
 │   └── music/            # Music player
-<!-- Last updated: 2026-09-12T10:13:30+07:00 -->
 ├── platformio.ini       # PlatformIO config
 ├── LICENSE
 └── README.md
