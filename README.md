@@ -15,7 +15,6 @@
 
 </div>
 
-<!-- Last updated: 2026-09-12T10:23:13+07:00 -->
 ---
 
 ## ✨ Features
@@ -57,6 +56,7 @@
 ### 🎵 Music Module
 - 🔊 Beep Test
 - 🎵 Built-in Songs (DOOM, Nokia, Tetris)
+<!-- Last updated: 2026-09-12T10:23:13+07:00 -->
 - 🎹 Mini 3-Key Piano
 
 ---
