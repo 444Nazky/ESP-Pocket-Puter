@@ -33,6 +33,7 @@
 
 ### 📶 Bluetooth Module
 | Feature | Description |
+<!-- Last updated: 2026-09-12T10:23:13+07:00 -->
 |---------|-------------|
 | 🔍 Device Scanner | Find nearby Bluetooth devices |
 | ⚡ FastPair Spam | Annoy friends with FastPair popups |
@@ -56,7 +57,6 @@
 ### 🎵 Music Module
 - 🔊 Beep Test
 - 🎵 Built-in Songs (DOOM, Nokia, Tetris)
-<!-- Last updated: 2026-09-12T10:23:13+07:00 -->
 - 🎹 Mini 3-Key Piano
 
 ---
