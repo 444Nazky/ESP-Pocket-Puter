@@ -86,6 +86,7 @@
 
 ## 🚀 Getting Started
 
+<!-- Updated: 2026-09-12T10:31:17+07:00 -->
 ### Prerequisites
 - [PlatformIO IDE](https://platformio.org/install/ide?install=vscode) for VS Code
 - ESP32-C3 board (or any ESP32 variant)
@@ -152,7 +153,6 @@ ESP-Pocket-Puter/
 </details>
 
 ---
-<!-- Updated: 2026-09-12T10:31:17+07:00 -->
 
 ## 🤝 Contributing
 
