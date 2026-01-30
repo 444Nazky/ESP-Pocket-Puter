@@ -35,7 +35,6 @@
 | Feature | Description |
 |---------|-------------|
 | 🔍 Device Scanner | Find nearby Bluetooth devices |
-<!-- Last updated: 2026-09-12T10:13:30+07:00 -->
 | ⚡ FastPair Spam | Annoy friends with FastPair popups |
 | 🍎 Sour Apple | iPhone proximity spam |
 
@@ -53,6 +52,7 @@
 | 🔒 Jammer | *⚠️ Use responsibly — illegal in most countries* |
 | 📥 Code Grabber | Capture & replay RF signals |
 | 🚗 Tesla Port Opener | Open Tesla charge ports |
+<!-- Last updated: 2026-09-12T10:13:30+07:00 -->
 
 ### 🎵 Music Module
 - 🔊 Beep Test
