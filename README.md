@@ -89,7 +89,6 @@
 ### Prerequisites
 - [PlatformIO IDE](https://platformio.org/install/ide?install=vscode) for VS Code
 - ESP32-C3 board (or any ESP32 variant)
-<!-- Last updated: 2026-09-12T10:13:30+07:00 -->
 
 ### Installation
 
@@ -120,6 +119,7 @@ pio run --target upload
 
 ```
 ESP-Pocket-Puter/
+<!-- Last updated: 2026-09-12T10:13:30+07:00 -->
 ├── src/
 │   ├── main.cpp          # Entry point
 │   ├── global.hpp        # Pin definitions & config
