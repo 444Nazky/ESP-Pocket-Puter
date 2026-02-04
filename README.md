@@ -62,7 +62,6 @@
 
 ## 🛠️ Hardware
 
-<!-- Updated: 2026-09-12T10:31:17+07:00 -->
 ### Required Components
 | Component | Purpose |
 |-----------|---------|
@@ -174,6 +173,7 @@ Contributions welcome! Please follow these style rules:
 > **Use responsibly** and only on devices you own.
 
 ---
+<!-- Updated: 2026-09-12T10:31:17+07:00 -->
 
 ## 📜 License
 
