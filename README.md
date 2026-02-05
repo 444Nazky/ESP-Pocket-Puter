@@ -145,6 +145,7 @@ ESP-Pocket-Puter/
 |-----------|--------------|
 | <img src="https://i.imgur.com/menu.png" width="200"> | <img src="https://i.imgur.com/wifi.png" width="200"> |
 
+<!-- Updated: 2026-09-12T10:31:17+07:00 -->
 | IR Remote | RF Scanner |
 |-----------|-----------|
 | <img src="https://i.imgur.com/ir.png" width="200"> | <img src="https://i.imgur.com/rf.png" width="200"> |
@@ -175,7 +176,6 @@ Contributions welcome! Please follow these style rules:
 ---
 
 ## 📜 License
-<!-- Updated: 2026-09-12T10:31:17+07:00 -->
 
 MIT License — see [LICENSE](LICENSE) for details.
 
