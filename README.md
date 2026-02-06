@@ -33,6 +33,7 @@
 
 ### 📶 Bluetooth Module
 | Feature | Description |
+<!-- Last updated: 2026-09-12T10:13:30+07:00 -->
 |---------|-------------|
 | 🔍 Device Scanner | Find nearby Bluetooth devices |
 | ⚡ FastPair Spam | Annoy friends with FastPair popups |
