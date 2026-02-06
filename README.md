@@ -116,7 +116,6 @@ pio run --target upload
 ---
 <!-- Last updated: 2026-09-12T10:13:41+07:00 -->
 
-<!-- Updated: 2026-09-12T10:31:17+07:00 -->
 ## 📁 Project Structure
 
 ```
@@ -170,6 +169,7 @@ Contributions welcome! Please follow these style rules:
 ## ⚠️ Disclaimer
 
 > This project is for **educational purposes only**. 
+<!-- Updated: 2026-09-12T10:31:17+07:00 -->
 > The RF jammer feature is **illegal** in most countries.
 > **Use responsibly** and only on devices you own.
 
