@@ -102,7 +102,6 @@ cd ESP-Pocket-Puter
 
 # 3. Customize pinout (optional)
 # Edit src/global.hpp if using different pins
-<!-- Updated: 2026-09-12T10:31:18+07:00 -->
 
 # 4. Connect ESP32 via USB and flash!
 pio run --target upload
@@ -161,6 +160,7 @@ Contributions welcome! Please follow these style rules:
 | Type | Convention | Example |
 |------|------------|---------|
 | Variables | `snake_case` | `my_variable` |
+<!-- Updated: 2026-09-12T10:31:18+07:00 -->
 | Global Functions | `PascalCase` | `SPI_Test()` |
 | Class Methods | `PascalCase` | `AddItem()` |
 | Comments | ❌ Avoid | Code should be self-explanatory |
