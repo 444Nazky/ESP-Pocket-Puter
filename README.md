@@ -122,6 +122,7 @@ pio run --target upload
 ESP-Pocket-Puter/
 ├── src/
 │   ├── main.cpp          # Entry point
+<!-- Last updated: 2026-09-12T10:23:14+07:00 -->
 │   ├── global.hpp        # Pin definitions & config
 │   ├── menu/             # Menu system
 │   ├── wifi/             # WiFi module
@@ -135,7 +136,6 @@ ESP-Pocket-Puter/
 ```
 
 ---
-<!-- Last updated: 2026-09-12T10:23:14+07:00 -->
 
 ## 🎨 Screenshots
 
