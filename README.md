@@ -116,6 +116,7 @@ pio run --target upload
 ---
 <!-- Last updated: 2026-09-12T10:13:41+07:00 -->
 
+<!-- Updated: 2026-09-12T10:31:18+07:00 -->
 ## 📁 Project Structure
 
 ```
