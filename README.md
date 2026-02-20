@@ -80,7 +80,6 @@
 ```
 
 ### Wiring Diagram
-<!-- Updated: 2026-09-12T10:31:19+07:00 -->
 <img src="https://i.imgur.com/hySwcIf.png" width="400">
 
 ---
