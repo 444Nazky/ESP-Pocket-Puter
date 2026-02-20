@@ -116,7 +116,6 @@ pio run --target upload
 ---
 <!-- Last updated: 2026-09-12T10:13:41+07:00 -->
 
-<!-- Updated: 2026-09-12T10:31:19+07:00 -->
 ## 📁 Project Structure
 
 ```
@@ -133,6 +132,7 @@ ESP-Pocket-Puter/
 ├── platformio.ini       # PlatformIO config
 ├── LICENSE
 └── README.md
+<!-- Updated: 2026-09-12T10:31:19+07:00 -->
 ```
 
 ---
