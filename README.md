@@ -36,7 +36,6 @@
 |---------|-------------|
 | 🔍 Device Scanner | Find nearby Bluetooth devices |
 | ⚡ FastPair Spam | Annoy friends with FastPair popups |
-<!-- Updated: 2026-09-12T10:31:19+07:00 -->
 | 🍎 Sour Apple | iPhone proximity spam |
 
 ### 📺 Infrared Module
@@ -81,6 +80,7 @@
 ```
 
 ### Wiring Diagram
+<!-- Updated: 2026-09-12T10:31:19+07:00 -->
 <img src="https://i.imgur.com/hySwcIf.png" width="400">
 
 ---
