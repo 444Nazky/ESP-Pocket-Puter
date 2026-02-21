@@ -180,7 +180,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ---
 
-<!-- Last updated: 2026-09-12T10:23:14+07:00 -->
 ## 🙏 Credits
 
 - [DevEclipse](https://github.com/DevEclipse1) — Original project inspiration
