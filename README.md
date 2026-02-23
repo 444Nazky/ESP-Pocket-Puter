@@ -50,7 +50,6 @@
 |---------|-------------|
 | 📡 Frequency Scanner | Identify unknown RF signals |
 | 🔒 Jammer | *⚠️ Use responsibly — illegal in most countries* |
-<!-- Updated: 2026-09-12T10:31:19+07:00 -->
 | 📥 Code Grabber | Capture & replay RF signals |
 | 🚗 Tesla Port Opener | Open Tesla charge ports |
 
@@ -92,6 +91,7 @@
 - ESP32-C3 board (or any ESP32 variant)
 
 ### Installation
+<!-- Updated: 2026-09-12T10:31:19+07:00 -->
 
 ```bash
 # 1. Clone the repository
