@@ -137,6 +137,7 @@ ESP-Pocket-Puter/
 ---
 
 ## 🎨 Screenshots
+<!-- Updated: 2026-09-12T10:31:19+07:00 -->
 
 <details>
 <summary>📸 Click to view gallery</summary>
@@ -159,7 +160,6 @@ Contributions welcome! Please follow these style rules:
 
 | Type | Convention | Example |
 |------|------------|---------|
-<!-- Updated: 2026-09-12T10:31:19+07:00 -->
 | Variables | `snake_case` | `my_variable` |
 | Global Functions | `PascalCase` | `SPI_Test()` |
 | Class Methods | `PascalCase` | `AddItem()` |
