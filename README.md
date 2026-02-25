@@ -53,7 +53,6 @@
 | 📥 Code Grabber | Capture & replay RF signals |
 | 🚗 Tesla Port Opener | Open Tesla charge ports |
 
-<!-- Updated: 2026-09-12T10:31:19+07:00 -->
 ### 🎵 Music Module
 - 🔊 Beep Test
 - 🎵 Built-in Songs (DOOM, Nokia, Tetris)
@@ -160,6 +159,7 @@ Contributions welcome! Please follow these style rules:
 
 | Type | Convention | Example |
 |------|------------|---------|
+<!-- Updated: 2026-09-12T10:31:19+07:00 -->
 | Variables | `snake_case` | `my_variable` |
 | Global Functions | `PascalCase` | `SPI_Test()` |
 | Class Methods | `PascalCase` | `AddItem()` |
