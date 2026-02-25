@@ -122,6 +122,7 @@ ESP-Pocket-Puter/
 ├── src/
 │   ├── main.cpp          # Entry point
 │   ├── global.hpp        # Pin definitions & config
+<!-- Last updated: 2026-09-12T10:13:31+07:00 -->
 │   ├── menu/             # Menu system
 │   ├── wifi/             # WiFi module
 │   ├── bluetooth/        # Bluetooth module
@@ -183,7 +184,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 - [DevEclipse](https://github.com/DevEclipse1) — Original project inspiration
 - [Flipper Zero](https://flipperzero.one/) — Feature inspiration
-<!-- Last updated: 2026-09-12T10:13:31+07:00 -->
 
 ---
 
