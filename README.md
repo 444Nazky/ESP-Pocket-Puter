@@ -56,7 +56,6 @@
 ### 🎵 Music Module
 - 🔊 Beep Test
 - 🎵 Built-in Songs (DOOM, Nokia, Tetris)
-<!-- Last updated: 2026-09-12T10:13:31+07:00 -->
 - 🎹 Mini 3-Key Piano
 
 ---
@@ -72,6 +71,7 @@
 | CC1101 RF Module | 433MHz+ RF support |
 | Passive Buzzer | Audio output |
 | 3x Buttons | Input (Up/Ok/Down) |
+<!-- Last updated: 2026-09-12T10:13:31+07:00 -->
 | LiPo Battery + Protection | Portable power |
 
 ### Pinout
