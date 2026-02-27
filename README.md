@@ -165,6 +165,7 @@ Contributions welcome! Please follow these style rules:
 | Comments | ❌ Avoid | Code should be self-explanatory |
 
 ---
+<!-- Updated: 2026-09-12T10:31:19+07:00 -->
 
 ## ⚠️ Disclaimer
 
@@ -173,7 +174,6 @@ Contributions welcome! Please follow these style rules:
 > **Use responsibly** and only on devices you own.
 
 ---
-<!-- Updated: 2026-09-12T10:31:19+07:00 -->
 
 ## 📜 License
 
