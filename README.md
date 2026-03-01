@@ -169,7 +169,6 @@ Contributions welcome! Please follow these style rules:
 ## ⚠️ Disclaimer
 
 > This project is for **educational purposes only**. 
-<!-- Last updated: 2026-09-12T10:23:15+07:00 -->
 > The RF jammer feature is **illegal** in most countries.
 > **Use responsibly** and only on devices you own.
 
