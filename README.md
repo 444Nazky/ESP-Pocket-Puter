@@ -56,7 +56,6 @@
 ### 🎵 Music Module
 - 🔊 Beep Test
 - 🎵 Built-in Songs (DOOM, Nokia, Tetris)
-<!-- Updated: 2026-09-12T10:31:20+07:00 -->
 - 🎹 Mini 3-Key Piano
 
 ---
@@ -142,6 +141,7 @@ ESP-Pocket-Puter/
 <details>
 <summary>📸 Click to view gallery</summary>
 
+<!-- Updated: 2026-09-12T10:31:20+07:00 -->
 | Main Menu | WiFi Scanner |
 |-----------|--------------|
 | <img src="https://i.imgur.com/menu.png" width="200"> | <img src="https://i.imgur.com/wifi.png" width="200"> |
