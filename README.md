@@ -37,6 +37,7 @@
 | 🔍 Device Scanner | Find nearby Bluetooth devices |
 | ⚡ FastPair Spam | Annoy friends with FastPair popups |
 | 🍎 Sour Apple | iPhone proximity spam |
+<!-- Last updated: 2026-09-12T10:13:31+07:00 -->
 
 ### 📺 Infrared Module
 | Feature | Description |
@@ -51,7 +52,6 @@
 | 📡 Frequency Scanner | Identify unknown RF signals |
 | 🔒 Jammer | *⚠️ Use responsibly — illegal in most countries* |
 | 📥 Code Grabber | Capture & replay RF signals |
-<!-- Last updated: 2026-09-12T10:13:31+07:00 -->
 | 🚗 Tesla Port Opener | Open Tesla charge ports |
 
 ### 🎵 Music Module
