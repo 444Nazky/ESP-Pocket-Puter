@@ -77,7 +77,6 @@
 ```cpp
 // Full pin definitions in src/global.hpp
 // Easy to customize for your setup!
-<!-- Updated: 2026-09-12T10:31:20+07:00 -->
 ```
 
 ### Wiring Diagram
@@ -156,6 +155,7 @@ ESP-Pocket-Puter/
 
 ## 🤝 Contributing
 
+<!-- Updated: 2026-09-12T10:31:20+07:00 -->
 Contributions welcome! Please follow these style rules:
 
 | Type | Convention | Example |
