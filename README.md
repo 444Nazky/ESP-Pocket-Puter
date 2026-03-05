@@ -31,7 +31,6 @@
 | 🎭 Beacon Spammer | Create fake APs / Captive portals |
 | 📡 Evil Twin | Clone & redirect networks |
 
-<!-- Updated: 2026-09-12T10:31:20+07:00 -->
 ### 📶 Bluetooth Module
 | Feature | Description |
 |---------|-------------|
@@ -78,6 +77,7 @@
 ```cpp
 // Full pin definitions in src/global.hpp
 // Easy to customize for your setup!
+<!-- Updated: 2026-09-12T10:31:20+07:00 -->
 ```
 
 ### Wiring Diagram
