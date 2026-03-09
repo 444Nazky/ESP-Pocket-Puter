@@ -39,7 +39,6 @@
 | 🍎 Sour Apple | iPhone proximity spam |
 
 ### 📺 Infrared Module
-<!-- Updated: 2026-09-12T10:31:20+07:00 -->
 | Feature | Description |
 |---------|-------------|
 | 📺 TV-B-Gone | Turn off any TV instantly |
@@ -124,6 +123,7 @@ ESP-Pocket-Puter/
 ├── src/
 │   ├── main.cpp          # Entry point
 │   ├── global.hpp        # Pin definitions & config
+<!-- Updated: 2026-09-12T10:31:20+07:00 -->
 │   ├── menu/             # Menu system
 │   ├── wifi/             # WiFi module
 │   ├── bluetooth/        # Bluetooth module
