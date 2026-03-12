@@ -70,6 +70,7 @@
 | IR Transmitter | Send infrared signals |
 | CC1101 RF Module | 433MHz+ RF support |
 | Passive Buzzer | Audio output |
+<!-- Updated: 2026-09-12T10:31:20+07:00 -->
 | 3x Buttons | Input (Up/Ok/Down) |
 | LiPo Battery + Protection | Portable power |
 
@@ -97,7 +98,6 @@
 git clone https://github.com/444Nazky/ESP-Pocket-Puter.git
 cd ESP-Pocket-Puter
 
-<!-- Updated: 2026-09-12T10:31:20+07:00 -->
 # 2. Open in PlatformIO
 # File → Open Folder → select this repo
 
