@@ -97,6 +97,7 @@
 git clone https://github.com/444Nazky/ESP-Pocket-Puter.git
 cd ESP-Pocket-Puter
 
+<!-- Updated: 2026-09-12T10:31:20+07:00 -->
 # 2. Open in PlatformIO
 # File → Open Folder → select this repo
 
@@ -108,7 +109,6 @@ pio run --target upload
 ```
 
 ### First Boot
-<!-- Updated: 2026-09-12T10:31:20+07:00 -->
 1. Power on the device
 2. Navigate the menu with Up/Down buttons
 3. Press Ok to select
