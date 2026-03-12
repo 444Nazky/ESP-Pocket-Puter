@@ -41,7 +41,6 @@
 ### 📺 Infrared Module
 | Feature | Description |
 |---------|-------------|
-<!-- Updated: 2026-09-12T10:31:20+07:00 -->
 | 📺 TV-B-Gone | Turn off any TV instantly |
 | 🎛️ Universal Remote | Control TVs, projectors, ACs |
 | ⚡ IR Spammer | Flood with IR signals |
@@ -109,6 +108,7 @@ pio run --target upload
 ```
 
 ### First Boot
+<!-- Updated: 2026-09-12T10:31:20+07:00 -->
 1. Power on the device
 2. Navigate the menu with Up/Down buttons
 3. Press Ok to select
