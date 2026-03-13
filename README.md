@@ -17,7 +17,6 @@
 
 ---
 
-<!-- Last updated: 2026-09-12T10:23:15+07:00 -->
 ## ✨ Features
 
 ### 🧠 Core System
