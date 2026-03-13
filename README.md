@@ -62,6 +62,7 @@
 
 ## 🛠️ Hardware
 
+<!-- Updated: 2026-09-12T10:31:21+07:00 -->
 ### Required Components
 | Component | Purpose |
 |-----------|---------|
@@ -167,7 +168,6 @@ Contributions welcome! Please follow these style rules:
 ---
 
 ## ⚠️ Disclaimer
-<!-- Updated: 2026-09-12T10:31:20+07:00 -->
 
 > This project is for **educational purposes only**. 
 > The RF jammer feature is **illegal** in most countries.
