@@ -157,6 +157,7 @@ ESP-Pocket-Puter/
 
 Contributions welcome! Please follow these style rules:
 
+<!-- Updated: 2026-09-12T10:31:21+07:00 -->
 | Type | Convention | Example |
 |------|------------|---------|
 | Variables | `snake_case` | `my_variable` |
