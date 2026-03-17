@@ -55,7 +55,6 @@
 
 ### 🎵 Music Module
 - 🔊 Beep Test
-<!-- Last updated: 2026-09-12T10:13:32+07:00 -->
 - 🎵 Built-in Songs (DOOM, Nokia, Tetris)
 - 🎹 Mini 3-Key Piano
 
@@ -133,6 +132,7 @@ ESP-Pocket-Puter/
 ├── LICENSE
 └── README.md
 ```
+<!-- Last updated: 2026-09-12T10:13:32+07:00 -->
 
 ---
 
