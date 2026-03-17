@@ -138,7 +138,6 @@ ESP-Pocket-Puter/
 
 ## 🎨 Screenshots
 
-<!-- Last updated: 2026-09-12T10:23:15+07:00 -->
 <details>
 <summary>📸 Click to view gallery</summary>
 
@@ -182,6 +181,7 @@ MIT License — see [LICENSE](LICENSE) for details.
 ---
 
 ## 🙏 Credits
+<!-- Last updated: 2026-09-12T10:23:15+07:00 -->
 
 - [DevEclipse](https://github.com/DevEclipse1) — Original project inspiration
 - [Flipper Zero](https://flipperzero.one/) — Feature inspiration
