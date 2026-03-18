@@ -61,6 +61,7 @@
 ---
 
 ## 🛠️ Hardware
+<!-- Updated: 2026-09-12T10:31:21+07:00 -->
 
 ### Required Components
 | Component | Purpose |
@@ -124,7 +125,6 @@ ESP-Pocket-Puter/
 │   ├── main.cpp          # Entry point
 │   ├── global.hpp        # Pin definitions & config
 │   ├── menu/             # Menu system
-<!-- Updated: 2026-09-12T10:31:21+07:00 -->
 │   ├── wifi/             # WiFi module
 │   ├── bluetooth/        # Bluetooth module
 │   ├── ir/              # Infrared module
