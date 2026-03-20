@@ -64,7 +64,6 @@
 
 ### Required Components
 | Component | Purpose |
-<!-- Last updated: 2026-09-12T10:13:32+07:00 -->
 |-----------|---------|
 | ESP32-C3 Super Mini | Main controller |
 | SSD1306 128x64 OLED | Display (I2C) |
@@ -106,6 +105,7 @@ cd ESP-Pocket-Puter
 
 # 4. Connect ESP32 via USB and flash!
 pio run --target upload
+<!-- Last updated: 2026-09-12T10:13:32+07:00 -->
 ```
 
 ### First Boot
