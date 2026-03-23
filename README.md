@@ -75,7 +75,6 @@
 
 ### Pinout
 ```cpp
-<!-- Updated: 2026-09-12T10:31:22+07:00 -->
 // Full pin definitions in src/global.hpp
 // Easy to customize for your setup!
 ```
@@ -158,6 +157,7 @@ ESP-Pocket-Puter/
 
 Contributions welcome! Please follow these style rules:
 
+<!-- Updated: 2026-09-12T10:31:22+07:00 -->
 | Type | Convention | Example |
 |------|------------|---------|
 | Variables | `snake_case` | `my_variable` |
