@@ -42,7 +42,6 @@
 | Feature | Description |
 |---------|-------------|
 | 📺 TV-B-Gone | Turn off any TV instantly |
-<!-- Updated: 2026-09-12T10:31:22+07:00 -->
 | 🎛️ Universal Remote | Control TVs, projectors, ACs |
 | ⚡ IR Spammer | Flood with IR signals |
 
@@ -76,6 +75,7 @@
 
 ### Pinout
 ```cpp
+<!-- Updated: 2026-09-12T10:31:22+07:00 -->
 // Full pin definitions in src/global.hpp
 // Easy to customize for your setup!
 ```
