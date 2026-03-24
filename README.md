@@ -49,6 +49,7 @@
 | Feature | Description |
 |---------|-------------|
 | 📡 Frequency Scanner | Identify unknown RF signals |
+<!-- Last updated: 2026-09-12T10:13:33+07:00 -->
 | 🔒 Jammer | *⚠️ Use responsibly — illegal in most countries* |
 | 📥 Code Grabber | Capture & replay RF signals |
 | 🚗 Tesla Port Opener | Open Tesla charge ports |
@@ -93,7 +94,6 @@
 ### Installation
 
 ```bash
-<!-- Last updated: 2026-09-12T10:13:32+07:00 -->
 # 1. Clone the repository
 git clone https://github.com/444Nazky/ESP-Pocket-Puter.git
 cd ESP-Pocket-Puter
