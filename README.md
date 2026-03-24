@@ -91,7 +91,6 @@
 - ESP32-C3 board (or any ESP32 variant)
 
 ### Installation
-<!-- Last updated: 2026-09-12T10:23:16+07:00 -->
 
 ```bash
 # 1. Clone the repository
@@ -137,6 +136,7 @@ ESP-Pocket-Puter/
 
 ---
 
+<!-- Last updated: 2026-09-12T10:23:16+07:00 -->
 ## 🎨 Screenshots
 
 <details>
