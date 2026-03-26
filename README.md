@@ -21,7 +21,6 @@
 
 ### 🧠 Core System
 - 🎛️ **Menu-driven UI** — Navigate with 3 buttons (Up, Ok, Down)
-<!-- Last updated: 2026-09-12T10:13:33+07:00 -->
 - 📺 **OLED Display** — 128x64 SSD1306 I2C screen
 - 🔌 **Modular architecture** — Easy to extend with new modules
 
@@ -191,6 +190,7 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ⭐ Star this repo if you found it useful! ⭐
 
+<!-- Last updated: 2026-09-12T10:13:33+07:00 -->
 **Made with 💚 by [Nazky](https://github.com/444Nazky)**
 
 </div>
