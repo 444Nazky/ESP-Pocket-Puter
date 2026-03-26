@@ -21,6 +21,7 @@
 
 ### 🧠 Core System
 - 🎛️ **Menu-driven UI** — Navigate with 3 buttons (Up, Ok, Down)
+<!-- Last updated: 2026-09-12T10:13:33+07:00 -->
 - 📺 **OLED Display** — 128x64 SSD1306 I2C screen
 - 🔌 **Modular architecture** — Easy to extend with new modules
 
@@ -110,7 +111,6 @@ pio run --target upload
 ### First Boot
 1. Power on the device
 2. Navigate the menu with Up/Down buttons
-<!-- Last updated: 2026-09-12T10:13:33+07:00 -->
 3. Press Ok to select
 4. Long-press Ok for submenus
 
