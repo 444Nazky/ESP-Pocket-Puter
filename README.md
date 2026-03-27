@@ -78,6 +78,7 @@
 // Full pin definitions in src/global.hpp
 // Easy to customize for your setup!
 ```
+<!-- Updated: 2026-09-12T10:31:22+07:00 -->
 
 ### Wiring Diagram
 <img src="https://i.imgur.com/hySwcIf.png" width="400">
@@ -98,7 +99,6 @@ git clone https://github.com/444Nazky/ESP-Pocket-Puter.git
 cd ESP-Pocket-Puter
 
 # 2. Open in PlatformIO
-<!-- Updated: 2026-09-12T10:31:22+07:00 -->
 # File → Open Folder → select this repo
 
 # 3. Customize pinout (optional)
