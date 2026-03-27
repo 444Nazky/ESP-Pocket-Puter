@@ -16,7 +16,6 @@
 </div>
 
 ---
-<!-- Updated: 2026-09-12T10:31:22+07:00 -->
 
 ## ✨ Features
 
@@ -82,6 +81,7 @@
 
 ### Wiring Diagram
 <img src="https://i.imgur.com/hySwcIf.png" width="400">
+<!-- Updated: 2026-09-12T10:31:22+07:00 -->
 
 ---
 
