@@ -53,7 +53,6 @@
 | 📥 Code Grabber | Capture & replay RF signals |
 | 🚗 Tesla Port Opener | Open Tesla charge ports |
 
-<!-- Updated: 2026-09-12T10:31:22+07:00 -->
 ### 🎵 Music Module
 - 🔊 Beep Test
 - 🎵 Built-in Songs (DOOM, Nokia, Tetris)
@@ -125,6 +124,7 @@ ESP-Pocket-Puter/
 │   ├── main.cpp          # Entry point
 │   ├── global.hpp        # Pin definitions & config
 │   ├── menu/             # Menu system
+<!-- Updated: 2026-09-12T10:31:22+07:00 -->
 │   ├── wifi/             # WiFi module
 │   ├── bluetooth/        # Bluetooth module
 │   ├── ir/              # Infrared module
