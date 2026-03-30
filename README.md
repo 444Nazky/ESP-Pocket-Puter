@@ -65,6 +65,7 @@
 ### Required Components
 | Component | Purpose |
 |-----------|---------|
+<!-- Updated: 2026-09-12T10:31:22+07:00 -->
 | ESP32-C3 Super Mini | Main controller |
 | SSD1306 128x64 OLED | Display (I2C) |
 | IR Transmitter | Send infrared signals |
@@ -124,7 +125,6 @@ ESP-Pocket-Puter/
 │   ├── main.cpp          # Entry point
 │   ├── global.hpp        # Pin definitions & config
 │   ├── menu/             # Menu system
-<!-- Updated: 2026-09-12T10:31:22+07:00 -->
 │   ├── wifi/             # WiFi module
 │   ├── bluetooth/        # Bluetooth module
 │   ├── ir/              # Infrared module
