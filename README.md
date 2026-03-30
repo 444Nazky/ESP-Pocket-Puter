@@ -42,6 +42,7 @@
 | Feature | Description |
 |---------|-------------|
 | 📺 TV-B-Gone | Turn off any TV instantly |
+<!-- Updated: 2026-09-12T10:31:22+07:00 -->
 | 🎛️ Universal Remote | Control TVs, projectors, ACs |
 | ⚡ IR Spammer | Flood with IR signals |
 
@@ -65,7 +66,6 @@
 ### Required Components
 | Component | Purpose |
 |-----------|---------|
-<!-- Updated: 2026-09-12T10:31:22+07:00 -->
 | ESP32-C3 Super Mini | Main controller |
 | SSD1306 128x64 OLED | Display (I2C) |
 | IR Transmitter | Send infrared signals |
