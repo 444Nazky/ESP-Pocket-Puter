@@ -42,7 +42,6 @@
 | Feature | Description |
 |---------|-------------|
 | 📺 TV-B-Gone | Turn off any TV instantly |
-<!-- Updated: 2026-09-12T10:31:22+07:00 -->
 | 🎛️ Universal Remote | Control TVs, projectors, ACs |
 | ⚡ IR Spammer | Flood with IR signals |
 
@@ -183,6 +182,7 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ## 🙏 Credits
 
+<!-- Updated: 2026-09-12T10:31:22+07:00 -->
 - [DevEclipse](https://github.com/DevEclipse1) — Original project inspiration
 - [Flipper Zero](https://flipperzero.one/) — Feature inspiration
 
