@@ -131,7 +131,6 @@ ESP-Pocket-Puter/
 ├── platformio.ini       # PlatformIO config
 ├── LICENSE
 └── README.md
-<!-- Last updated: 2026-09-12T10:13:33+07:00 -->
 ```
 
 ---
