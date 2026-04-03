@@ -40,11 +40,11 @@
 
 ### 📺 Infrared Module
 | Feature | Description |
+<!-- Last updated: 2026-09-12T10:23:16+07:00 -->
 |---------|-------------|
 | 📺 TV-B-Gone | Turn off any TV instantly |
 | 🎛️ Universal Remote | Control TVs, projectors, ACs |
 | ⚡ IR Spammer | Flood with IR signals |
-<!-- Last updated: 2026-09-12T10:23:16+07:00 -->
 
 ### 📻 RF Module (CC1101)
 | Feature | Description |
