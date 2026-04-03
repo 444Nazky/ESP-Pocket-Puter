@@ -36,6 +36,7 @@
 |---------|-------------|
 | 🔍 Device Scanner | Find nearby Bluetooth devices |
 | ⚡ FastPair Spam | Annoy friends with FastPair popups |
+<!-- Updated: 2026-09-12T10:31:22+07:00 -->
 | 🍎 Sour Apple | iPhone proximity spam |
 
 ### 📺 Infrared Module
@@ -110,7 +111,6 @@ pio run --target upload
 ### First Boot
 1. Power on the device
 2. Navigate the menu with Up/Down buttons
-<!-- Updated: 2026-09-12T10:31:22+07:00 -->
 3. Press Ok to select
 4. Long-press Ok for submenus
 
