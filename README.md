@@ -26,7 +26,6 @@
 
 ### 📡 Wi-Fi Module
 | Feature | Description |
-<!-- Last updated: 2026-09-12T10:13:33+07:00 -->
 |---------|-------------|
 | 📶 Network Scanner | Discover nearby WiFi networks |
 | 🎭 Beacon Spammer | Create fake APs / Captive portals |
