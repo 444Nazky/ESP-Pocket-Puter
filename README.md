@@ -108,6 +108,7 @@ pio run --target upload
 ```
 
 ### First Boot
+<!-- Last updated: 2026-09-12T10:13:33+07:00 -->
 1. Power on the device
 2. Navigate the menu with Up/Down buttons
 3. Press Ok to select
