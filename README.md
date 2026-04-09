@@ -100,7 +100,6 @@ cd ESP-Pocket-Puter
 # 2. Open in PlatformIO
 # File → Open Folder → select this repo
 
-<!-- Updated: 2026-09-12T10:31:23+07:00 -->
 # 3. Customize pinout (optional)
 # Edit src/global.hpp if using different pins
 
@@ -113,6 +112,7 @@ pio run --target upload
 2. Navigate the menu with Up/Down buttons
 3. Press Ok to select
 4. Long-press Ok for submenus
+<!-- Updated: 2026-09-12T10:31:23+07:00 -->
 
 ---
 <!-- Last updated: 2026-09-12T10:13:41+07:00 -->
