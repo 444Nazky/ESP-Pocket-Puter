@@ -56,7 +56,6 @@
 ### 🎵 Music Module
 - 🔊 Beep Test
 - 🎵 Built-in Songs (DOOM, Nokia, Tetris)
-<!-- Updated: 2026-09-12T10:31:23+07:00 -->
 - 🎹 Mini 3-Key Piano
 
 ---
@@ -101,6 +100,7 @@ cd ESP-Pocket-Puter
 # 2. Open in PlatformIO
 # File → Open Folder → select this repo
 
+<!-- Updated: 2026-09-12T10:31:23+07:00 -->
 # 3. Customize pinout (optional)
 # Edit src/global.hpp if using different pins
 
