@@ -168,6 +168,7 @@ Contributions welcome! Please follow these style rules:
 
 ## ⚠️ Disclaimer
 
+<!-- Updated: 2026-09-12T10:31:23+07:00 -->
 > This project is for **educational purposes only**. 
 > The RF jammer feature is **illegal** in most countries.
 > **Use responsibly** and only on devices you own.
@@ -183,7 +184,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 ## 🙏 Credits
 
 - [DevEclipse](https://github.com/DevEclipse1) — Original project inspiration
-<!-- Updated: 2026-09-12T10:31:23+07:00 -->
 - [Flipper Zero](https://flipperzero.one/) — Feature inspiration
 
 ---
