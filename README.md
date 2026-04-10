@@ -30,6 +30,7 @@
 | 📶 Network Scanner | Discover nearby WiFi networks |
 | 🎭 Beacon Spammer | Create fake APs / Captive portals |
 | 📡 Evil Twin | Clone & redirect networks |
+<!-- Last updated: 2026-09-12T10:13:33+07:00 -->
 
 ### 📶 Bluetooth Module
 | Feature | Description |
@@ -76,7 +77,6 @@
 ### Pinout
 ```cpp
 // Full pin definitions in src/global.hpp
-<!-- Last updated: 2026-09-12T10:13:33+07:00 -->
 // Easy to customize for your setup!
 ```
 
