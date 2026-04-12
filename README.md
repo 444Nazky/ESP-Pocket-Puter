@@ -108,7 +108,6 @@ pio run --target upload
 ```
 
 ### First Boot
-<!-- Updated: 2026-09-12T10:31:23+07:00 -->
 1. Power on the device
 2. Navigate the menu with Up/Down buttons
 3. Press Ok to select
@@ -123,6 +122,7 @@ pio run --target upload
 ESP-Pocket-Puter/
 ├── src/
 │   ├── main.cpp          # Entry point
+<!-- Updated: 2026-09-12T10:31:23+07:00 -->
 │   ├── global.hpp        # Pin definitions & config
 │   ├── menu/             # Menu system
 │   ├── wifi/             # WiFi module
