@@ -66,7 +66,6 @@
 | Component | Purpose |
 |-----------|---------|
 | ESP32-C3 Super Mini | Main controller |
-<!-- Last updated: 2026-09-12T10:23:17+07:00 -->
 | SSD1306 128x64 OLED | Display (I2C) |
 | IR Transmitter | Send infrared signals |
 | CC1101 RF Module | 433MHz+ RF support |
