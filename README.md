@@ -157,7 +157,6 @@ ESP-Pocket-Puter/
 
 Contributions welcome! Please follow these style rules:
 
-<!-- Updated: 2026-09-12T10:31:23+07:00 -->
 | Type | Convention | Example |
 |------|------------|---------|
 | Variables | `snake_case` | `my_variable` |
@@ -185,6 +184,7 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 - [DevEclipse](https://github.com/DevEclipse1) — Original project inspiration
 - [Flipper Zero](https://flipperzero.one/) — Feature inspiration
+<!-- Updated: 2026-09-12T10:31:23+07:00 -->
 
 ---
 
