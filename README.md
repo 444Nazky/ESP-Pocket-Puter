@@ -95,7 +95,6 @@
 ```bash
 # 1. Clone the repository
 git clone https://github.com/444Nazky/ESP-Pocket-Puter.git
-<!-- Last updated: 2026-09-12T10:13:34+07:00 -->
 cd ESP-Pocket-Puter
 
 # 2. Open in PlatformIO
@@ -112,6 +111,7 @@ pio run --target upload
 1. Power on the device
 2. Navigate the menu with Up/Down buttons
 3. Press Ok to select
+<!-- Last updated: 2026-09-12T10:13:34+07:00 -->
 4. Long-press Ok for submenus
 
 ---
