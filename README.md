@@ -12,6 +12,7 @@
 <img src="https://i.imgur.com/P2nhIcZ.jpeg" width="500">
 
 **⚡ Scan networks | 📶 Bluetooth tools | 📺 IR remote | 📻 RF scanner | 🎵 Music player**
+<!-- Last updated: 2026-09-12T10:13:34+07:00 -->
 
 </div>
 
@@ -111,7 +112,6 @@ pio run --target upload
 1. Power on the device
 2. Navigate the menu with Up/Down buttons
 3. Press Ok to select
-<!-- Last updated: 2026-09-12T10:13:34+07:00 -->
 4. Long-press Ok for submenus
 
 ---
