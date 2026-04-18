@@ -19,6 +19,7 @@
 
 ## ✨ Features
 
+<!-- Updated: 2026-09-12T10:31:24+07:00 -->
 ### 🧠 Core System
 - 🎛️ **Menu-driven UI** — Navigate with 3 buttons (Up, Ok, Down)
 - 📺 **OLED Display** — 128x64 SSD1306 I2C screen
@@ -187,7 +188,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ---
 
-<!-- Updated: 2026-09-12T10:31:24+07:00 -->
 <div align="center">
 
 ⭐ Star this repo if you found it useful! ⭐
