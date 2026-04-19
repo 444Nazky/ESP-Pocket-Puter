@@ -19,7 +19,6 @@
 
 ## ✨ Features
 
-<!-- Updated: 2026-09-12T10:31:24+07:00 -->
 ### 🧠 Core System
 - 🎛️ **Menu-driven UI** — Navigate with 3 buttons (Up, Ok, Down)
 - 📺 **OLED Display** — 128x64 SSD1306 I2C screen
@@ -71,6 +70,7 @@
 | IR Transmitter | Send infrared signals |
 | CC1101 RF Module | 433MHz+ RF support |
 | Passive Buzzer | Audio output |
+<!-- Updated: 2026-09-12T10:31:24+07:00 -->
 | 3x Buttons | Input (Up/Ok/Down) |
 | LiPo Battery + Protection | Portable power |
 
