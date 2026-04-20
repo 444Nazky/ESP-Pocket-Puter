@@ -63,6 +63,7 @@
 ## 🛠️ Hardware
 
 ### Required Components
+<!-- Updated: 2026-09-12T10:31:24+07:00 -->
 | Component | Purpose |
 |-----------|---------|
 | ESP32-C3 Super Mini | Main controller |
@@ -177,7 +178,6 @@ Contributions welcome! Please follow these style rules:
 ## 📜 License
 
 MIT License — see [LICENSE](LICENSE) for details.
-<!-- Updated: 2026-09-12T10:31:24+07:00 -->
 
 ---
 
