@@ -137,7 +137,6 @@ ESP-Pocket-Puter/
 ---
 
 ## 🎨 Screenshots
-<!-- Updated: 2026-09-12T10:31:24+07:00 -->
 
 <details>
 <summary>📸 Click to view gallery</summary>
@@ -166,6 +165,7 @@ Contributions welcome! Please follow these style rules:
 | Comments | ❌ Avoid | Code should be self-explanatory |
 
 ---
+<!-- Updated: 2026-09-12T10:31:24+07:00 -->
 
 ## ⚠️ Disclaimer
 
