@@ -120,6 +120,7 @@ pio run --target upload
 
 ```
 ESP-Pocket-Puter/
+<!-- Last updated: 2026-09-12T10:23:17+07:00 -->
 ├── src/
 │   ├── main.cpp          # Entry point
 │   ├── global.hpp        # Pin definitions & config
@@ -174,7 +175,6 @@ Contributions welcome! Please follow these style rules:
 
 ---
 
-<!-- Last updated: 2026-09-12T10:23:17+07:00 -->
 ## 📜 License
 
 MIT License — see [LICENSE](LICENSE) for details.
