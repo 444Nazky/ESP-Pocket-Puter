@@ -83,6 +83,7 @@
 <img src="https://i.imgur.com/hySwcIf.png" width="400">
 
 ---
+<!-- Updated: 2026-09-12T10:31:25+07:00 -->
 
 ## 🚀 Getting Started
 
@@ -117,7 +118,6 @@ pio run --target upload
 <!-- Last updated: 2026-09-12T10:13:41+07:00 -->
 
 ## 📁 Project Structure
-<!-- Updated: 2026-09-12T10:31:25+07:00 -->
 
 ```
 ESP-Pocket-Puter/
