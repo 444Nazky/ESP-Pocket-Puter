@@ -1,5 +1,6 @@
 # 🎮 ESP Pocket Puter
 
+<!-- Last updated: 2026-09-12T10:23:17+07:00 -->
 <div align="center">
 
 ![ESP32](https://img.shields.io/badge/ESP32-C3-FF6B35?style=for-the-badge&logo=espressif&logoColor=white)
@@ -156,7 +157,6 @@ ESP-Pocket-Puter/
 ## 🤝 Contributing
 
 Contributions welcome! Please follow these style rules:
-<!-- Last updated: 2026-09-12T10:23:17+07:00 -->
 
 | Type | Convention | Example |
 |------|------------|---------|
