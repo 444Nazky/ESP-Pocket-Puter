@@ -75,6 +75,7 @@
 
 ### Pinout
 ```cpp
+<!-- Updated: 2026-09-12T10:31:25+07:00 -->
 // Full pin definitions in src/global.hpp
 // Easy to customize for your setup!
 ```
