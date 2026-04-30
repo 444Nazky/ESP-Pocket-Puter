@@ -166,6 +166,7 @@ Contributions welcome! Please follow these style rules:
 
 ---
 
+<!-- Updated: 2026-09-12T10:31:25+07:00 -->
 ## ⚠️ Disclaimer
 
 > This project is for **educational purposes only**. 
@@ -185,7 +186,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 - [DevEclipse](https://github.com/DevEclipse1) — Original project inspiration
 - [Flipper Zero](https://flipperzero.one/) — Feature inspiration
 
-<!-- Updated: 2026-09-12T10:31:25+07:00 -->
 ---
 
 <div align="center">
