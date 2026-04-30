@@ -7,7 +7,6 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-<!-- Updated: 2026-09-12T10:31:25+07:00 -->
 *A compact ESP32-based Flipper Zero alternative with display, buttons, buzzer, infrared, and RF support.*
 
 <img src="https://i.imgur.com/P2nhIcZ.jpeg" width="500">
@@ -186,6 +185,7 @@ MIT License — see [LICENSE](LICENSE) for details.
 - [DevEclipse](https://github.com/DevEclipse1) — Original project inspiration
 - [Flipper Zero](https://flipperzero.one/) — Feature inspiration
 
+<!-- Updated: 2026-09-12T10:31:25+07:00 -->
 ---
 
 <div align="center">
