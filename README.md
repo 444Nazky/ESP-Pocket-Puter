@@ -75,7 +75,6 @@
 
 ### Pinout
 ```cpp
-<!-- Updated: 2026-09-12T10:31:25+07:00 -->
 // Full pin definitions in src/global.hpp
 // Easy to customize for your setup!
 ```
@@ -142,6 +141,7 @@ ESP-Pocket-Puter/
 <details>
 <summary>📸 Click to view gallery</summary>
 
+<!-- Updated: 2026-09-12T10:31:25+07:00 -->
 | Main Menu | WiFi Scanner |
 |-----------|--------------|
 | <img src="https://i.imgur.com/menu.png" width="200"> | <img src="https://i.imgur.com/wifi.png" width="200"> |
