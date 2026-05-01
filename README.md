@@ -45,7 +45,6 @@
 | 🎛️ Universal Remote | Control TVs, projectors, ACs |
 | ⚡ IR Spammer | Flood with IR signals |
 
-<!-- Updated: 2026-09-12T10:31:25+07:00 -->
 ### 📻 RF Module (CC1101)
 | Feature | Description |
 |---------|-------------|
@@ -111,6 +110,7 @@ pio run --target upload
 ### First Boot
 1. Power on the device
 2. Navigate the menu with Up/Down buttons
+<!-- Updated: 2026-09-12T10:31:25+07:00 -->
 3. Press Ok to select
 4. Long-press Ok for submenus
 
