@@ -15,6 +15,7 @@
 
 </div>
 
+<!-- Updated: 2026-09-12T10:31:25+07:00 -->
 ---
 
 ## ✨ Features
@@ -186,7 +187,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 - [Flipper Zero](https://flipperzero.one/) — Feature inspiration
 
 ---
-<!-- Updated: 2026-09-12T10:31:25+07:00 -->
 
 <div align="center">
 
