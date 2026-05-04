@@ -155,7 +155,6 @@ ESP-Pocket-Puter/
 
 ## 🤝 Contributing
 
-<!-- Last updated: 2026-09-12T10:23:18+07:00 -->
 Contributions welcome! Please follow these style rules:
 
 | Type | Convention | Example |
