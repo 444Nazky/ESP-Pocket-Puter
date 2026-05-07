@@ -11,7 +11,6 @@
 
 <img src="https://i.imgur.com/P2nhIcZ.jpeg" width="500">
 
-<!-- Last updated: 2026-09-12T10:13:35+07:00 -->
 **⚡ Scan networks | 📶 Bluetooth tools | 📺 IR remote | 📻 RF scanner | 🎵 Music player**
 
 </div>
