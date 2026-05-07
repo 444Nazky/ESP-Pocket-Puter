@@ -9,6 +9,7 @@
 
 *A compact ESP32-based Flipper Zero alternative with display, buttons, buzzer, infrared, and RF support.*
 
+<!-- Updated: 2026-09-12T10:31:25+07:00 -->
 <img src="https://i.imgur.com/P2nhIcZ.jpeg" width="500">
 
 **⚡ Scan networks | 📶 Bluetooth tools | 📺 IR remote | 📻 RF scanner | 🎵 Music player**
@@ -91,7 +92,6 @@
 - ESP32-C3 board (or any ESP32 variant)
 
 ### Installation
-<!-- Updated: 2026-09-12T10:31:25+07:00 -->
 
 ```bash
 # 1. Clone the repository
