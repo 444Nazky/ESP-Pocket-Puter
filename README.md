@@ -61,7 +61,6 @@
 ---
 
 ## 🛠️ Hardware
-<!-- Updated: 2026-09-12T10:31:25+07:00 -->
 
 ### Required Components
 | Component | Purpose |
@@ -92,6 +91,7 @@
 - ESP32-C3 board (or any ESP32 variant)
 
 ### Installation
+<!-- Updated: 2026-09-12T10:31:25+07:00 -->
 
 ```bash
 # 1. Clone the repository
