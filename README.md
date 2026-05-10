@@ -102,7 +102,6 @@ cd ESP-Pocket-Puter
 
 # 3. Customize pinout (optional)
 # Edit src/global.hpp if using different pins
-<!-- Last updated: 2026-09-12T10:23:18+07:00 -->
 
 # 4. Connect ESP32 via USB and flash!
 pio run --target upload
@@ -128,6 +127,7 @@ ESP-Pocket-Puter/
 │   ├── wifi/             # WiFi module
 │   ├── bluetooth/        # Bluetooth module
 │   ├── ir/              # Infrared module
+<!-- Last updated: 2026-09-12T10:23:18+07:00 -->
 │   ├── rf/              # RF module (CC1101)
 │   └── music/            # Music player
 ├── platformio.ini       # PlatformIO config
