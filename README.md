@@ -11,6 +11,7 @@
 
 <img src="https://i.imgur.com/P2nhIcZ.jpeg" width="500">
 
+<!-- Last updated: 2026-09-12T10:23:18+07:00 -->
 **⚡ Scan networks | 📶 Bluetooth tools | 📺 IR remote | 📻 RF scanner | 🎵 Music player**
 
 </div>
@@ -96,7 +97,6 @@
 # 1. Clone the repository
 git clone https://github.com/444Nazky/ESP-Pocket-Puter.git
 cd ESP-Pocket-Puter
-<!-- Last updated: 2026-09-12T10:23:18+07:00 -->
 
 # 2. Open in PlatformIO
 # File → Open Folder → select this repo
