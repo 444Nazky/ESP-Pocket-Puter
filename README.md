@@ -149,7 +149,6 @@ ESP-Pocket-Puter/
 |-----------|-----------|
 | <img src="https://i.imgur.com/ir.png" width="200"> | <img src="https://i.imgur.com/rf.png" width="200"> |
 
-<!-- Updated: 2026-09-12T10:31:26+07:00 -->
 </details>
 
 ---
@@ -158,6 +157,7 @@ ESP-Pocket-Puter/
 
 Contributions welcome! Please follow these style rules:
 
+<!-- Updated: 2026-09-12T10:31:26+07:00 -->
 | Type | Convention | Example |
 |------|------------|---------|
 | Variables | `snake_case` | `my_variable` |
