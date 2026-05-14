@@ -41,6 +41,7 @@
 ### 📺 Infrared Module
 | Feature | Description |
 |---------|-------------|
+<!-- Last updated: 2026-09-12T10:23:18+07:00 -->
 | 📺 TV-B-Gone | Turn off any TV instantly |
 | 🎛️ Universal Remote | Control TVs, projectors, ACs |
 | ⚡ IR Spammer | Flood with IR signals |
@@ -89,7 +90,6 @@
 ### Prerequisites
 - [PlatformIO IDE](https://platformio.org/install/ide?install=vscode) for VS Code
 - ESP32-C3 board (or any ESP32 variant)
-<!-- Last updated: 2026-09-12T10:23:18+07:00 -->
 
 ### Installation
 
