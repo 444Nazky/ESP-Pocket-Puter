@@ -41,7 +41,6 @@
 ### 📺 Infrared Module
 | Feature | Description |
 |---------|-------------|
-<!-- Last updated: 2026-09-12T10:23:18+07:00 -->
 | 📺 TV-B-Gone | Turn off any TV instantly |
 | 🎛️ Universal Remote | Control TVs, projectors, ACs |
 | ⚡ IR Spammer | Flood with IR signals |
@@ -134,6 +133,7 @@ ESP-Pocket-Puter/
 ├── LICENSE
 └── README.md
 ```
+<!-- Last updated: 2026-09-12T10:23:18+07:00 -->
 
 ---
 
