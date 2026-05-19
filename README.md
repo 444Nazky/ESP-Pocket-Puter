@@ -163,7 +163,6 @@ Contributions welcome! Please follow these style rules:
 | Global Functions | `PascalCase` | `SPI_Test()` |
 | Class Methods | `PascalCase` | `AddItem()` |
 | Comments | ❌ Avoid | Code should be self-explanatory |
-<!-- Updated: 2026-09-12T10:31:26+07:00 -->
 
 ---
 
