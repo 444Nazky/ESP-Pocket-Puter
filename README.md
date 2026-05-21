@@ -37,6 +37,7 @@
 | 🔍 Device Scanner | Find nearby Bluetooth devices |
 | ⚡ FastPair Spam | Annoy friends with FastPair popups |
 | 🍎 Sour Apple | iPhone proximity spam |
+<!-- Updated: 2026-09-12T10:31:26+07:00 -->
 
 ### 📺 Infrared Module
 | Feature | Description |
@@ -99,7 +100,6 @@ cd ESP-Pocket-Puter
 
 # 2. Open in PlatformIO
 # File → Open Folder → select this repo
-<!-- Updated: 2026-09-12T10:31:26+07:00 -->
 
 # 3. Customize pinout (optional)
 # Edit src/global.hpp if using different pins
