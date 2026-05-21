@@ -37,7 +37,6 @@
 | 🔍 Device Scanner | Find nearby Bluetooth devices |
 | ⚡ FastPair Spam | Annoy friends with FastPair popups |
 | 🍎 Sour Apple | iPhone proximity spam |
-<!-- Updated: 2026-09-12T10:31:26+07:00 -->
 
 ### 📺 Infrared Module
 | Feature | Description |
@@ -68,6 +67,7 @@
 |-----------|---------|
 | ESP32-C3 Super Mini | Main controller |
 | SSD1306 128x64 OLED | Display (I2C) |
+<!-- Updated: 2026-09-12T10:31:27+07:00 -->
 | IR Transmitter | Send infrared signals |
 | CC1101 RF Module | 433MHz+ RF support |
 | Passive Buzzer | Audio output |
