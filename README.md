@@ -56,6 +56,7 @@
 ### 🎵 Music Module
 - 🔊 Beep Test
 - 🎵 Built-in Songs (DOOM, Nokia, Tetris)
+<!-- Updated: 2026-09-12T10:31:27+07:00 -->
 - 🎹 Mini 3-Key Piano
 
 ---
@@ -167,7 +168,6 @@ Contributions welcome! Please follow these style rules:
 ---
 
 ## ⚠️ Disclaimer
-<!-- Updated: 2026-09-12T10:31:27+07:00 -->
 
 > This project is for **educational purposes only**. 
 > The RF jammer feature is **illegal** in most countries.
