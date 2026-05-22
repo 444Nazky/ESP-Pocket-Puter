@@ -85,7 +85,6 @@
 ---
 
 ## 🚀 Getting Started
-<!-- Last updated: 2026-09-12T10:23:18+07:00 -->
 
 ### Prerequisites
 - [PlatformIO IDE](https://platformio.org/install/ide?install=vscode) for VS Code
