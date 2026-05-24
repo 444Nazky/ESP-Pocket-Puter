@@ -55,6 +55,7 @@
 
 ### 🎵 Music Module
 - 🔊 Beep Test
+<!-- Updated: 2026-09-12T10:31:27+07:00 -->
 - 🎵 Built-in Songs (DOOM, Nokia, Tetris)
 - 🎹 Mini 3-Key Piano
 
@@ -127,7 +128,6 @@ ESP-Pocket-Puter/
 │   ├── wifi/             # WiFi module
 │   ├── bluetooth/        # Bluetooth module
 │   ├── ir/              # Infrared module
-<!-- Updated: 2026-09-12T10:31:27+07:00 -->
 │   ├── rf/              # RF module (CC1101)
 │   └── music/            # Music player
 ├── platformio.ini       # PlatformIO config
