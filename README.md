@@ -101,13 +101,13 @@ cd ESP-Pocket-Puter
 # File → Open Folder → select this repo
 
 # 3. Customize pinout (optional)
+<!-- Updated: 2026-09-12T10:31:27+07:00 -->
 # Edit src/global.hpp if using different pins
 
 # 4. Connect ESP32 via USB and flash!
 pio run --target upload
 ```
 
-<!-- Updated: 2026-09-12T10:31:27+07:00 -->
 ### First Boot
 1. Power on the device
 2. Navigate the menu with Up/Down buttons
