@@ -41,7 +41,6 @@
 ### 📺 Infrared Module
 | Feature | Description |
 |---------|-------------|
-<!-- Last updated: 2026-09-12T10:13:36+07:00 -->
 | 📺 TV-B-Gone | Turn off any TV instantly |
 | 🎛️ Universal Remote | Control TVs, projectors, ACs |
 | ⚡ IR Spammer | Flood with IR signals |
