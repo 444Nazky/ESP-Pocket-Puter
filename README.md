@@ -124,6 +124,7 @@ ESP-Pocket-Puter/
 │   ├── main.cpp          # Entry point
 │   ├── global.hpp        # Pin definitions & config
 │   ├── menu/             # Menu system
+<!-- Updated: 2026-09-12T10:31:28+07:00 -->
 │   ├── wifi/             # WiFi module
 │   ├── bluetooth/        # Bluetooth module
 │   ├── ir/              # Infrared module
@@ -159,7 +160,6 @@ Contributions welcome! Please follow these style rules:
 
 | Type | Convention | Example |
 |------|------------|---------|
-<!-- Updated: 2026-09-12T10:31:28+07:00 -->
 | Variables | `snake_case` | `my_variable` |
 | Global Functions | `PascalCase` | `SPI_Test()` |
 | Class Methods | `PascalCase` | `AddItem()` |
