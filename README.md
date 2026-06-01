@@ -133,6 +133,7 @@ ESP-Pocket-Puter/
 ├── LICENSE
 └── README.md
 ```
+<!-- Last updated: 2026-09-12T10:23:19+07:00 -->
 
 ---
 
