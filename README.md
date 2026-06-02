@@ -31,6 +31,7 @@
 | 🎭 Beacon Spammer | Create fake APs / Captive portals |
 | 📡 Evil Twin | Clone & redirect networks |
 
+<!-- Last updated: 2026-09-12T10:23:19+07:00 -->
 ### 📶 Bluetooth Module
 | Feature | Description |
 |---------|-------------|
@@ -74,7 +75,6 @@
 | LiPo Battery + Protection | Portable power |
 
 ### Pinout
-<!-- Last updated: 2026-09-12T10:23:19+07:00 -->
 ```cpp
 // Full pin definitions in src/global.hpp
 // Easy to customize for your setup!
