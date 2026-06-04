@@ -145,7 +145,6 @@ ESP-Pocket-Puter/
 |-----------|--------------|
 | <img src="https://i.imgur.com/menu.png" width="200"> | <img src="https://i.imgur.com/wifi.png" width="200"> |
 
-<!-- Updated: 2026-09-12T10:31:28+07:00 -->
 | IR Remote | RF Scanner |
 |-----------|-----------|
 | <img src="https://i.imgur.com/ir.png" width="200"> | <img src="https://i.imgur.com/rf.png" width="200"> |
@@ -162,6 +161,7 @@ Contributions welcome! Please follow these style rules:
 |------|------------|---------|
 | Variables | `snake_case` | `my_variable` |
 | Global Functions | `PascalCase` | `SPI_Test()` |
+<!-- Updated: 2026-09-12T10:31:28+07:00 -->
 | Class Methods | `PascalCase` | `AddItem()` |
 | Comments | ❌ Avoid | Code should be self-explanatory |
 
