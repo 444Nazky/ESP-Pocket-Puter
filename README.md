@@ -106,6 +106,7 @@ cd ESP-Pocket-Puter
 # 4. Connect ESP32 via USB and flash!
 pio run --target upload
 ```
+<!-- Last updated: 2026-09-12T10:13:36+07:00 -->
 
 ### First Boot
 1. Power on the device
@@ -125,7 +126,6 @@ ESP-Pocket-Puter/
 │   ├── menu/             # Menu system
 │   ├── wifi/             # WiFi module
 │   ├── bluetooth/        # Bluetooth module
-<!-- Last updated: 2026-09-12T10:13:36+07:00 -->
 │   ├── ir/              # Infrared module
 │   ├── rf/              # RF module (CC1101)
 │   └── music/            # Music player
