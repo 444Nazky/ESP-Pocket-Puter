@@ -70,7 +70,6 @@
 | IR Transmitter | Send infrared signals |
 | CC1101 RF Module | 433MHz+ RF support |
 | Passive Buzzer | Audio output |
-<!-- Updated: 2026-09-12T10:31:28+07:00 -->
 | 3x Buttons | Input (Up/Ok/Down) |
 | LiPo Battery + Protection | Portable power |
 
@@ -163,6 +162,7 @@ Contributions welcome! Please follow these style rules:
 | Variables | `snake_case` | `my_variable` |
 | Global Functions | `PascalCase` | `SPI_Test()` |
 | Class Methods | `PascalCase` | `AddItem()` |
+<!-- Updated: 2026-09-12T10:31:28+07:00 -->
 | Comments | ❌ Avoid | Code should be self-explanatory |
 
 ---
