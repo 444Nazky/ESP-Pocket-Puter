@@ -2,6 +2,7 @@
 
 <div align="center">
 
+<!-- Last updated: 2026-09-12T10:13:36+07:00 -->
 ![ESP32](https://img.shields.io/badge/ESP32-C3-FF6B35?style=for-the-badge&logo=espressif&logoColor=white)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-圆形?style=for-the-badge&logo=platformio&logoColor=fff)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -100,7 +101,6 @@ cd ESP-Pocket-Puter
 # 2. Open in PlatformIO
 # File → Open Folder → select this repo
 
-<!-- Last updated: 2026-09-12T10:13:36+07:00 -->
 # 3. Customize pinout (optional)
 # Edit src/global.hpp if using different pins
 
