@@ -21,7 +21,6 @@
 
 ### 🧠 Core System
 - 🎛️ **Menu-driven UI** — Navigate with 3 buttons (Up, Ok, Down)
-<!-- Last updated: 2026-09-12T10:23:19+07:00 -->
 - 📺 **OLED Display** — 128x64 SSD1306 I2C screen
 - 🔌 **Modular architecture** — Easy to extend with new modules
 
@@ -149,6 +148,7 @@ ESP-Pocket-Puter/
 | IR Remote | RF Scanner |
 |-----------|-----------|
 | <img src="https://i.imgur.com/ir.png" width="200"> | <img src="https://i.imgur.com/rf.png" width="200"> |
+<!-- Last updated: 2026-09-12T10:23:19+07:00 -->
 
 </details>
 
