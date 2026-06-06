@@ -49,6 +49,7 @@
 | Feature | Description |
 |---------|-------------|
 | 📡 Frequency Scanner | Identify unknown RF signals |
+<!-- Updated: 2026-09-12T10:31:28+07:00 -->
 | 🔒 Jammer | *⚠️ Use responsibly — illegal in most countries* |
 | 📥 Code Grabber | Capture & replay RF signals |
 | 🚗 Tesla Port Opener | Open Tesla charge ports |
