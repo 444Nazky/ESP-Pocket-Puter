@@ -75,7 +75,6 @@
 
 ### Pinout
 ```cpp
-<!-- Updated: 2026-09-12T10:31:28+07:00 -->
 // Full pin definitions in src/global.hpp
 // Easy to customize for your setup!
 ```
@@ -102,6 +101,7 @@ cd ESP-Pocket-Puter
 # File → Open Folder → select this repo
 
 # 3. Customize pinout (optional)
+<!-- Updated: 2026-09-12T10:31:28+07:00 -->
 # Edit src/global.hpp if using different pins
 
 # 4. Connect ESP32 via USB and flash!
