@@ -72,7 +72,6 @@
 | Passive Buzzer | Audio output |
 | 3x Buttons | Input (Up/Ok/Down) |
 | LiPo Battery + Protection | Portable power |
-<!-- Updated: 2026-09-12T10:31:28+07:00 -->
 
 ### Pinout
 ```cpp
@@ -178,6 +177,7 @@ Contributions welcome! Please follow these style rules:
 ## 📜 License
 
 MIT License — see [LICENSE](LICENSE) for details.
+<!-- Updated: 2026-09-12T10:31:28+07:00 -->
 
 ---
 
