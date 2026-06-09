@@ -58,7 +58,6 @@
 - 🎵 Built-in Songs (DOOM, Nokia, Tetris)
 - 🎹 Mini 3-Key Piano
 
-<!-- Updated: 2026-09-12T10:31:28+07:00 -->
 ---
 
 ## 🛠️ Hardware
