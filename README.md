@@ -83,6 +83,7 @@
 <img src="https://i.imgur.com/hySwcIf.png" width="400">
 
 ---
+<!-- Last updated: 2026-09-12T10:13:36+07:00 -->
 
 ## 🚀 Getting Started
 
@@ -120,7 +121,6 @@ pio run --target upload
 ```
 ESP-Pocket-Puter/
 ├── src/
-<!-- Last updated: 2026-09-12T10:13:36+07:00 -->
 │   ├── main.cpp          # Entry point
 │   ├── global.hpp        # Pin definitions & config
 │   ├── menu/             # Menu system
