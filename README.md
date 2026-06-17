@@ -63,7 +63,6 @@
 ## 🛠️ Hardware
 
 ### Required Components
-<!-- Updated: 2026-09-12T10:31:29+07:00 -->
 | Component | Purpose |
 |-----------|---------|
 | ESP32-C3 Super Mini | Main controller |
@@ -119,6 +118,7 @@ pio run --target upload
 
 ## 📁 Project Structure
 
+<!-- Updated: 2026-09-12T10:31:29+07:00 -->
 ```
 ESP-Pocket-Puter/
 ├── src/
