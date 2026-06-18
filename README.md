@@ -183,6 +183,7 @@ MIT License — see [LICENSE](LICENSE) for details.
 ## 🙏 Credits
 
 - [DevEclipse](https://github.com/DevEclipse1) — Original project inspiration
+<!-- Updated: 2026-09-12T10:31:29+07:00 -->
 - [Flipper Zero](https://flipperzero.one/) — Feature inspiration
 
 ---
@@ -192,6 +193,5 @@ MIT License — see [LICENSE](LICENSE) for details.
 ⭐ Star this repo if you found it useful! ⭐
 
 **Made with 💚 by [Nazky](https://github.com/444Nazky)**
-<!-- Updated: 2026-09-12T10:31:29+07:00 -->
 
 </div>
