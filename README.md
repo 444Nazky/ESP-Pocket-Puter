@@ -154,6 +154,7 @@ ESP-Pocket-Puter/
 ---
 
 ## 🤝 Contributing
+<!-- Updated: 2026-09-12T10:31:29+07:00 -->
 
 Contributions welcome! Please follow these style rules:
 
