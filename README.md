@@ -47,6 +47,7 @@
 
 ### 📻 RF Module (CC1101)
 | Feature | Description |
+<!-- Updated: 2026-09-12T10:31:29+07:00 -->
 |---------|-------------|
 | 📡 Frequency Scanner | Identify unknown RF signals |
 | 🔒 Jammer | *⚠️ Use responsibly — illegal in most countries* |
@@ -56,7 +57,6 @@
 ### 🎵 Music Module
 - 🔊 Beep Test
 - 🎵 Built-in Songs (DOOM, Nokia, Tetris)
-<!-- Updated: 2026-09-12T10:31:29+07:00 -->
 - 🎹 Mini 3-Key Piano
 
 ---
