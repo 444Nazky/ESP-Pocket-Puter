@@ -140,7 +140,6 @@ ESP-Pocket-Puter/
 
 <details>
 <summary>📸 Click to view gallery</summary>
-<!-- Updated: 2026-09-12T10:31:29+07:00 -->
 
 | Main Menu | WiFi Scanner |
 |-----------|--------------|
@@ -182,6 +181,7 @@ MIT License — see [LICENSE](LICENSE) for details.
 ---
 
 ## 🙏 Credits
+<!-- Updated: 2026-09-12T10:31:29+07:00 -->
 
 - [DevEclipse](https://github.com/DevEclipse1) — Original project inspiration
 - [Flipper Zero](https://flipperzero.one/) — Feature inspiration
