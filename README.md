@@ -34,7 +34,6 @@
 ### 📶 Bluetooth Module
 | Feature | Description |
 |---------|-------------|
-<!-- Updated: 2026-09-12T10:31:29+07:00 -->
 | 🔍 Device Scanner | Find nearby Bluetooth devices |
 | ⚡ FastPair Spam | Annoy friends with FastPair popups |
 | 🍎 Sour Apple | iPhone proximity spam |
@@ -123,6 +122,7 @@ pio run --target upload
 ESP-Pocket-Puter/
 ├── src/
 │   ├── main.cpp          # Entry point
+<!-- Updated: 2026-09-12T10:31:29+07:00 -->
 │   ├── global.hpp        # Pin definitions & config
 │   ├── menu/             # Menu system
 │   ├── wifi/             # WiFi module
