@@ -78,6 +78,7 @@
 // Full pin definitions in src/global.hpp
 // Easy to customize for your setup!
 ```
+<!-- Updated: 2026-09-12T10:31:30+07:00 -->
 
 ### Wiring Diagram
 <img src="https://i.imgur.com/hySwcIf.png" width="400">
@@ -167,7 +168,6 @@ Contributions welcome! Please follow these style rules:
 ---
 
 ## ⚠️ Disclaimer
-<!-- Updated: 2026-09-12T10:31:30+07:00 -->
 
 > This project is for **educational purposes only**. 
 > The RF jammer feature is **illegal** in most countries.
