@@ -1,6 +1,5 @@
 # 🎮 ESP Pocket Puter
 
-<!-- Updated: 2026-09-12T10:31:30+07:00 -->
 <div align="center">
 
 ![ESP32](https://img.shields.io/badge/ESP32-C3-FF6B35?style=for-the-badge&logo=espressif&logoColor=white)
@@ -182,6 +181,7 @@ MIT License — see [LICENSE](LICENSE) for details.
 ---
 
 ## 🙏 Credits
+<!-- Updated: 2026-09-12T10:31:30+07:00 -->
 
 - [DevEclipse](https://github.com/DevEclipse1) — Original project inspiration
 - [Flipper Zero](https://flipperzero.one/) — Feature inspiration
