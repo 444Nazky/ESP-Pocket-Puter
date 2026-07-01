@@ -1,5 +1,6 @@
 # 🎮 ESP Pocket Puter
 
+<!-- Updated: 2026-09-12T10:31:30+07:00 -->
 <div align="center">
 
 ![ESP32](https://img.shields.io/badge/ESP32-C3-FF6B35?style=for-the-badge&logo=espressif&logoColor=white)
@@ -39,7 +40,6 @@
 | 🍎 Sour Apple | iPhone proximity spam |
 
 ### 📺 Infrared Module
-<!-- Updated: 2026-09-12T10:31:30+07:00 -->
 | Feature | Description |
 |---------|-------------|
 | 📺 TV-B-Gone | Turn off any TV instantly |
