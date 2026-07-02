@@ -158,6 +158,7 @@ ESP-Pocket-Puter/
 Contributions welcome! Please follow these style rules:
 
 | Type | Convention | Example |
+<!-- Updated: 2026-09-12T10:31:30+07:00 -->
 |------|------------|---------|
 | Variables | `snake_case` | `my_variable` |
 | Global Functions | `PascalCase` | `SPI_Test()` |
@@ -182,7 +183,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ## 🙏 Credits
 
-<!-- Updated: 2026-09-12T10:31:30+07:00 -->
 - [DevEclipse](https://github.com/DevEclipse1) — Original project inspiration
 - [Flipper Zero](https://flipperzero.one/) — Feature inspiration
 
