@@ -64,6 +64,7 @@
 
 ### Required Components
 | Component | Purpose |
+<!-- Last updated: 2026-09-12T10:13:37+07:00 -->
 |-----------|---------|
 | ESP32-C3 Super Mini | Main controller |
 | SSD1306 128x64 OLED | Display (I2C) |
@@ -142,7 +143,6 @@ ESP-Pocket-Puter/
 
 | Main Menu | WiFi Scanner |
 |-----------|--------------|
-<!-- Last updated: 2026-09-12T10:13:37+07:00 -->
 | <img src="https://i.imgur.com/menu.png" width="200"> | <img src="https://i.imgur.com/wifi.png" width="200"> |
 
 | IR Remote | RF Scanner |
