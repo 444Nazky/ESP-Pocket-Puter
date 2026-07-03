@@ -105,7 +105,6 @@ cd ESP-Pocket-Puter
 
 # 4. Connect ESP32 via USB and flash!
 pio run --target upload
-<!-- Last updated: 2026-09-12T10:23:20+07:00 -->
 ```
 
 ### First Boot
@@ -185,6 +184,7 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 - [DevEclipse](https://github.com/DevEclipse1) — Original project inspiration
 - [Flipper Zero](https://flipperzero.one/) — Feature inspiration
+<!-- Last updated: 2026-09-12T10:23:20+07:00 -->
 
 ---
 
