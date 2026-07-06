@@ -79,7 +79,6 @@
 // Easy to customize for your setup!
 ```
 
-<!-- Last updated: 2026-09-12T10:13:37+07:00 -->
 ### Wiring Diagram
 <img src="https://i.imgur.com/hySwcIf.png" width="400">
 
