@@ -84,6 +84,7 @@
 
 ---
 
+<!-- Last updated: 2026-09-12T10:23:21+07:00 -->
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -146,7 +147,6 @@ ESP-Pocket-Puter/
 | <img src="https://i.imgur.com/menu.png" width="200"> | <img src="https://i.imgur.com/wifi.png" width="200"> |
 
 | IR Remote | RF Scanner |
-<!-- Last updated: 2026-09-12T10:23:21+07:00 -->
 |-----------|-----------|
 | <img src="https://i.imgur.com/ir.png" width="200"> | <img src="https://i.imgur.com/rf.png" width="200"> |
 
