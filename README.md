@@ -78,6 +78,7 @@
 // Full pin definitions in src/global.hpp
 // Easy to customize for your setup!
 ```
+<!-- Last updated: 2026-09-12T10:13:37+07:00 -->
 
 ### Wiring Diagram
 <img src="https://i.imgur.com/hySwcIf.png" width="400">
@@ -188,7 +189,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 <div align="center">
 
-<!-- Last updated: 2026-09-12T10:13:37+07:00 -->
 ⭐ Star this repo if you found it useful! ⭐
 
 **Made with 💚 by [Nazky](https://github.com/444Nazky)**
