@@ -58,7 +58,6 @@
 - 🎵 Built-in Songs (DOOM, Nokia, Tetris)
 - 🎹 Mini 3-Key Piano
 
-<!-- Last updated: 2026-09-12T10:13:38+07:00 -->
 ---
 
 ## 🛠️ Hardware
@@ -168,6 +167,7 @@ Contributions welcome! Please follow these style rules:
 
 ## ⚠️ Disclaimer
 
+<!-- Last updated: 2026-09-12T10:13:38+07:00 -->
 > This project is for **educational purposes only**. 
 > The RF jammer feature is **illegal** in most countries.
 > **Use responsibly** and only on devices you own.
