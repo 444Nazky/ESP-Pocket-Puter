@@ -57,6 +57,7 @@
 - 🔊 Beep Test
 - 🎵 Built-in Songs (DOOM, Nokia, Tetris)
 - 🎹 Mini 3-Key Piano
+<!-- Updated: 2026-09-12T10:31:31+07:00 -->
 
 ---
 
@@ -161,7 +162,6 @@ Contributions welcome! Please follow these style rules:
 |------|------------|---------|
 | Variables | `snake_case` | `my_variable` |
 | Global Functions | `PascalCase` | `SPI_Test()` |
-<!-- Updated: 2026-09-12T10:31:31+07:00 -->
 | Class Methods | `PascalCase` | `AddItem()` |
 | Comments | ❌ Avoid | Code should be self-explanatory |
 
