@@ -63,7 +63,6 @@
 ## 🛠️ Hardware
 
 ### Required Components
-<!-- Last updated: 2026-09-12T10:23:21+07:00 -->
 | Component | Purpose |
 |-----------|---------|
 | ESP32-C3 Super Mini | Main controller |
@@ -170,6 +169,7 @@ Contributions welcome! Please follow these style rules:
 ## ⚠️ Disclaimer
 
 > This project is for **educational purposes only**. 
+<!-- Last updated: 2026-09-12T10:23:21+07:00 -->
 > The RF jammer feature is **illegal** in most countries.
 > **Use responsibly** and only on devices you own.
 
