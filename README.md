@@ -63,6 +63,7 @@
 ## 🛠️ Hardware
 
 ### Required Components
+<!-- Last updated: 2026-09-12T10:23:21+07:00 -->
 | Component | Purpose |
 |-----------|---------|
 | ESP32-C3 Super Mini | Main controller |
@@ -111,7 +112,6 @@ pio run --target upload
 1. Power on the device
 2. Navigate the menu with Up/Down buttons
 3. Press Ok to select
-<!-- Last updated: 2026-09-12T10:23:21+07:00 -->
 4. Long-press Ok for submenus
 
 ---
