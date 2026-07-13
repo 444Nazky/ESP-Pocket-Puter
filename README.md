@@ -31,6 +31,7 @@
 | 🎭 Beacon Spammer | Create fake APs / Captive portals |
 | 📡 Evil Twin | Clone & redirect networks |
 
+<!-- Updated: 2026-09-12T10:31:31+07:00 -->
 ### 📶 Bluetooth Module
 | Feature | Description |
 |---------|-------------|
