@@ -64,6 +64,7 @@
 
 ### Required Components
 | Component | Purpose |
+<!-- Updated: 2026-09-12T10:31:31+07:00 -->
 |-----------|---------|
 | ESP32-C3 Super Mini | Main controller |
 | SSD1306 128x64 OLED | Display (I2C) |
