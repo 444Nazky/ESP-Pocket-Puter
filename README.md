@@ -11,7 +11,6 @@
 
 <img src="https://i.imgur.com/P2nhIcZ.jpeg" width="500">
 
-<!-- Updated: 2026-09-12T10:31:31+07:00 -->
 **⚡ Scan networks | 📶 Bluetooth tools | 📺 IR remote | 📻 RF scanner | 🎵 Music player**
 
 </div>
@@ -151,6 +150,7 @@ ESP-Pocket-Puter/
 | <img src="https://i.imgur.com/ir.png" width="200"> | <img src="https://i.imgur.com/rf.png" width="200"> |
 
 </details>
+<!-- Updated: 2026-09-12T10:31:31+07:00 -->
 
 ---
 
