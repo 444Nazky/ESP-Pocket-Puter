@@ -11,6 +11,7 @@
 
 <img src="https://i.imgur.com/P2nhIcZ.jpeg" width="500">
 
+<!-- Updated: 2026-09-12T10:31:31+07:00 -->
 **⚡ Scan networks | 📶 Bluetooth tools | 📺 IR remote | 📻 RF scanner | 🎵 Music player**
 
 </div>
@@ -188,7 +189,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 ---
 
 <div align="center">
-<!-- Updated: 2026-09-12T10:31:31+07:00 -->
 
 ⭐ Star this repo if you found it useful! ⭐
 
