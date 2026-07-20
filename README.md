@@ -118,6 +118,7 @@ pio run --target upload
 
 ## 📁 Project Structure
 
+<!-- Updated: 2026-09-12T10:31:31+07:00 -->
 ```
 ESP-Pocket-Puter/
 ├── src/
@@ -150,7 +151,6 @@ ESP-Pocket-Puter/
 | <img src="https://i.imgur.com/ir.png" width="200"> | <img src="https://i.imgur.com/rf.png" width="200"> |
 
 </details>
-<!-- Updated: 2026-09-12T10:31:31+07:00 -->
 
 ---
 
