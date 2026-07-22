@@ -31,7 +31,6 @@
 | 🎭 Beacon Spammer | Create fake APs / Captive portals |
 | 📡 Evil Twin | Clone & redirect networks |
 
-<!-- Last updated: 2026-09-12T10:23:21+07:00 -->
 ### 📶 Bluetooth Module
 | Feature | Description |
 |---------|-------------|
@@ -159,6 +158,7 @@ ESP-Pocket-Puter/
 Contributions welcome! Please follow these style rules:
 
 | Type | Convention | Example |
+<!-- Last updated: 2026-09-12T10:23:21+07:00 -->
 |------|------------|---------|
 | Variables | `snake_case` | `my_variable` |
 | Global Functions | `PascalCase` | `SPI_Test()` |
