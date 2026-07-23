@@ -20,7 +20,6 @@
 ## ✨ Features
 
 ### 🧠 Core System
-<!-- Updated: 2026-09-12T10:31:32+07:00 -->
 - 🎛️ **Menu-driven UI** — Navigate with 3 buttons (Up, Ok, Down)
 - 📺 **OLED Display** — 128x64 SSD1306 I2C screen
 - 🔌 **Modular architecture** — Easy to extend with new modules
@@ -30,6 +29,7 @@
 |---------|-------------|
 | 📶 Network Scanner | Discover nearby WiFi networks |
 | 🎭 Beacon Spammer | Create fake APs / Captive portals |
+<!-- Updated: 2026-09-12T10:31:32+07:00 -->
 | 📡 Evil Twin | Clone & redirect networks |
 
 ### 📶 Bluetooth Module
