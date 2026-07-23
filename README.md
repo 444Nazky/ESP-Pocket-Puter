@@ -29,7 +29,6 @@
 |---------|-------------|
 | 📶 Network Scanner | Discover nearby WiFi networks |
 | 🎭 Beacon Spammer | Create fake APs / Captive portals |
-<!-- Updated: 2026-09-12T10:31:32+07:00 -->
 | 📡 Evil Twin | Clone & redirect networks |
 
 ### 📶 Bluetooth Module
