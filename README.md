@@ -171,7 +171,6 @@ Contributions welcome! Please follow these style rules:
 > This project is for **educational purposes only**. 
 > The RF jammer feature is **illegal** in most countries.
 > **Use responsibly** and only on devices you own.
-<!-- Updated: 2026-09-12T10:31:32+07:00 -->
 
 ---
 
@@ -193,5 +192,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 ⭐ Star this repo if you found it useful! ⭐
 
 **Made with 💚 by [Nazky](https://github.com/444Nazky)**
+<!-- Updated: 2026-09-12T10:31:32+07:00 -->
 
 </div>
