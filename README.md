@@ -98,6 +98,7 @@ git clone https://github.com/444Nazky/ESP-Pocket-Puter.git
 cd ESP-Pocket-Puter
 
 # 2. Open in PlatformIO
+<!-- Updated: 2026-09-12T10:31:32+07:00 -->
 # File → Open Folder → select this repo
 
 # 3. Customize pinout (optional)
@@ -192,6 +193,5 @@ MIT License — see [LICENSE](LICENSE) for details.
 ⭐ Star this repo if you found it useful! ⭐
 
 **Made with 💚 by [Nazky](https://github.com/444Nazky)**
-<!-- Updated: 2026-09-12T10:31:32+07:00 -->
 
 </div>
