@@ -88,6 +88,7 @@
 
 ### Prerequisites
 - [PlatformIO IDE](https://platformio.org/install/ide?install=vscode) for VS Code
+<!-- Last updated: 2026-09-12T10:23:21+07:00 -->
 - ESP32-C3 board (or any ESP32 variant)
 
 ### Installation
