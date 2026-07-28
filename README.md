@@ -88,7 +88,6 @@
 
 ### Prerequisites
 - [PlatformIO IDE](https://platformio.org/install/ide?install=vscode) for VS Code
-<!-- Last updated: 2026-09-12T10:23:21+07:00 -->
 - ESP32-C3 board (or any ESP32 variant)
 
 ### Installation
@@ -145,6 +144,7 @@ ESP-Pocket-Puter/
 | Main Menu | WiFi Scanner |
 |-----------|--------------|
 | <img src="https://i.imgur.com/menu.png" width="200"> | <img src="https://i.imgur.com/wifi.png" width="200"> |
+<!-- Last updated: 2026-09-12T10:23:21+07:00 -->
 
 | IR Remote | RF Scanner |
 |-----------|-----------|
