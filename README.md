@@ -130,6 +130,7 @@ ESP-Pocket-Puter/
 │   ├── rf/              # RF module (CC1101)
 │   └── music/            # Music player
 ├── platformio.ini       # PlatformIO config
+<!-- Last updated: 2026-09-12T10:23:21+07:00 -->
 ├── LICENSE
 └── README.md
 ```
@@ -144,7 +145,6 @@ ESP-Pocket-Puter/
 | Main Menu | WiFi Scanner |
 |-----------|--------------|
 | <img src="https://i.imgur.com/menu.png" width="200"> | <img src="https://i.imgur.com/wifi.png" width="200"> |
-<!-- Last updated: 2026-09-12T10:23:21+07:00 -->
 
 | IR Remote | RF Scanner |
 |-----------|-----------|
