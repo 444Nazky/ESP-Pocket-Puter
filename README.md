@@ -135,11 +135,11 @@ ESP-Pocket-Puter/
 ```
 
 ---
-<!-- Updated: 2026-09-12T10:31:32+07:00 -->
 
 ## 🎨 Screenshots
 
 <details>
+<!-- Updated: 2026-09-12T10:31:32+07:00 -->
 <summary>📸 Click to view gallery</summary>
 
 | Main Menu | WiFi Scanner |
