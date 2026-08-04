@@ -67,6 +67,7 @@
 |-----------|---------|
 | ESP32-C3 Super Mini | Main controller |
 | SSD1306 128x64 OLED | Display (I2C) |
+<!-- Updated: 2026-09-12T10:31:32+07:00 -->
 | IR Transmitter | Send infrared signals |
 | CC1101 RF Module | 433MHz+ RF support |
 | Passive Buzzer | Audio output |
@@ -111,7 +112,6 @@ pio run --target upload
 1. Power on the device
 2. Navigate the menu with Up/Down buttons
 3. Press Ok to select
-<!-- Updated: 2026-09-12T10:31:32+07:00 -->
 4. Long-press Ok for submenus
 
 ---
