@@ -173,9 +173,9 @@ Contributions welcome! Please follow these style rules:
 > **Use responsibly** and only on devices you own.
 
 ---
-<!-- Updated: 2026-09-12T10:31:32+07:00 -->
 
 ## 📜 License
+<!-- Updated: 2026-09-12T10:31:33+07:00 -->
 
 MIT License — see [LICENSE](LICENSE) for details.
 
