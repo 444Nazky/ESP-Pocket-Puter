@@ -70,6 +70,7 @@
 | IR Transmitter | Send infrared signals |
 | CC1101 RF Module | 433MHz+ RF support |
 | Passive Buzzer | Audio output |
+<!-- Updated: 2026-09-12T10:31:33+07:00 -->
 | 3x Buttons | Input (Up/Ok/Down) |
 | LiPo Battery + Protection | Portable power |
 
@@ -108,7 +109,6 @@ pio run --target upload
 ```
 
 ### First Boot
-<!-- Updated: 2026-09-12T10:31:33+07:00 -->
 1. Power on the device
 2. Navigate the menu with Up/Down buttons
 3. Press Ok to select
