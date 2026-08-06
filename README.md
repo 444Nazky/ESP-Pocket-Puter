@@ -130,7 +130,6 @@ ESP-Pocket-Puter/
 │   └── music/            # Music player
 ├── platformio.ini       # PlatformIO config
 ├── LICENSE
-<!-- Last updated: 2026-09-12T10:13:39+07:00 -->
 └── README.md
 ```
 
@@ -169,6 +168,7 @@ Contributions welcome! Please follow these style rules:
 ## ⚠️ Disclaimer
 
 > This project is for **educational purposes only**. 
+<!-- Last updated: 2026-09-12T10:13:39+07:00 -->
 > The RF jammer feature is **illegal** in most countries.
 > **Use responsibly** and only on devices you own.
 
