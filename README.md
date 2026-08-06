@@ -167,6 +167,7 @@ Contributions welcome! Please follow these style rules:
 ---
 
 ## ⚠️ Disclaimer
+<!-- Last updated: 2026-09-12T10:23:22+07:00 -->
 
 > This project is for **educational purposes only**. 
 > The RF jammer feature is **illegal** in most countries.
@@ -190,7 +191,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 <div align="center">
 
 ⭐ Star this repo if you found it useful! ⭐
-<!-- Last updated: 2026-09-12T10:23:22+07:00 -->
 
 **Made with 💚 by [Nazky](https://github.com/444Nazky)**
 
