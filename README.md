@@ -70,7 +70,6 @@
 | IR Transmitter | Send infrared signals |
 | CC1101 RF Module | 433MHz+ RF support |
 | Passive Buzzer | Audio output |
-<!-- Updated: 2026-09-12T10:31:33+07:00 -->
 | 3x Buttons | Input (Up/Ok/Down) |
 | LiPo Battery + Protection | Portable power |
 
@@ -174,6 +173,7 @@ Contributions welcome! Please follow these style rules:
 > **Use responsibly** and only on devices you own.
 
 ---
+<!-- Updated: 2026-09-12T10:31:33+07:00 -->
 
 ## 📜 License
 
