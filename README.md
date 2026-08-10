@@ -23,6 +23,7 @@
 - 🎛️ **Menu-driven UI** — Navigate with 3 buttons (Up, Ok, Down)
 - 📺 **OLED Display** — 128x64 SSD1306 I2C screen
 - 🔌 **Modular architecture** — Easy to extend with new modules
+<!-- Last updated: 2026-09-12T10:23:22+07:00 -->
 
 ### 📡 Wi-Fi Module
 | Feature | Description |
