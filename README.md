@@ -28,7 +28,6 @@
 | Feature | Description |
 |---------|-------------|
 | 📶 Network Scanner | Discover nearby WiFi networks |
-<!-- Last updated: 2026-09-12T10:13:39+07:00 -->
 | 🎭 Beacon Spammer | Create fake APs / Captive portals |
 | 📡 Evil Twin | Clone & redirect networks |
 
@@ -64,6 +63,7 @@
 ## 🛠️ Hardware
 
 ### Required Components
+<!-- Last updated: 2026-09-12T10:13:39+07:00 -->
 | Component | Purpose |
 |-----------|---------|
 | ESP32-C3 Super Mini | Main controller |
