@@ -32,7 +32,6 @@
 | 📡 Evil Twin | Clone & redirect networks |
 
 ### 📶 Bluetooth Module
-<!-- Updated: 2026-09-12T10:31:33+07:00 -->
 | Feature | Description |
 |---------|-------------|
 | 🔍 Device Scanner | Find nearby Bluetooth devices |
@@ -118,6 +117,7 @@ pio run --target upload
 <!-- Last updated: 2026-09-12T10:13:41+07:00 -->
 
 ## 📁 Project Structure
+<!-- Updated: 2026-09-12T10:31:33+07:00 -->
 
 ```
 ESP-Pocket-Puter/
