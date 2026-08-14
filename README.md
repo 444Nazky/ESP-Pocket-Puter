@@ -85,7 +85,6 @@
 ---
 
 ## 🚀 Getting Started
-<!-- Last updated: 2026-09-12T10:23:22+07:00 -->
 
 ### Prerequisites
 - [PlatformIO IDE](https://platformio.org/install/ide?install=vscode) for VS Code
@@ -93,6 +92,7 @@
 
 ### Installation
 
+<!-- Last updated: 2026-09-12T10:23:22+07:00 -->
 ```bash
 # 1. Clone the repository
 git clone https://github.com/444Nazky/ESP-Pocket-Puter.git
