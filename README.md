@@ -57,6 +57,7 @@
 - 🔊 Beep Test
 - 🎵 Built-in Songs (DOOM, Nokia, Tetris)
 - 🎹 Mini 3-Key Piano
+<!-- Updated: 2026-09-12T10:31:33+07:00 -->
 
 ---
 
@@ -114,7 +115,6 @@ pio run --target upload
 4. Long-press Ok for submenus
 
 ---
-<!-- Updated: 2026-09-12T10:31:33+07:00 -->
 <!-- Last updated: 2026-09-12T10:13:41+07:00 -->
 
 ## 📁 Project Structure
