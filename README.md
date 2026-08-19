@@ -45,7 +45,6 @@
 | 🎛️ Universal Remote | Control TVs, projectors, ACs |
 | ⚡ IR Spammer | Flood with IR signals |
 
-<!-- Last updated: 2026-09-12T10:23:22+07:00 -->
 ### 📻 RF Module (CC1101)
 | Feature | Description |
 |---------|-------------|
@@ -115,6 +114,7 @@ pio run --target upload
 4. Long-press Ok for submenus
 
 ---
+<!-- Last updated: 2026-09-12T10:23:22+07:00 -->
 <!-- Last updated: 2026-09-12T10:13:41+07:00 -->
 
 ## 📁 Project Structure
