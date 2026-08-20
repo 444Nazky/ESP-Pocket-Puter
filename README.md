@@ -86,6 +86,7 @@
 
 ## 🚀 Getting Started
 
+<!-- Updated: 2026-09-12T10:31:33+07:00 -->
 ### Prerequisites
 - [PlatformIO IDE](https://platformio.org/install/ide?install=vscode) for VS Code
 - ESP32-C3 board (or any ESP32 variant)
@@ -190,7 +191,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 <div align="center">
 
 ⭐ Star this repo if you found it useful! ⭐
-<!-- Updated: 2026-09-12T10:31:33+07:00 -->
 
 **Made with 💚 by [Nazky](https://github.com/444Nazky)**
 
