@@ -187,7 +187,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ---
 
-<!-- Last updated: 2026-09-12T10:23:22+07:00 -->
 <div align="center">
 
 ⭐ Star this repo if you found it useful! ⭐
