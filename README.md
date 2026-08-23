@@ -1,6 +1,7 @@
 # 🎮 ESP Pocket Puter
 
 <div align="center">
+<!-- Updated: 2026-09-12T10:31:34+07:00 -->
 
 ![ESP32](https://img.shields.io/badge/ESP32-C3-FF6B35?style=for-the-badge&logo=espressif&logoColor=white)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-圆形?style=for-the-badge&logo=platformio&logoColor=fff)
