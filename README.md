@@ -93,12 +93,12 @@
 ### Installation
 
 ```bash
+<!-- Updated: 2026-09-12T10:31:34+07:00 -->
 # 1. Clone the repository
 git clone https://github.com/444Nazky/ESP-Pocket-Puter.git
 cd ESP-Pocket-Puter
 
 # 2. Open in PlatformIO
-<!-- Updated: 2026-09-12T10:31:34+07:00 -->
 # File → Open Folder → select this repo
 
 # 3. Customize pinout (optional)
