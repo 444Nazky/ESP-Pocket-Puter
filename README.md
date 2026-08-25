@@ -93,7 +93,6 @@
 ### Installation
 
 ```bash
-<!-- Updated: 2026-09-12T10:31:34+07:00 -->
 # 1. Clone the repository
 git clone https://github.com/444Nazky/ESP-Pocket-Puter.git
 cd ESP-Pocket-Puter
@@ -186,6 +185,7 @@ MIT License — see [LICENSE](LICENSE) for details.
 - [DevEclipse](https://github.com/DevEclipse1) — Original project inspiration
 - [Flipper Zero](https://flipperzero.one/) — Feature inspiration
 
+<!-- Updated: 2026-09-12T10:31:34+07:00 -->
 ---
 
 <div align="center">
