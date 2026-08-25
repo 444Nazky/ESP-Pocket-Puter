@@ -135,7 +135,6 @@ ESP-Pocket-Puter/
 
 ---
 
-<!-- Last updated: 2026-09-12T10:13:40+07:00 -->
 ## 🎨 Screenshots
 
 <details>
