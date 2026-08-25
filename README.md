@@ -185,10 +185,10 @@ MIT License — see [LICENSE](LICENSE) for details.
 - [DevEclipse](https://github.com/DevEclipse1) — Original project inspiration
 - [Flipper Zero](https://flipperzero.one/) — Feature inspiration
 
-<!-- Updated: 2026-09-12T10:31:34+07:00 -->
 ---
 
 <div align="center">
+<!-- Updated: 2026-09-12T10:31:34+07:00 -->
 
 ⭐ Star this repo if you found it useful! ⭐
 
