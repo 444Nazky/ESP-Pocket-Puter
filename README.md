@@ -174,6 +174,7 @@ Contributions welcome! Please follow these style rules:
 
 ---
 
+<!-- Last updated: 2026-09-12T10:23:22+07:00 -->
 ## 📜 License
 
 MIT License — see [LICENSE](LICENSE) for details.
