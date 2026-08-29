@@ -94,7 +94,6 @@
 
 ```bash
 # 1. Clone the repository
-<!-- Updated: 2026-09-12T10:31:34+07:00 -->
 git clone https://github.com/444Nazky/ESP-Pocket-Puter.git
 cd ESP-Pocket-Puter
 
@@ -155,6 +154,7 @@ ESP-Pocket-Puter/
 ---
 
 ## 🤝 Contributing
+<!-- Updated: 2026-09-12T10:31:34+07:00 -->
 
 Contributions welcome! Please follow these style rules:
 
