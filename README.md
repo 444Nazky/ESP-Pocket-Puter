@@ -154,10 +154,10 @@ ESP-Pocket-Puter/
 ---
 
 ## 🤝 Contributing
-<!-- Updated: 2026-09-12T10:31:34+07:00 -->
 
 Contributions welcome! Please follow these style rules:
 
+<!-- Updated: 2026-09-12T10:31:34+07:00 -->
 | Type | Convention | Example |
 |------|------------|---------|
 | Variables | `snake_case` | `my_variable` |
