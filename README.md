@@ -116,6 +116,7 @@ pio run --target upload
 ---
 <!-- Last updated: 2026-09-12T10:13:41+07:00 -->
 
+<!-- Updated: 2026-09-12T10:31:34+07:00 -->
 ## 📁 Project Structure
 
 ```
@@ -183,7 +184,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 ## 🙏 Credits
 
 - [DevEclipse](https://github.com/DevEclipse1) — Original project inspiration
-<!-- Updated: 2026-09-12T10:31:34+07:00 -->
 - [Flipper Zero](https://flipperzero.one/) — Feature inspiration
 
 ---
