@@ -95,7 +95,6 @@
 ```bash
 # 1. Clone the repository
 git clone https://github.com/444Nazky/ESP-Pocket-Puter.git
-<!-- Last updated: 2026-09-12T10:23:23+07:00 -->
 cd ESP-Pocket-Puter
 
 # 2. Open in PlatformIO
