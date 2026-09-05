@@ -31,7 +31,6 @@
 | 🎭 Beacon Spammer | Create fake APs / Captive portals |
 | 📡 Evil Twin | Clone & redirect networks |
 
-<!-- Updated: 2026-09-12T10:31:34+07:00 -->
 ### 📶 Bluetooth Module
 | Feature | Description |
 |---------|-------------|
@@ -172,6 +171,7 @@ Contributions welcome! Please follow these style rules:
 > This project is for **educational purposes only**. 
 > The RF jammer feature is **illegal** in most countries.
 > **Use responsibly** and only on devices you own.
+<!-- Updated: 2026-09-12T10:31:34+07:00 -->
 
 ---
 
