@@ -113,6 +113,7 @@ pio run --target upload
 3. Press Ok to select
 4. Long-press Ok for submenus
 
+<!-- Updated: 2026-09-12T10:31:34+07:00 -->
 ---
 <!-- Last updated: 2026-09-12T10:13:41+07:00 -->
 
@@ -171,7 +172,6 @@ Contributions welcome! Please follow these style rules:
 > This project is for **educational purposes only**. 
 > The RF jammer feature is **illegal** in most countries.
 > **Use responsibly** and only on devices you own.
-<!-- Updated: 2026-09-12T10:31:34+07:00 -->
 
 ---
 
