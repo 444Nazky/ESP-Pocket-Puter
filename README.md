@@ -114,6 +114,7 @@ pio run --target upload
 4. Long-press Ok for submenus
 
 ---
+<!-- Last updated: 2026-09-12T10:13:40+07:00 -->
 
 ## 📁 Project Structure
 
