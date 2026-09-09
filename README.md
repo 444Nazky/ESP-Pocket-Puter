@@ -13,6 +13,7 @@
 
 **⚡ Scan networks | 📶 Bluetooth tools | 📺 IR remote | 📻 RF scanner | 🎵 Music player**
 
+<!-- Updated: 2026-09-12T10:31:35+07:00 -->
 </div>
 
 ---
@@ -138,7 +139,6 @@ ESP-Pocket-Puter/
 
 ## 🎨 Screenshots
 
-<!-- Updated: 2026-09-12T10:31:35+07:00 -->
 <details>
 <summary>📸 Click to view gallery</summary>
 
