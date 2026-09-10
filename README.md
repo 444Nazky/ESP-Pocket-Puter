@@ -13,7 +13,6 @@
 
 **⚡ Scan networks | 📶 Bluetooth tools | 📺 IR remote | 📻 RF scanner | 🎵 Music player**
 
-<!-- Updated: 2026-09-12T10:31:35+07:00 -->
 </div>
 
 ---
@@ -49,6 +48,7 @@
 ### 📻 RF Module (CC1101)
 | Feature | Description |
 |---------|-------------|
+<!-- Updated: 2026-09-12T10:31:35+07:00 -->
 | 📡 Frequency Scanner | Identify unknown RF signals |
 | 🔒 Jammer | *⚠️ Use responsibly — illegal in most countries* |
 | 📥 Code Grabber | Capture & replay RF signals |
