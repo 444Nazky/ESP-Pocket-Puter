@@ -68,7 +68,6 @@
 | ESP32-C3 Super Mini | Main controller |
 | SSD1306 128x64 OLED | Display (I2C) |
 | IR Transmitter | Send infrared signals |
-<!-- Last updated: 2026-09-12T10:23:23+07:00 -->
 | CC1101 RF Module | 433MHz+ RF support |
 | Passive Buzzer | Audio output |
 | 3x Buttons | Input (Up/Ok/Down) |
@@ -119,6 +118,7 @@ pio run --target upload
 
 ## 📁 Project Structure
 
+<!-- Last updated: 2026-09-12T10:23:23+07:00 -->
 ```
 ESP-Pocket-Puter/
 ├── src/
