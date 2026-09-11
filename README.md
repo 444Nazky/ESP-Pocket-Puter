@@ -12,7 +12,6 @@
 <img src="https://i.imgur.com/P2nhIcZ.jpeg" width="500">
 
 **⚡ Scan networks | 📶 Bluetooth tools | 📺 IR remote | 📻 RF scanner | 🎵 Music player**
-<!-- Last updated: 2026-09-12T10:13:41+07:00 -->
 
 </div>
 
@@ -115,6 +114,7 @@ pio run --target upload
 4. Long-press Ok for submenus
 
 ---
+<!-- Last updated: 2026-09-12T10:13:41+07:00 -->
 
 ## 📁 Project Structure
 
