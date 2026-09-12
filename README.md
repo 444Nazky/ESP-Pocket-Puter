@@ -1,80 +1,195 @@
-# ESP Pocket Puter
+# 🎮 ESP Pocket Puter
 
-A compact **ESP32-based Flipper Zero alternative** with a display, buttons, buzzer, infrared transmitter, and CC1101 RF support.
+<div align="center">
 
-<img src="https://i.imgur.com/P2nhIcZ.jpeg" width="400">
+![ESP32](https://img.shields.io/badge/ESP32-C3-FF6B35?style=for-the-badge&logo=espressif&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-圆形?style=for-the-badge&logo=platformio&logoColor=fff)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
+*A compact ESP32-based Flipper Zero alternative with display, buttons, buzzer, infrared, and RF support.*
+
+<img src="https://i.imgur.com/P2nhIcZ.jpeg" width="500">
+
+**⚡ Scan networks | 📶 Bluetooth tools | 📺 IR remote | 📻 RF scanner | 🎵 Music player**
+
+</div>
 
 ---
 
 ## ✨ Features
 
-### 🧠 Core
-- Menu-driven firmware built for the ESP32 platform
-- Compact UI for display + buttons
-- Modular system (Wi-Fi, Bluetooth, IR, RF, Music)
+### 🧠 Core System
+- 🎛️ **Menu-driven UI** — Navigate with 3 buttons (Up, Ok, Down)
+- 📺 **OLED Display** — 128x64 SSD1306 I2C screen
+- 🔌 **Modular architecture** — Easy to extend with new modules
 
-### 📡 Wi-Fi
-- Scan for nearby networks  
-- Beacon spam / fake AP creation  
+### 📡 Wi-Fi Module
+| Feature | Description |
+|---------|-------------|
+| 📶 Network Scanner | Discover nearby WiFi networks |
+| 🎭 Beacon Spammer | Create fake APs / Captive portals |
+| 📡 Evil Twin | Clone & redirect networks |
 
-### 📶 Bluetooth
-- Device scanner  
-- Fastpair spam  
-- “Sour Apple” spam  
+### 📶 Bluetooth Module
+| Feature | Description |
+|---------|-------------|
+| 🔍 Device Scanner | Find nearby Bluetooth devices |
+| ⚡ FastPair Spam | Annoy friends with FastPair popups |
+| 🍎 Sour Apple | iPhone proximity spam |
 
-### 📺 Infrared
-- TV-B-Gone functionality  
-- Universal remote for TVs, projectors, etc.  
-- IR spammer (“jammer”)  
+### 📺 Infrared Module
+| Feature | Description |
+|---------|-------------|
+| 📺 TV-B-Gone | Turn off any TV instantly |
+| 🎛️ Universal Remote | Control TVs, projectors, ACs |
+| ⚡ IR Spammer | Flood with IR signals |
 
-### 📻 RF (CC1101)
-- Frequency identifier  
-- Jammer *(⚠️ illegal in most countries — use responsibly)*  
-- Scan & copy RF codes  
-- Replay saved codes  
-- Tesla charge port opener  
+### 📻 RF Module (CC1101)
+| Feature | Description |
+|---------|-------------|
+| 📡 Frequency Scanner | Identify unknown RF signals |
+| 🔒 Jammer | *⚠️ Use responsibly — illegal in most countries* |
+| 📥 Code Grabber | Capture & replay RF signals |
+| 🚗 Tesla Port Opener | Open Tesla charge ports |
 
-### 🎵 Music
-- Beep test  
-- Music player (DOOM theme, Nokia ringtone, Tetris, etc.)  
-- Mini 3-key piano  
-
----
-
-## 🧩 Hardware Requirements
-
-- ESP32-C3 super mini (any other esp32 should work)
-- SSD1306 I2C 128x64 Display
-- Buzzer (Not needed, but its fun)
-- IR Transmitter
-- CC1101 RF transceiver module  
-- Button inputs (Up, Ok, Down)  
-- Battery & Battery protection circuit (Recommended, for convenience)
-
-! Every pin definition is [Here](https://github.com/DevEclipse1/ESP-Pocket-Puter/blob/main/src/global.hpp) !
+### 🎵 Music Module
+- 🔊 Beep Test
+- 🎵 Built-in Songs (DOOM, Nokia, Tetris)
+- 🎹 Mini 3-Key Piano
 
 ---
 
-## ⚙️ Flashing
+## 🛠️ Hardware
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/444Nazky/ESP-Pocket-Puter-main
-   cd ESP-Pocket-Puter
-   ```
-2. Install platformio for vscode if you havent already
-3. Change pinouts if needed, see [The global.hpp for pin defs](https://github.com/DevEclipse1/ESP-Pocket-Puter/blob/main/src/global.hpp)
-4. Change platformio.ini if needed (if you are using a different board)
-5. Upload!
+### Required Components
+| Component | Purpose |
+|-----------|---------|
+| ESP32-C3 Super Mini | Main controller |
+| SSD1306 128x64 OLED | Display (I2C) |
+| IR Transmitter | Send infrared signals |
+| CC1101 RF Module | 433MHz+ RF support |
+| Passive Buzzer | Audio output |
+| 3x Buttons | Input (Up/Ok/Down) |
+| LiPo Battery + Protection | Portable power |
 
-## 🔌 Wiring
+### Pinout
+```cpp
+// Full pin definitions in src/global.hpp
+// Easy to customize for your setup!
+```
+
+### Wiring Diagram
 <img src="https://i.imgur.com/hySwcIf.png" width="400">
 
-## 🎗️ Contributing
+---
 
-Please follow these code style rules when contributing:
+## 🚀 Getting Started
 
-- **Variables:** use `snake_case` → example: `hello_world_variable`
-- **Global functions:** use `PascalCase` with all caps prefix if relevant → examples: `SPI_Test`, `RF_Yes`
-- **Class / struct functions:** use `PascalCase` → examples: `AddItem`, `PrintTesting`
-- **Comments:** do **not** add comments in the code
+### Prerequisites
+- [PlatformIO IDE](https://platformio.org/install/ide?install=vscode) for VS Code
+- ESP32-C3 board (or any ESP32 variant)
+
+### Installation
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/444Nazky/ESP-Pocket-Puter.git
+cd ESP-Pocket-Puter
+
+# 2. Open in PlatformIO
+# File → Open Folder → select this repo
+
+# 3. Customize pinout (optional)
+# Edit src/global.hpp if using different pins
+
+# 4. Connect ESP32 via USB and flash!
+pio run --target upload
+```
+
+### First Boot
+1. Power on the device
+2. Navigate the menu with Up/Down buttons
+3. Press Ok to select
+4. Long-press Ok for submenus
+
+---
+
+## 📁 Project Structure
+
+```
+ESP-Pocket-Puter/
+├── src/
+│   ├── main.cpp          # Entry point
+│   ├── global.hpp        # Pin definitions & config
+│   ├── menu/             # Menu system
+│   ├── wifi/             # WiFi module
+│   ├── bluetooth/        # Bluetooth module
+│   ├── ir/              # Infrared module
+│   ├── rf/              # RF module (CC1101)
+│   └── music/            # Music player
+├── platformio.ini       # PlatformIO config
+├── LICENSE
+└── README.md
+```
+
+---
+
+## 🎨 Screenshots
+
+<details>
+<summary>📸 Click to view gallery</summary>
+
+| Main Menu | WiFi Scanner |
+|-----------|--------------|
+| <img src="https://i.imgur.com/menu.png" width="200"> | <img src="https://i.imgur.com/wifi.png" width="200"> |
+
+| IR Remote | RF Scanner |
+|-----------|-----------|
+| <img src="https://i.imgur.com/ir.png" width="200"> | <img src="https://i.imgur.com/rf.png" width="200"> |
+
+</details>
+
+---
+
+## 🤝 Contributing
+
+Contributions welcome! Please follow these style rules:
+
+| Type | Convention | Example |
+|------|------------|---------|
+| Variables | `snake_case` | `my_variable` |
+| Global Functions | `PascalCase` | `SPI_Test()` |
+| Class Methods | `PascalCase` | `AddItem()` |
+| Comments | ❌ Avoid | Code should be self-explanatory |
+
+---
+
+## ⚠️ Disclaimer
+
+> This project is for **educational purposes only**. 
+> The RF jammer feature is **illegal** in most countries.
+> **Use responsibly** and only on devices you own.
+
+---
+
+## 📜 License
+
+MIT License — see [LICENSE](LICENSE) for details.
+
+---
+
+## 🙏 Credits
+
+- [DevEclipse](https://github.com/DevEclipse1) — Original project inspiration
+- [Flipper Zero](https://flipperzero.one/) — Feature inspiration
+
+---
+
+<div align="center">
+
+⭐ Star this repo if you found it useful! ⭐
+
+**Made with 💚 by [Nazky](https://github.com/444Nazky)**
+
+</div>
