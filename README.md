@@ -1,125 +1,102 @@
-# 🎮 ESP Pocket Puter
+# ESP Pocket Puter
 
 <p align="center">
 
-<a href="https://github.com/444Nazky/ESP-Pocket-Puter/stargazers"><img src="https://img.shields.io/github/stars/444Nazky/ESP-Pocket-Puter?style=social"></a>
-<a href="https://github.com/444Nazky/ESP-Pocket-Puter/network/members"><img src="https://img.shields.io/github/forks/444Nazky/ESP-Pocket-Puter?style=social"></a>
-<img src="https://img.shields.io/github/license/444Nazky/ESP-Pocket-Puter">
+<a href="https://github.com/444Nazky/ESP-Pocket-Puter/stargazers"><img src="https://img.shields.io/github/stars/444Nazky/ESP-Pocket-Puter?style=social" alt="Stars"></a>
+<a href="https://github.com/444Nazky/ESP-Pocket-Puter/network/members"><img src="https://img.shields.io/github/forks/444Nazky/ESP-Pocket-Puter?style=social" alt="Forks"></a>
+<img src="https://img.shields.io/github/license/444Nazky/ESP-Pocket-project">
 <img src="https://img.shields.io/badge/ESP32-C3-Super-Mini-FF6B35?style=flat-square&logo=espressif">
 <img src="https://img.shields.io/badge/PlatformIO-ED6D5F?style=flat-square&logo=platformio">
-<img src="https://img.shields.io/badge/PlatformIO-Build-Pass-blue">
-<img src="https://img.shields.io/badge/Contributions-Welcome-success?style=social">
 
 </p>
 
-## ⚡ What is ESP Pocket Puter?
-
-| | |
-|---|---|
-| 💡 **Ultimate ESP32 toolkit** | Pocket-sized, all-in-one device |
-| 📱 **Flipper Zero alternative** | Built with ESP32 + CC1101 |
-| 🔧 **Modular design** | WiFi, BT, IR, RF, Music |
-| 🎯 **For makers** | HackRF, DIY electronics enthusiasts |
-
-> *"Your pocket-sized ESP32 hacking companion"*
-
-## ✨ Features at a Glance
-
-| Module | Capabilities |
-|--------|-------------|
-| 📶 **WiFi** | Scanner · Beacon spam · Captive portal · Network tools |
-| 🔵 **Bluetooth** | Scanner · FastPair spam · BLE enumeration |
-| 📡 **IR Remote** | TV-B-Gone · Universal remote · AC/P rojector control |
-| 📻 **RF (CC1101)** | Frequency scanner · Code grabber · Replay · *Jammer* ⚠️ |
-| 🎵 **Music** | Songs player · Piano · Beep test |
-| 📟 **Extras** | Sub-GHz tools, SysInfo, Settings |
-
-## 🛠️ Hardware
-
-| Part | Link |
-|------|------|
-| ESP32-C3 Super Mini | [AliExpress](https://s.click.aliexpress.com/...) |
-| SSD1306 OLED 128x64 I2C | [AliExpress](https://s.click.aliexpress.com/...) |
-| CC1101 Transceiver | [AliExpress](https://s.click.aliexpress.com/...) |
-| Components list | [Bill of Materials](link/to/bom) |
-
-**Pinout:** `src/global.hpp` — edit pins to customize!
-
-## 🚀 Quick Start
-
-```bash
-# Clone
-git clone https://github.com/444Nazky/ESP-Pocket-Puter.git
-cd ESP-Pocket-Puter
-
-# Build & Flash
-pio run --target upload
-```
-
-**Requirements:** PlatformIO (`pio`) · USB cable · ESP32-C3 board
-
-## 🔧 Development
-
-```bash
-# Install deps
-pio pkg install
-
-# Build locally
-pio run
-
-# Flash
-pio run --target upload --environment esp32dev
-
-# Monitor serial
-pio device monitor
-```
-
-## 🎨 Demo
-
-| Mode | Description |
-|------|-------------|
-| Menu | Browse all modules |
-| WiFi Scan | See nearby networks |
-| IR Test | Fire TV-B-Gone |
-| RF Scan | Detect frequencies |
-
-## 📊 Stats
-
-<p align="center">
-
-| Stars | Forks | Languages |
-|-------|-------|-----------|
-| ⭐ 7 | 🍴 0 | C++ 95%+ |
-
-</p>
-
-## 📄 License
-
-MIT — do anything, just attribute.
-</p>
-
-## 🤝 Contributing
-
-PRs welcome! See [Contributing Guide](CONTRIBUTING.md).
-
-## 🙏 Thanks
-
-- [Flipper Zero](https://flipperzero.one) — concept inspiration
-- [DevEclipse/ESP-Pocket-Puter](https://github.com/DevEclipse/ESP-Pocket-Puter) — base project
-- [PlatformIO](https://platformio.org) — dev platform
-- [ESP-IDF](https://docs.espressif.com) — ESP32 framework
+A compact ESP32-based Flipper Zero alternative with WiFi, Bluetooth, IR, RF support, and more.
 
 ---
 
-<p align="center">
-<strong>Star this repo if you found it useful!</strong>
-<br><br>
-<a href="https://star-history.com/444Nazky/ESP-Pocket-Puter"><img src="https://api.star-history.com/svg?type=Org&symbol=444Nazky/ESP-Pocket-Puter" width="400">
-</a>
-</p>
+## Features
 
-<p align="center">
+### Core System
+- Menu-driven UI with 3 buttons (Up/Ok/Down)
+- 128x64 OLED display (SSD1306 I2C)
+- Modular architecture for easy extension
 
-Made with ❤️ by [444Nazky](https://github.com/444Nazky) · [Profile](https://github.com/444Nazky)
+### WiFi Module
+| Feature | Description |
+| Feature | Device scanner |
+| Beacon Spammer | Create fake APs / captive portals |
+| Network Analyzer | WiFi enumeration tools |
 
-</p>
+### Bluetooth Module
+| Feature | Description |
+|---------|-------------|
+| Device Scanner | Discover nearby BLE devices |
+| FastPair Tools | Proximity testing tools |
+
+### Infrared Module
+| Feature | Description |
+|---------|-------------|
+| TV-B-Gone | Turn off any compatible TV |
+| Universal Remote | Control TVs, projectors, AC units |
+
+### RF Module (CC1101)
+| Feature | Description |
+|---------|-------------|
+| Frequency Scanner | Identify signals |
+| Code Grabber | Capture & replay codes |
+| Tesla Opener | Open Tesla charge ports |
+
+### Music Module
+- Beep test
+- Built-in melodies
+- 3-key piano
+
+---
+
+## Hardware
+
+| Component | Purpose |
+|-----------|---------|
+| ESP32-C3 Super Mini | Main controller |
+| SSD1306 OLED 128x64 I2C | Display |
+| IR Transmitter | Send IR signals |
+| CC1101 RF Module | 433MHz+ |
+| Passive Buzzer | Audio output |
+| 3 Buttons | Input |
+
+Full pinout in `src/global.hpp` — edit for your setup.
+
+---
+
+## Quick Start
+
+```bash
+git clone https://github.com/444Nazky/ESP-Pocket-Puter.git
+cd ESP-Pocket-Puter
+pio run --target upload
+```
+
+Requirements: PlatformIO, ESP32 board, USB cable
+
+---
+
+## Development
+
+```bash
+pio pkg install          # Install dependencies
+pio run                  # Build
+pio run --target upload   # Flash
+pio device monitor        # Serial output
+```
+
+---
+
+## License
+
+MIT
+
+---
+
+## Contributing
+
+PRs welcome. Please follow code style in CONTRIBUTING.md.
